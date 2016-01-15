@@ -1,0 +1,33 @@
+// Predicates
+// observed predicates
+//*friends(Person, Person)
+// hidden predicates
+email_prefix_contain_last_name(Item)
+email_prefix_contain_first_name(Item)
+google_title_contain_last_name(Item)
+google_title_contain_first_name(Item)
+google_content_contain_last_name(Item)
+google_content_contain_all_first_char(Item)
+is_valid_email(Item)
+
+// Rules
+
+// email_prefix_contain_last_name(y) => is_valid_email(y)
+0.9  !email_prefix_contain_last_name(y) v is_valid_email(y)
+0.9  email_prefix_contain_last_name(y) v !is_valid_email(y)
+
+// email_prefix_contain_first_name(y) => is_valid_email(y)
+0.8  !email_prefix_contain_first_name(y) v is_valid_email(y)
+0.2  email_prefix_contain_first_name(y) v !is_valid_email(y)
+
+// google_content_contain_all_first_char(y) => is_valid_email(y)
+0.7  !google_content_contain_all_first_char(y) v is_valid_email(y)
+
+// google_title_contain_last_name(y) => is_valid_email(y)
+0.2  !google_title_contain_last_name(y) v is_valid_email(y)
+
+// google_title_contain_first_name(y) => is_valid_email(y)
+0.2  !google_title_contain_first_name(y) v is_valid_email(y)
+
+// google_content_contain_last_name(y) => is_valid_email(y)
+0.2  !google_content_contain_last_name(y) v is_valid_email(y)

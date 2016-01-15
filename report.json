@@ -1,0 +1,2543 @@
+{
+    "Daron Acemoglu": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "daron@mit.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel S. Weld": {
+        "abandoned_email_list": [
+            "email@cs.washington.edu"
+        ], 
+        "recommend_email_list": [
+            "weld@cs.washington.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "weld@cs.washington.edu"
+        ]
+    }, 
+    "Amos Bairoch": {
+        "abandoned_email_list": [
+            "email@isb-sib.ch", 
+            "elisabeth.gasteiger@isb-sib.ch"
+        ], 
+        "recommend_email_list": [
+            "amos.bairoch@isb-sib.ch", 
+            "bairoch@cmu.unige.ch"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "amos.bairoch@isb-sib.ch"
+        ]
+    }, 
+    "David J. Lipman": {
+        "abandoned_email_list": [
+            "dux3@ncbi.nlm.nih.gov", 
+            "xiangjundu@gmail.com"
+        ], 
+        "recommend_email_list": [
+            "lipman@ncbi.nlm.nih.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chinnappa D. Kodira": {
+        "abandoned_email_list": [
+            "chad@broad.mit.edu", 
+            "shimizu@dmb.med.keio.ac.jp", 
+            "hckist@umn.edu", 
+            "m.rep@uva.nl", 
+            "moc.ehcor@ynased.nairb", 
+            "thomas.sharpton@gladstone.ucsf.edu", 
+            "framptol@mail.nih.gov"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Danny Dolev": {
+        "abandoned_email_list": [
+            "email@mail.huji.ac.il", 
+            "marzullo@cs.ucsd.edu", 
+            "asherr@mail.iucc.ac.il"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Ajith Abraham": {
+        "abandoned_email_list": [
+            "email@ieee.org"
+        ], 
+        "recommend_email_list": [
+            "ajith.abraham@ieee.org", 
+            "abraham.ajith@acm.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Eibe Frank": {
+        "abandoned_email_list": [
+            "email@cs.waikato.ac.nz"
+        ], 
+        "recommend_email_list": [
+            "eibe@cs.waikato.ac.nz", 
+            "eibe@waikato.ac.nz"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bruce A. Roe": {
+        "abandoned_email_list": [
+            "sbghweb@sbgh.mb.ca", 
+            "robynbiggs@ou.edu", 
+            "anthony.burgett@ou.edu", 
+            "knicholas@ou.edu", 
+            "vab@roe.ac.uk"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Barry J. Everitt": {
+        "abandoned_email_list": [
+            "email@cam.ac.uk", 
+            "bje10@cam.ac.uk", 
+            "email@york.ac.uk", 
+            "email@wjh.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "bje10@cam.ac.uk"
+        ], 
+        "MISS": [
+            "bje10@cam.ac.uk"
+        ], 
+        "ERROR": []
+    }, 
+    "Asif T. Chinwalla": {
+        "abandoned_email_list": [
+            "kersli@genome.wi.mit.edu", 
+            "rwilson@watson.wustl.edu", 
+            "achinwal@wustl.edu", 
+            "kcrouse@wustl.edu", 
+            "thepler@wustl.edu", 
+            "sleong@wustl.edu", 
+            "xqhuang@cs.iastate.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "achinwal@wustl.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Clark Mobarry": {
+        "abandoned_email_list": [
+            "530528.31533.qm@web82504.mail.mud.yahoo.com", 
+            "donnac58@yahoo.com", 
+            "384869.68448.qm@web53606.mail.re2.yahoo.com", 
+            "yahoomailneo@web120601.mail.ne1.yahoo.com"
+        ], 
+        "recommend_email_list": [
+            "mobarry@kreative.net"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David E. Culler": {
+        "abandoned_email_list": [
+            "email@berkeley.edu", 
+            "jpv@cisco.com", 
+            "vishwas@ipinfusion.com", 
+            "jonhui@cisco.com", 
+            "arcak@eecs.berkeley.edu", 
+            "derenzo@eecs.berkeley.edu", 
+            "daw@cs.berkeley.edu"
+        ], 
+        "recommend_email_list": [
+            "culler@cs.berkeley.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Asao Fujiyama": {
+        "abandoned_email_list": [
+            "afujiyam@nii.ac.jp", 
+            "yosikawa@imcb.osaka-u.ac.jp"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "afujiyam@nii.ac.jp"
+        ], 
+        "ERROR": []
+    }, 
+    "Ed Diener": {
+        "abandoned_email_list": [
+            "email@illinois.edu"
+        ], 
+        "recommend_email_list": [
+            "ediener@illinois.edu", 
+            "ediener@s.psych.uiuc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Ajit Varki": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "a1varki@ucsd.edu", 
+            "varkiadmin@ucsd.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Arian F. A. Smit": {
+        "abandoned_email_list": [
+            "rhubley@systemsbiology.org", 
+            "kojima@girinst.org", 
+            "kvladimirv@gmail.com", 
+            "ua.ude.yendys@gnohc.adnama", 
+            "kate@soe.ucsc.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bert Vogelstein": {
+        "abandoned_email_list": [
+            "vogelbe@welch.jhu.edu", 
+            "vogelbe@jhmi.edu", 
+            "velculescu@jhmi.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "vogelbe@welch.jhu.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Deanna Church": {
+        "abandoned_email_list": [
+            "lynn.duncan@ucsf.edu"
+        ], 
+        "recommend_email_list": [
+            "deanna.church@personalis.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Benoit B. Mandelbrot": {
+        "abandoned_email_list": [
+            "itsokaytobesmart@gmail.com"
+        ], 
+        "recommend_email_list": [
+            "benoit.mandelbrot@yale.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Ashok Agarwal": {
+        "abandoned_email_list": [
+            "agarwaa@ccf.org", 
+            "email@ccf.org", 
+            "aka@uvic.ca"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "agarwaa@ccf.org"
+        ], 
+        "ERROR": []
+    }, 
+    "Deborah L. Mcguinness": {
+        "abandoned_email_list": [
+            "mcguid@rpi.edu", 
+            "email@rpi.edu"
+        ], 
+        "recommend_email_list": [
+            "dlm@ksl.stanford.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrei Shleifer": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "ashleifer@harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Corinna Cortes": {
+        "abandoned_email_list": [
+            "email@google.com", 
+            "info@videolectures.net", 
+            "tickets@mlconf.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Edward Witten": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "witten@ias.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "witten@ias.edu"
+        ]
+    }, 
+    "Axel T. Brunger": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "brunger@laplace.csb.yale.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Douglas C. Schmidt": {
+        "abandoned_email_list": [
+            "email@vanderbilt.edu"
+        ], 
+        "recommend_email_list": [
+            "d.schmidt@vanderbilt.edu", 
+            "schmidt@uci.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel Jurafsky": {
+        "abandoned_email_list": [
+            "email@stanford.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bart Selman": {
+        "abandoned_email_list": [
+            "ermon@cs.stanford.edu", 
+            "shirk@cs.cornell.edu", 
+            "mwitlox@cs.cornell.edu", 
+            "djf244@cornell.edu", 
+            "vdk23@cornell.edu", 
+            "av443@cornell.edu"
+        ], 
+        "recommend_email_list": [
+            "selman@cs.cornell.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Don A. Dillman": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dillman@wsu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Didier Dubois": {
+        "abandoned_email_list": [
+            "email@irit.fr"
+        ], 
+        "recommend_email_list": [
+            "dubois@irit.fr"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Claire M. Fraser": {
+        "abandoned_email_list": [
+            "igs-info@som.umaryland.edu", 
+            "colleen_white@bd.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Duncan J. Watts": {
+        "abandoned_email_list": [
+            "email@microsoft.com", 
+            "djw24@columbia.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "djw24@columbia.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Carol S. Dweck": {
+        "abandoned_email_list": [
+            "laura.carstensen@stanford.eu", 
+            "nielsenli@nia.nih.gov"
+        ], 
+        "recommend_email_list": [
+            "dweck@stanford.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Albert-Laszlo Barabasi": {
+        "abandoned_email_list": [
+            "email@neu.edu"
+        ], 
+        "recommend_email_list": [
+            "alb@nd.edu", 
+            "a.barabasi@neu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Eli Venter": {
+        "abandoned_email_list": [
+            "samuel.payne@pnnl.gov"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dan R. Littman": {
+        "abandoned_email_list": [
+            "jeff.blenker@med.nyu.edu", 
+            "lsherman@scripps.eduthis", 
+            "email@med.nyu.edu", 
+            "infoaai@aai.org", 
+            "taniuchi@rcai.riken.jp"
+        ], 
+        "recommend_email_list": [
+            "dan.littman@med.nyu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David W. Hogg": {
+        "abandoned_email_list": [
+            "ude.uyn@ggoh.divad", 
+            "email@nyu.edu"
+        ], 
+        "recommend_email_list": [
+            "david.hogg@nyu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Atsushi Toyoda": {
+        "abandoned_email_list": [
+            "email@qe.ee.es.osaka-u.ac.jp"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donna Karolchik": {
+        "abandoned_email_list": [
+            "simont@hmgc.mcw.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel R. Weinberger": {
+        "abandoned_email_list": [
+            "jean.dubose@libd.org", 
+            "email@libd.org", 
+            "info@rivermendhealth.com", 
+            "hossmann@nf.mpg.de"
+        ], 
+        "recommend_email_list": [
+            "drweinberger@libd.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Campbell R. Harvey": {
+        "abandoned_email_list": [
+            "email@duke.edu"
+        ], 
+        "recommend_email_list": [
+            "cam.harvey@duke.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Adi F. Gazdar": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "adi.gazdar@utsouthwestern.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anil K. Jain": {
+        "abandoned_email_list": [
+            "email@cse.msu.edu"
+        ], 
+        "recommend_email_list": [
+            "jain@cse.msu.edu", 
+            "anil.k.jain@frb.gov", 
+            "dranilkjain@gmail.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alessandro Moretta": {
+        "abandoned_email_list": [
+            "daniel.olive@inserm.fr"
+        ], 
+        "recommend_email_list": [
+            "lorenzomoretta@ospedalegaslini.ge.it", 
+            "a.moretta@realstaffing.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "lorenzomoretta@ospedalegaslini.ge.it"
+        ]
+    }, 
+    "Douglas G. Altman": {
+        "abandoned_email_list": [
+            "email@csm.ox.ac.uk", 
+            "ku.ca.xo.msc@namtla.guod"
+        ], 
+        "recommend_email_list": [
+            "doug.altman@csm.ox.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Demetri Terzopoulos": {
+        "abandoned_email_list": [
+            "email@cs.ucla.edu"
+        ], 
+        "recommend_email_list": [
+            "dt@cs.ucla.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carlo M. Croce": {
+        "abandoned_email_list": [
+            "peixuan.guo@uky.edu"
+        ], 
+        "recommend_email_list": [
+            "carlo.croce@osumc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Arthur W. Toga": {
+        "abandoned_email_list": [
+            "thompson@loni.ucla.edu"
+        ], 
+        "recommend_email_list": [
+            "toga@loni.usc.edu", 
+            "toga@loni.ucla.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dan Suciu": {
+        "abandoned_email_list": [
+            "email@cs.washington.edu", 
+            "sudeepa@cs.duke.edu", 
+            "redactia@revista22.ro"
+        ], 
+        "recommend_email_list": [
+            "suciu@cs.washington.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Danielle Thierry-Mieg": {
+        "abandoned_email_list": [
+            "honey@uw.edu"
+        ], 
+        "recommend_email_list": [
+            "mieg@ncbi.nlm.nih.gov", 
+            "thierry-mieg@nih.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Deanna M. Church": {
+        "abandoned_email_list": [
+            "schneiva@ncbi.nlm.nih.gov", 
+            "dbullock@fredcchurch.com"
+        ], 
+        "recommend_email_list": [
+            "deanna.church@personalis.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Auke Tellegen": {
+        "abandoned_email_list": [
+            "telle001@umn.edu", 
+            "reise@psych.ucla.edu", 
+            "carmel@univ.haifa.ac.il", 
+            "cpatrick@psy.fsu.edu", 
+            "fspin@uni-bielefeld.de"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "telle001@umn.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Antoine Guisan": {
+        "abandoned_email_list": [
+            "email@unil.ch"
+        ], 
+        "recommend_email_list": [
+            "antoine.guisan@unil.ch"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alex Zunger": {
+        "abandoned_email_list": [
+            "email@colorado.edu"
+        ], 
+        "recommend_email_list": [
+            "alex.zunger@colorado.edu", 
+            "alex.zunger@gmail.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Ashoke Sen": {
+        "abandoned_email_list": [
+            "email@mri.ernet.in"
+        ], 
+        "recommend_email_list": [
+            "sen@mri.ernet.in", 
+            "sen@hri.res.in"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donald P. Schneider": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dps7@psu.edu", 
+            "dschneider@schneiderlaw.net"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Edward M. Rubin": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "emrubin@lbl.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chi-Wang Shu": {
+        "abandoned_email_list": [
+            "email@brown.edu", 
+            "email@polyu.edu.hk", 
+            "sjo@math.ucla.edu", 
+            "olivier.verdier@math.ntnu.no", 
+            "mathem@tiker.net"
+        ], 
+        "recommend_email_list": [
+            "chi-wang_shu@brown.edu", 
+            "shu@dam.brown.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "chi-wang_shu@brown.edu"
+        ]
+    }, 
+    "Bruce Fischl": {
+        "abandoned_email_list": [
+            "email@nmr.mgh.harvard.edu", 
+            "dboas@nmr.mgh.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "fischl@cns.bu.edu", 
+            "fischl@csail.mit.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David B. Fogel": {
+        "abandoned_email_list": [
+            "bonissone@crd.ge.com", 
+            "email@natural-selection.com"
+        ], 
+        "recommend_email_list": [
+            "gfogel@natural-selection.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "gfogel@natural-selection.com"
+        ]
+    }, 
+    "Angus Deaton": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "deaton@princeton.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Amit P. Sheth": {
+        "abandoned_email_list": [
+            "email@wright.edu", 
+            "steven.gustafson@research.ge.com", 
+            "ashish@email.arc.nasa.gov"
+        ], 
+        "recommend_email_list": [
+            "amit.sheth@wright.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chad A. Mirkin": {
+        "abandoned_email_list": [
+            "email@northwestern.edu", 
+            "rochester@jacs.acs.org", 
+            "jacs@chem.psu.edu", 
+            "schatz@chem.northwestern.edu"
+        ], 
+        "recommend_email_list": [
+            "chadnano@northwestern.edu", 
+            "camirkin@chem.northwestern.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alexander S. Szalay": {
+        "abandoned_email_list": [
+            "bagger@jhu.edu"
+        ], 
+        "recommend_email_list": [
+            "szalay@jhu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Detmar W. Straub": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dstraub@gsu.edu", 
+            "dstraub@cis.gsu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chih-Chung Chang": {
+        "abandoned_email_list": [
+            "domenic.caluori@sbclinics.com", 
+            "laurie@interfaithdentalclinic.com", 
+            "sopp@bigfoot.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bill Triggs": {
+        "abandoned_email_list": [
+            "email@imag.fr"
+        ], 
+        "recommend_email_list": [
+            "triggs@imag.fr", 
+            "bill.triggs@imag.fr", 
+            "bill.triggs@free.fr"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "bill.triggs@imag.fr"
+        ]
+    }, 
+    "Donald G. Truhlar": {
+        "abandoned_email_list": [
+            "tca@umn.edu", 
+            "email@umn.edu"
+        ], 
+        "recommend_email_list": [
+            "truhlar@umn.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Aoife Mclysaght": {
+        "abandoned_email_list": [
+            "email@tcd.ie"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Kulp": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dkulp@cs.umass"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "dkulp@cs.umass"
+        ]
+    }, 
+    "Bart Staels": {
+        "abandoned_email_list": [
+            "elena.osto@uzh.ch"
+        ], 
+        "recommend_email_list": [
+            "bart.staels@pasteur-lille.fr"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chih-Jen Lin": {
+        "abandoned_email_list": [
+            "email@csie.ntu.edu.tw"
+        ], 
+        "recommend_email_list": [
+            "cjlin@csie.ntu.edu.tw", 
+            "chih-jen.lin@ed.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alexei V. Filippenko": {
+        "abandoned_email_list": [
+            "alex@astro.berkeley.edu", 
+            "email@berkeley.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "alex@astro.berkeley.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Carl W. Cotman": {
+        "abandoned_email_list": [
+            "julie.parsons@cdph.ca.gov"
+        ], 
+        "recommend_email_list": [
+            "cwcotman@uci.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Detlef Weigel": {
+        "abandoned_email_list": [
+            "email@weigelworld.org"
+        ], 
+        "recommend_email_list": [
+            "detlef.weigel@tuebingen.mpg.de"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dennis A. Benson": {
+        "abandoned_email_list": [
+            "lorilc@bensonking.com", 
+            "jahrndt@benson.k12.mn.us"
+        ], 
+        "recommend_email_list": [
+            "dennis@dennisbenson.com", 
+            "denniscovey@bensonandmangold.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "denniscovey@bensonandmangold.com"
+        ]
+    }, 
+    "Bruce Gillespie": {
+        "abandoned_email_list": [
+            "gillespi@zoology.ubc.ca"
+        ], 
+        "recommend_email_list": [
+            "bgillespie@wlu.ca"
+        ], 
+        "MISS": [
+            "gillespi@zoology.ubc.ca"
+        ], 
+        "ERROR": []
+    }, 
+    "Diego Calvanese": {
+        "abandoned_email_list": [
+            "email@inf.unibz.it", 
+            "bmirkin@hse.ru", 
+            "bernhard.ganter@tu-dresden.de"
+        ], 
+        "recommend_email_list": [
+            "calvanese@inf.unibz.it"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donald E. Knuth": {
+        "abandoned_email_list": [
+            "taocp@awl.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles Antzelevitch": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "antzelevitch@limr.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Brian Yanny": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "yanny@fnal.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bruce Birren": {
+        "abandoned_email_list": [
+            "bwb@genome.wi.mit.edu", 
+            "cbell@genomecanada.ca"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "bwb@genome.wi.mit.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Bradley Efron": {
+        "abandoned_email_list": [
+            "brad@stat.stanfxxx.edu", 
+            "brad@stat.stanford.edu", 
+            "email@stat.stanford.edu", 
+            "susan@stat.stanford.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "brad@stat.stanford.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Alejandro Portes": {
+        "abandoned_email_list": [
+            "email@princeton.edu", 
+            "port44@princeton.edu", 
+            "elisabeth.anderson@nyu.edu", 
+            "daniel.karell@nyu.edu", 
+            "whaller@clemson.edu"
+        ], 
+        "recommend_email_list": [
+            "aportes@princeton.edu", 
+            "aportes@law.miami.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David H. Weinberg": {
+        "abandoned_email_list": [
+            "robert.rebussini@lfg.com"
+        ], 
+        "recommend_email_list": [
+            "dhw@astronomy.ohio-state.edu", 
+            "weinbergd@mail.nih.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "dhw@astronomy.ohio-state.edu"
+        ]
+    }, 
+    "Deirdre Wilson": {
+        "abandoned_email_list": [
+            "email@ucl.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "deirdre.wilson@ucl.ac.uk", 
+            "deirdre.wilson@viu.ca", 
+            "deirdre.wilson@pittsburghmoves.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel Kahneman": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "kahneman@princeton.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carlo Tomasi": {
+        "abandoned_email_list": [
+            "email@cs.duke.edu"
+        ], 
+        "recommend_email_list": [
+            "tomasi@cs.duke.edu", 
+            "ctomasi@gflenv.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Amartya Sen": {
+        "abandoned_email_list": [
+            "as341@cam.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "asen@fas.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andy Field": {
+        "abandoned_email_list": [
+            "email@sussex.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "andyf@sussex.ac.uk", 
+            "andy@forestfringe.co.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "andy@forestfringe.co.uk"
+        ]
+    }, 
+    "David B. Johnson": {
+        "abandoned_email_list": [
+            "investorservices@aspiritynotes.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Cheryl A. Evans": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "cheryl.evans@hamptonu.edu", 
+            "cevans20@uco.edu", 
+            "cheryl.evans@montville.net", 
+            "cherylevans@edinarealty.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carolyn R. Bertozzi": {
+        "abandoned_email_list": [
+            "email@berkeley.edu"
+        ], 
+        "recommend_email_list": [
+            "crb@berkeley.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew K. Rose": {
+        "abandoned_email_list": [
+            "email@haas.berkeley.edu"
+        ], 
+        "recommend_email_list": [
+            "andrewkrose@berkeley.edu", 
+            "arose@haas.berkeley.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bradley E. Bernstein": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "bernstein.bradley@mgh.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Altshuler": {
+        "abandoned_email_list": [
+            "email@molbio.mgh.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "altshuler@molbio.mgh.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alberto Alesina": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "aalesina@harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alan D Lopez": {
+        "abandoned_email_list": [
+            "email@unimelb.edu.au", 
+            "ua.ude.bleminu@zepol.nala"
+        ], 
+        "recommend_email_list": [
+            "alan.lopez@unimelb.edu.au"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles M. Lieber": {
+        "abandoned_email_list": [
+            "e-mailfernando@cmliris.harvard.edu", 
+            "email@harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "clieber@seas.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alfred V. Aho": {
+        "abandoned_email_list": [
+            "wnmmxy@sjtu.edu.cn"
+        ], 
+        "recommend_email_list": [
+            "aho@cs.columbia.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew S. Tanenbaum": {
+        "abandoned_email_list": [
+            "email@cs.vu.nl"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew Y. Ng": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "ang@cs.stanford.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Derek C. Angus": {
+        "abandoned_email_list": [
+            "email@upmc.edu"
+        ], 
+        "recommend_email_list": [
+            "angusdc@ccm.upmc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carl Folke": {
+        "abandoned_email_list": [
+            "email@beijer.kva.se"
+        ], 
+        "recommend_email_list": [
+            "carl.folke@su.se", 
+            "carl.folke@beijer.kva.se"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David A. Case": {
+        "abandoned_email_list": [
+            "email@biomaps.rutgers.edu", 
+            "dlc@tblaw.com"
+        ], 
+        "recommend_email_list": [
+            "secretarydcase@newyorkphysicians.com", 
+            "david.wald@case.edu", 
+            "dcase@globalpost.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "secretarydcase@newyorkphysicians.com", 
+            "david.wald@case.edu"
+        ]
+    }, 
+    "Craig J. Hogan": {
+        "abandoned_email_list": [
+            "info@hoganforgovernor.com", 
+            "prisca@physics.umn.edu"
+        ], 
+        "recommend_email_list": [
+            "craig.a.williams@maryland.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "craig.a.williams@maryland.gov"
+        ]
+    }, 
+    "Ariel Rabkin": {
+        "abandoned_email_list": [
+            "email@cloudera.com"
+        ], 
+        "recommend_email_list": [
+            "asrabkin@gmail.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "asrabkin@gmail.com"
+        ]
+    }, 
+    "Daniel Tranel": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "daniel-tranel@uiowa.edu", 
+            "daniel-tranel@uiowa.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "daniel-tranel@uiowa.com"
+        ]
+    }, 
+    "Anoop Gupta": {
+        "abandoned_email_list": [
+            "query@dranoopgupta.com"
+        ], 
+        "recommend_email_list": [
+            "anoop@dranoopgupta.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David A. Patterson": {
+        "abandoned_email_list": [
+            "d.paterson1@uq.edu.au"
+        ], 
+        "recommend_email_list": [
+            "david.patterson@du.edu", 
+            "david.patterson@utdallas.edu", 
+            "david.paterson@dpag.ox.ac.uk", 
+            "david.patterson@umb.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "david.paterson@dpag.ox.ac.uk"
+        ]
+    }, 
+    "Elia Stupka": {
+        "abandoned_email_list": [
+            "email@hsr.it", 
+            "remo.sanges@szn.it", 
+            "andrea.weber@flemingeurope.com"
+        ], 
+        "recommend_email_list": [
+            "stupka.elia@hsr.it", 
+            "elia.stupka@cbm.fvg.it"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alessandro Vespignani": {
+        "abandoned_email_list": [
+            "email@neu.edu"
+        ], 
+        "recommend_email_list": [
+            "a.vespignani@neu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alex Bateman": {
+        "abandoned_email_list": [
+            "agb@sanger.ac.uk", 
+            "email@ebi.ac.uk", 
+            "agb@ebi.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "abateman@rmfpc.com"
+        ], 
+        "MISS": [
+            "agb@sanger.ac.uk", 
+            "agb@ebi.ac.uk"
+        ], 
+        "ERROR": []
+    }, 
+    "Christos Faloutsos": {
+        "abandoned_email_list": [
+            "abeutel@cs.cmu.edu", 
+            "email@cs.cmu.edu", 
+            "dkoutra@umich.edu", 
+            "michalis@cs.ucr.edu", 
+            "pfal@cs.toronto.edu"
+        ], 
+        "recommend_email_list": [
+            "christos@cs.cmu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Cyrus Chothia": {
+        "abandoned_email_list": [
+            "agm@mrc-lmb.cam.ac.uk", 
+            "sarah.teichmann@sanger.ac.uk", 
+            "journals.permissions@oup.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel J. Eisenstein": {
+        "abandoned_email_list": [
+            "email@j.a.aird"
+        ], 
+        "recommend_email_list": [
+            "deisenstein@cfa.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carlos S. Frenk": {
+        "abandoned_email_list": [
+            "email@c.s.frenk", 
+            "laura.sales@ucr.edu", 
+            "rdc@aaoepp.aao.gov.au"
+        ], 
+        "recommend_email_list": [
+            "c.s.frenk@durham.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "c.s.frenk@durham.ac.uk"
+        ]
+    }, 
+    "Daoben Zhu": {
+        "abandoned_email_list": [
+            "tang4@mailbox.sc.edu", 
+            "wangshu@iccas.ac.cn", 
+            "dbhua_lab@suda.edu.cn", 
+            "dicha@iccas.ac.cn", 
+            "xwzhan@pku.edu.cn"
+        ], 
+        "recommend_email_list": [
+            "zhudb@iccas.ac.cn"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Doron Lancet": {
+        "abandoned_email_list": [
+            "ricard.sole@upf.edu", 
+            "bernd.mayer@emergentec.com", 
+            "omermar@gmail.com"
+        ], 
+        "recommend_email_list": [
+            "doron.lancet@weizmann.ac.il"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "doron.lancet@weizmann.ac.il"
+        ]
+    }, 
+    "Andrzej Skowron": {
+        "abandoned_email_list": [
+            "email@mimuw.edu.pl", 
+            "foster@mcs.anl.gov", 
+            "zhong@maebashi-it.ac.jp"
+        ], 
+        "recommend_email_list": [
+            "skowron@mimuw.edu.pl", 
+            "a.skowron@mimuw.edu.pl"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Antoine Bechara": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "bechara@usc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew Mccallum": {
+        "abandoned_email_list": [
+            "email@cs.umass.edu"
+        ], 
+        "recommend_email_list": [
+            "mccallum@cs.umass.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David E. Goldberg": {
+        "abandoned_email_list": [
+            "email@threejoy.com", 
+            "consultation@www.meetwithdavegoldberg.com", 
+            "dgold11@pitt.edu"
+        ], 
+        "recommend_email_list": [
+            "david.goldberg@olin.edu", 
+            "dgoldberg@clarkhill.com"
+        ], 
+        "MISS": [
+            "dgold11@pitt.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Carlo La Vecchia": {
+        "abandoned_email_list": [
+            "info@nutritionwithoutborders.orgthis", 
+            "segreteria@retenews24.it"
+        ], 
+        "recommend_email_list": [
+            "carlo.lavecchia@marionegri.it"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David A. Maltz": {
+        "abandoned_email_list": [
+            "email@microsoft.com", 
+            "info@maltzauctions.com", 
+            "corson@isr.umd.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alan C. Evans": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "alan@bic.mni.mcgill.ca", 
+            "alan.evans@mcgill.ca", 
+            "jcevans@ups.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "alan@bic.mni.mcgill.ca", 
+            "jcevans@ups.edu"
+        ]
+    }, 
+    "Cees Dekker": {
+        "abandoned_email_list": [
+            "email@tudelft.nl", 
+            "info@cees-dekker.nl"
+        ], 
+        "recommend_email_list": [
+            "c.dekker@tudelft.nl"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Botstein": {
+        "abandoned_email_list": [
+            "fedele@princeton.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alex Pentland": {
+        "abandoned_email_list": [
+            "sandy@media.mit", 
+            "email@mit.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrej Shevchenko": {
+        "abandoned_email_list": [
+            "email@mpi-cbg.de"
+        ], 
+        "recommend_email_list": [
+            "anna.shevchenko@mpi-cbg.de"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carl Kesselman": {
+        "abandoned_email_list": [
+            "email@isi.edu"
+        ], 
+        "recommend_email_list": [
+            "carl@isi.edu", 
+            "carl@isi.edumailto"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "carl@isi.edumailto"
+        ]
+    }, 
+    "Aart Kraay": {
+        "abandoned_email_list": [
+            "email@worldbank.org"
+        ], 
+        "recommend_email_list": [
+            "akraay@worldbank.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chengteh Lee": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "c2000lee@aol.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Abraham Z. Snyder": {
+        "abandoned_email_list": [
+            "avi@npg.wustl.edu", 
+            "email@npg.wustl.edu", 
+            "jonathan.power@nih.gov"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "avi@npg.wustl.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Aravind Subramanian": {
+        "abandoned_email_list": [
+            "cea@nic.in"
+        ], 
+        "recommend_email_list": [
+            "asubramanian@piie.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel G. Brown": {
+        "abandoned_email_list": [
+            "email@umich.edu"
+        ], 
+        "recommend_email_list": [
+            "dan.brown@uwaterloo.ca"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Adi Shamir": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "adi.shamir@weizmann.ac.il", 
+            "rshamir@tau.ac.il"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David R. Cox": {
+        "abandoned_email_list": [
+            "carrieo@globalgenes.org", 
+            "sethmikcal@yahoo.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chris P. Ponting": {
+        "abandoned_email_list": [
+            "email@dpag.ox.ac.uk", 
+            "gerton.lunter@well.ox.ac.uk", 
+            "antonell@umich.edu", 
+            "adimitr1@jhmi.edu"
+        ], 
+        "recommend_email_list": [
+            "chris.ponting@dpag.ox.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Christos H. Papadimitriou": {
+        "abandoned_email_list": [
+            "email@berkeley.edu", 
+            "email@cs.berkeley.edu"
+        ], 
+        "recommend_email_list": [
+            "christos@cs.berkeley.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David N. Weil": {
+        "abandoned_email_list": [
+            "info@nber.org"
+        ], 
+        "recommend_email_list": [
+            "david_weil@brown.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Elinor Ostrom": {
+        "abandoned_email_list": [
+            "email@asu.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Elhanan Helpman": {
+        "abandoned_email_list": [
+            "email@harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "ehelpman@harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Abass Alavi": {
+        "abandoned_email_list": [
+            "email@uphs.upenn.edu", 
+            "beikidav@sina.tums.ac.ir"
+        ], 
+        "recommend_email_list": [
+            "abass.alavi@uphs.upenn.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles M. Perou": {
+        "abandoned_email_list": [
+            "email@med.unc.edu", 
+            "botstein@genome.stanford.edu", 
+            "awren@vhio.net", 
+            "silvag@email.unc.edu"
+        ], 
+        "recommend_email_list": [
+            "cperou@med.unc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Eli Yablonovitch": {
+        "abandoned_email_list": [
+            "email@eecs.berkeley.edu"
+        ], 
+        "recommend_email_list": [
+            "eliy@ee.ucla.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Christine Van Broeckhoven": {
+        "abandoned_email_list": [
+            "email@molgen.vib-ua.be"
+        ], 
+        "recommend_email_list": [
+            "christine.vanbroeckhoven@ua.ac.be", 
+            "christine.vanbroeckhoven@molgen.vib-ua.bethis"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "christine.vanbroeckhoven@molgen.vib-ua.bethis"
+        ]
+    }, 
+    "David B. Jaffe": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "david.jaffe@utsa.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Arul M. Chinnaiyan": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "arul@umich.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Ben Shneiderman": {
+        "abandoned_email_list": [
+            "email@cs.umd.edu"
+        ], 
+        "recommend_email_list": [
+            "ben@cs.umd.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles E. Leiserson": {
+        "abandoned_email_list": [
+            "locutus@mit.edu", 
+            "email@mit.edu", 
+            "jfineman@csail.mit.edu", 
+            "info@videolectures.net", 
+            "angelee@wustl.edu", 
+            "cbruins@csail.mit.edu"
+        ], 
+        "recommend_email_list": [
+            "cel@mit.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alfonso Valencia": {
+        "abandoned_email_list": [
+            "email@cnio.es"
+        ], 
+        "recommend_email_list": [
+            "avalencia@cnio.es", 
+            "valencia@cnb.uam.es", 
+            "valencia@cnio.es"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "avalencia@cnio.es"
+        ]
+    }, 
+    "David Haussler": {
+        "abandoned_email_list": [
+            "events@biomedcentral.com", 
+            "email@soe.ucsc.edu", 
+            "jane.gitschier@ucsf.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew G. Clark": {
+        "abandoned_email_list": [
+            "ac347@cornell.edu", 
+            "email@ucl.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "andrew.clark@curie.fr", 
+            "agclark@fas.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Douglas C. Montgomery": {
+        "abandoned_email_list": [
+            "email@asu.edu"
+        ], 
+        "recommend_email_list": [
+            "doug.montgomery@asu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David A. Kass": {
+        "abandoned_email_list": [
+            "email@jhmi.edu", 
+            "info@kassmanagement.com"
+        ], 
+        "recommend_email_list": [
+            "dkass@rhsmith.umd.edu", 
+            "dkass@jhmi.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David R. Bentley": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dbentley@illumina.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "dbentley@illumina.com"
+        ]
+    }, 
+    "Andrew Pickles": {
+        "abandoned_email_list": [
+            "iop.educationsupport@kcl.ac.uk", 
+            "email@kcl.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "andrew.pickles@kcl.ac.uk", 
+            "andrew.pickles@cumbyisd.net"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Birger Wernerfelt": {
+        "abandoned_email_list": [
+            "bwerner@mit.edu", 
+            "email@mit.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "bwerner@mit.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Chang-Gong Liu": {
+        "abandoned_email_list": [
+            "gonglz@ustc.edu.cn", 
+            "chenw4@umdnj.edu", 
+            "jainmr@umdnj.edu", 
+            "liq3@umdnj.edu", 
+            "linto@umdnj.edu"
+        ], 
+        "recommend_email_list": [
+            "cgliu@mdanderson.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Christopher B. Burge": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "cburge@mit.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Christopher D. Manning": {
+        "abandoned_email_list": [
+            "email@stanford.edu", 
+            "hinrich@hotmail.com"
+        ], 
+        "recommend_email_list": [
+            "cmanning@acm.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Athanasios Papoulis": {
+        "abandoned_email_list": [
+            "mitra@ece.ucsb.edu", 
+            "jproakis@ucsd.edu", 
+            "solutions@chegg.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Craig A. Anderson": {
+        "abandoned_email_list": [
+            "email@iastate.edu", 
+            "clanders@uci.edu"
+        ], 
+        "recommend_email_list": [
+            "caa@iastate.edu", 
+            "craig.anderson@sydney.edu.au", 
+            "c.anderson@rgu.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David L. Nelson": {
+        "abandoned_email_list": [
+            "email@bcm.edu"
+        ], 
+        "recommend_email_list": [
+            "nelson@biochem.wisc.edu", 
+            "nelson@bcm.edu", 
+            "david.nelson3@utoledo.edu", 
+            "d-nelson@northwestern.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Craig J. Hawker": {
+        "abandoned_email_list": [
+            "email@mrl.ucsb.edu", 
+            "director@mrl.ucsb.edu"
+        ], 
+        "recommend_email_list": [
+            "hawker@mrl.ucsb.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alexander J. Smola": {
+        "abandoned_email_list": [
+            "email@google.com", 
+            "amahmed@cs.cmu.edu", 
+            "alex@smola.org"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "alex@smola.org"
+        ], 
+        "ERROR": []
+    }, 
+    "Anup Madan": {
+        "abandoned_email_list": [
+            "register@xtalks.com"
+        ], 
+        "recommend_email_list": [
+            "amadan@u.washington.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Edward L. Deci": {
+        "abandoned_email_list": [
+            "email@psych.rochester.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Berthier Ribeiro-Neto": {
+        "abandoned_email_list": [
+            "email@dcc.ufmg.br"
+        ], 
+        "recommend_email_list": [
+            "berthier@dcc.ufmg.br"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Didier Raoult": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "didier.raoult@medecine.univ-mrs.fr", 
+            "didier.raoult@gmail.com"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "didier.raoult@medecine.univ-mrs.fr"
+        ]
+    }, 
+    "David Wetherall": {
+        "abandoned_email_list": [
+            "email@uw.edu"
+        ], 
+        "recommend_email_list": [
+            "david.wetherell@deakin.edu.au"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Baruch Fischhoff": {
+        "abandoned_email_list": [
+            "rl1y@andrew.cmu.edu", 
+            "email@cmu.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donna R. Maglott": {
+        "abandoned_email_list": [
+            "pba@email.arizona.edu"
+        ], 
+        "recommend_email_list": [
+            "maglott@ncbi.nlm.nih.gov"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles E. Perkins": {
+        "abandoned_email_list": [
+            "erik.nordmark@eng.sun.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Edmund M. Clarke": {
+        "abandoned_email_list": [
+            "yano@cs.cmu.edu", 
+            "guestservices@fi.edu", 
+            "info@videolectures.net", 
+            "vardi@ibm.com"
+        ], 
+        "recommend_email_list": [
+            "emc@cs.cmu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Desmond G. Higgins": {
+        "abandoned_email_list": [
+            "ei.dcu@sniggih.sed", 
+            "ei.dcu@sreveis.naibaf"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "ei.dcu@sniggih.sed", 
+            "ei.dcu@sreveis.naibaf"
+        ], 
+        "ERROR": []
+    }, 
+    "Dani Rodrik": {
+        "abandoned_email_list": [
+            "email@hks.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "dani_rodrik@harvard.edu", 
+            "drodrik@ias.edu", 
+            "dani_rodrik@hks.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Harel": {
+        "abandoned_email_list": [
+            "email@weizmann.ac.il"
+        ], 
+        "recommend_email_list": [
+            "dharel@weizmann.ac.il"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alan J. Heeger": {
+        "abandoned_email_list": [
+            "email@physics.ucsb.edu", 
+            "jdegooyer@science.utah.edu", 
+            "xgong@uakron.edu"
+        ], 
+        "recommend_email_list": [
+            "ajhe@physics.ucsb.edu", 
+            "david.heeger@nyu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "david.heeger@nyu.edu"
+        ]
+    }, 
+    "Douglas F. Easton": {
+        "abandoned_email_list": [
+            "email@medschl.cam.ac.uk", 
+            "kd.hnoiger@neslein.draagllaf.enus", 
+            "dreyfus.u1016@inserm.fr"
+        ], 
+        "recommend_email_list": [
+            "dfe20@medschl.cam.ac.uk", 
+            "d.easton@srl.cam.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anna Dominiczak": {
+        "abandoned_email_list": [
+            "reception@scotsman.com", 
+            "m.j.caulfield@qmul.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "anna.dominiczak@glasgow.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "anna.dominiczak@glasgow.ac.uk"
+        ]
+    }, 
+    "Dan Boneh": {
+        "abandoned_email_list": [
+            "email@cs.stanford.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anders Krogh": {
+        "abandoned_email_list": [
+            "anm@dmjx.dk"
+        ], 
+        "recommend_email_list": [
+            "krogh@binf.ku.dk", 
+            "akrogh@bio.ku.dk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Heckerman": {
+        "abandoned_email_list": [
+            "heckerma@microsoft.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "heckerma@microsoft.com"
+        ], 
+        "ERROR": []
+    }, 
+    "Donald B. Rubin": {
+        "abandoned_email_list": [
+            "email@stat.harvard.edu", 
+            "fli@stat.duke.edu"
+        ], 
+        "recommend_email_list": [
+            "rubin@stat.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Cornelia M. Van Duijn": {
+        "abandoned_email_list": [
+            "nihes@erasmusmc.nl"
+        ], 
+        "recommend_email_list": [
+            "c.vanduijn@erasmusmc.nl"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dorin Comaniciu": {
+        "abandoned_email_list": [
+            "email@siemens.com", 
+            "giacomo.pongiglione@opbg.net"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Daniel J. Klionsky": {
+        "abandoned_email_list": [
+            "email@umich.edu"
+        ], 
+        "recommend_email_list": [
+            "klionsky@umich.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David M. Blei": {
+        "abandoned_email_list": [
+            "email@columbia.edu"
+        ], 
+        "recommend_email_list": [
+            "david.blei@columbia.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David Garlan": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "garlan@cs.cmu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Christopher K. Glass": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "ckg@ucsd.edu", 
+            "chglass@ucsd.edu", 
+            "cglass@ucsd.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Alberto Mantovani": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "alberto.mantovani@humanitasresearch.it", 
+            "alberto.mantovani@unimi.it"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bruce A. J. Ponder": {
+        "abandoned_email_list": [
+            "jam43@cam.ac.uk"
+        ], 
+        "recommend_email_list": [
+            "bruce.ponder@cruk.cam.ac.uk", 
+            "bruce.ponder@srl.cam.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donald Geman": {
+        "abandoned_email_list": [
+            "email@jhu.edu"
+        ], 
+        "recommend_email_list": [
+            "geman@jhu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Amir Pnueli": {
+        "abandoned_email_list": [
+            "manna@cs.stanford.edu"
+        ], 
+        "recommend_email_list": [
+            "amir@wisdom.weizmann.ac.il"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Carrie Sougnez": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "carrie@broadinstitute.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Aravinda Chakravarti": {
+        "abandoned_email_list": [
+            "tcitrin@sph.umich.edu"
+        ], 
+        "recommend_email_list": [
+            "aravinda@jhmi.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Don Towsley": {
+        "abandoned_email_list": [
+            "email@cs.umass.edu", 
+            "sadoc@dcc.ufrj.br"
+        ], 
+        "recommend_email_list": [
+            "towsley@cs.umass.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Chad Nusbaum": {
+        "abandoned_email_list": [
+            "shimizu@dmb.med.keio.ac.jp", 
+            "investor.services@piedmontreit.com"
+        ], 
+        "recommend_email_list": [
+            "chad@broad.mit.edu", 
+            "chad@broadinstitute.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Eckart Zitzler": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "eckart.zitzler@tik.ee.ethz.ch"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David J. Dewitt": {
+        "abandoned_email_list": [
+            "djs@dewittross.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "djs@dewittross.com"
+        ], 
+        "ERROR": []
+    }, 
+    "Alvaro Pascual-Leone": {
+        "abandoned_email_list": [
+            "email@bidmc.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "apleone@bidmc.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "apleone@bidmc.harvard.edu"
+        ]
+    }, 
+    "Clifford B. Saper": {
+        "abandoned_email_list": [
+            "email@bidmc.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "csaper@bidmc.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Antonio Lanzavecchia": {
+        "abandoned_email_list": [
+            "email@irb.usi.ch", 
+            "info@swissvaccineresearchinstitute.ch"
+        ], 
+        "recommend_email_list": [
+            "lanzavecchia@irb.usi.ch", 
+            "lanzavecchia@irb.unisi.ch", 
+            "lanzavecchia@micro.biol.ethz.ch"
+        ], 
+        "MISS": [], 
+        "ERROR": [
+            "lanzavecchia@irb.unisi.ch"
+        ]
+    }, 
+    "Danny Reinberg": {
+        "abandoned_email_list": [
+            "email@nyumc.org"
+        ], 
+        "recommend_email_list": [
+            "danny.reinberg@nyumc.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David P. Bartel": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dbartel@wi.mit.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Brian P. Schmidt": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "brian@mso.anu.edu.au", 
+            "brianl.schmidt@nyu.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anthony D. Joseph": {
+        "abandoned_email_list": [
+            "stratahadoop@oreilly.com"
+        ], 
+        "recommend_email_list": [
+            "adj@cs.berkeley.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David L. Wheeler": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "dwheeler@alfanarmedia.org"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donald A. Norman": {
+        "abandoned_email_list": [
+            "webmaster@jnd.org", 
+            "don@jnd.org"
+        ], 
+        "recommend_email_list": [
+            "dnorman@ucsd.edu"
+        ], 
+        "MISS": [
+            "don@jnd.org"
+        ], 
+        "ERROR": []
+    }, 
+    "Alan Coulson": {
+        "abandoned_email_list": [
+            "acoulso@clemson.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "acoulso@clemson.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Deborah Estrin": {
+        "abandoned_email_list": [
+            "email@cs.cornell.edu"
+        ], 
+        "recommend_email_list": [
+            "destrin@cs.cornell.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Arnold J. Levine": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "alevine@ias.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dieter Fox": {
+        "abandoned_email_list": [
+            "email@cs.washington.edu", 
+            "gthuang@xconomy.com", 
+            "denis@robotics.usc.edu"
+        ], 
+        "recommend_email_list": [
+            "fox@cs.washington.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew Zisserman": {
+        "abandoned_email_list": [
+            "email@robots.ox.ac.uk", 
+            "sivic@ens.fr"
+        ], 
+        "recommend_email_list": [
+            "az@robots.ox.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bruce M. Spiegelman": {
+        "abandoned_email_list": [
+            "lawrence_kazak@dfci.harvard.edu", 
+            "christoph.handschin@unibas.ch"
+        ], 
+        "recommend_email_list": [
+            "bruce_spiegelman@dfci.harvard.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David S. Johnson": {
+        "abandoned_email_list": [
+            "email@research.att.com"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Colin F. Camerer": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "camerer@hss.caltech.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "David J. Hunter": {
+        "abandoned_email_list": [
+            "email@d.j.hunter", 
+            "andrea.baden@hunter.cuny.edu", 
+            "email@hsph.harvard.edu"
+        ], 
+        "recommend_email_list": [
+            "david.hunter@sydney.edu.au", 
+            "dhunter@westmont.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Dinesh Manocha": {
+        "abandoned_email_list": [
+            "email@cs.unc.edu", 
+            "jpan@cs.hku.hk", 
+            "nagag@microsoft.com", 
+            "dm@cs.unc.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "dm@cs.unc.edu"
+        ], 
+        "ERROR": []
+    }, 
+    "Daniel H. Huson": {
+        "abandoned_email_list": [
+            "email@uni-tuebingen.de", 
+            "email@jhu.edu", 
+            "email@som.umaryland.edu", 
+            "xiechao@bic.nus.edu.sg", 
+            "cflack@cambridge.org"
+        ], 
+        "recommend_email_list": [
+            "daniel.huson@uni-tuebingen.de", 
+            "huson@informatik.uni-tuebingen.de"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Barry W. Boehm": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "boehm@usc.edu", 
+            "boehm@sunset.usc.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Andrew G. Rinzler": {
+        "abandoned_email_list": [
+            "email@phys.ufl.edu", 
+            "dekker@qt.tn.tudelft.nl", 
+            "haddon@ucr.edu"
+        ], 
+        "recommend_email_list": [
+            "rinzler@phys.ufl.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Avi Wigderson": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "avi@ias.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Bruce Schneier": {
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
+            "schneier@schneier.com"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Biswanath Mukherjee": {
+        "abandoned_email_list": [
+            "email@cs.ucdavis.edu"
+        ], 
+        "recommend_email_list": [
+            "bmukherjee@ucdavis.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Donna M. Muzny": {
+        "abandoned_email_list": [
+            "questions@hgsc.bcm.tmc.edu", 
+            "agibbs@bcm.edu", 
+            "sscherer@bcm.tmc.edu", 
+            "jonathan.rothberg@gmail.com"
+        ], 
+        "recommend_email_list": [
+            "donnam@bcm.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anton Zeilinger": {
+        "abandoned_email_list": [
+            "iqoqi-vienna@oeaw.ac.at", 
+            "email@univie.ac.at", 
+            "komarek@oeaw.ac.at", 
+            "positions@m.i.t"
+        ], 
+        "recommend_email_list": [
+            "anton.zeilinger@univie.ac.at"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Avshalom Caspi": {
+        "abandoned_email_list": [
+            "email@duke.edu"
+        ], 
+        "recommend_email_list": [
+            "avshalom.caspi@kcl.ac.uk", 
+            "avshalom.caspi@duke.edu", 
+            "a.caspi@iop.kcl.ac.uk"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Anders M. Dale": {
+        "abandoned_email_list": [
+            "email@ucsd.edu", 
+            "a.m.fjell@psykologi.uio.no", 
+            "hermann.hinrichs@medizin.uni-magdeburg.de"
+        ], 
+        "recommend_email_list": [
+            "amdale@ucsd.edu"
+        ], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Amin Vahdat": {
+        "abandoned_email_list": [
+            "email@cs.ucsd.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [], 
+        "ERROR": []
+    }, 
+    "Charles R. Johnson": {
+        "abandoned_email_list": [
+            "chasjohn@uw.edu", 
+            "crjohnso@math.wm.edu"
+        ], 
+        "recommend_email_list": [], 
+        "MISS": [
+            "crjohnso@math.wm.edu"
+        ], 
+        "ERROR": []
+    }
+}
