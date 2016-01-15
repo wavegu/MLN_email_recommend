@@ -50,11 +50,33 @@ class MLN:
                 continue
             report_dict[person_name] = person.get_report_dict(marked_person_dict[person_name]['email_list'])
 
+        all_error_num = 0
+        all_miss_num = 0
+        all_marked_num = 0
+        all_recommend_num = 0
+        all_abandoned_num = 0
+        for person_name in marked_person_dict:
+            all_marked_num += len(marked_person_dict[person_name]['email_list'])
+        for person_name, person_report_dict in report_dict.items():
+            all_error_num += len(person_report_dict['ERROR'])
+            all_miss_num += len(person_report_dict['MISS'])
+            all_recommend_num += len(person_report_dict['recommend_email_list'])
+            all_abandoned_num += len(person_report_dict['abandoned_email_list'])
+        all_candidate_num = all_recommend_num + all_abandoned_num
+        print '---------------------------------'
+        print 'candidate ', all_candidate_num
+        print 'miss      ', all_miss_num
+        print 'error     ', all_error_num
+        print 'marked    ', all_marked_num
+        print 'accuracy  ', 1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)
+        print 'recall    ', float(all_recommend_num - all_error_num) / float(all_marked_num)
+        print 'precision ', float(all_recommend_num - all_error_num) / float(all_recommend_num)
+
         with open(self.report_path, 'w') as report_file:
             report_file.write(json.dumps(report_dict, indent=4))
 
 
 if __name__ == '__main__':
     mln = MLN()
-    mln.run_exp(1000)
+    # mln.run_exp(1000)
     mln.evaluate()

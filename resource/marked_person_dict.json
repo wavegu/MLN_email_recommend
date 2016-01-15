@@ -1,12 +1,12 @@
 {
     "Daniel S. Weld": {
         "email_list": [
-            "weldatcs.washington.edu"
+            "weld@cs.washington.edu"
         ]
     }, 
     "Amos Bairoch": {
         "email_list": [
-            "Amos.Bairoch@isb-sib.ch", 
+            "amos.bairoch@isb-sib.ch", 
             "bairoch@cmu.unige.ch"
         ]
     }, 
@@ -63,7 +63,8 @@
     "Alessandro Moretta": {
         "email_list": [
             "alemoret@unige.it", 
-            "a.moretta@realstaffing.com"
+            "a.moretta@realstaffing.com", 
+            "lorenzomoretta@ospedalegaslini.ge.it"
         ]
     }, 
     "Charles Antzelevitch": {
@@ -131,7 +132,9 @@
         ]
     }, 
     "Edward Witten": {
-        "email_list": []
+        "email_list": [
+            "witten@ias.edu"
+        ]
     }, 
     "David N. Weil": {
         "email_list": [
@@ -177,7 +180,9 @@
         ]
     }, 
     "Alvaro Pascual-Leone": {
-        "email_list": []
+        "email_list": [
+            "apleone@bidmc.harvard.edu"
+        ]
     }, 
     "Eli Venter": {
         "email_list": []
@@ -278,11 +283,14 @@
     }, 
     "Dennis A. Benson": {
         "email_list": [
-            "dennis@dennisbenson.com"
+            "dennis@dennisbenson.com", 
+            "denniscovey@bensonandmangold.com"
         ]
     }, 
     "Ariel Rabkin": {
-        "email_list": []
+        "email_list": [
+            "asrabkin@gmail.com"
+        ]
     }, 
     "Alex Zunger": {
         "email_list": [
@@ -385,7 +393,8 @@
     }, 
     "David Kulp": {
         "email_list": [
-            "dkulp@cs.umass.edu"
+            "dkulp@cs.umass.edu", 
+            "dkulp@cs.umass"
         ]
     }, 
     "Bart Staels": {
@@ -450,7 +459,7 @@
     "Chi-Wang Shu": {
         "email_list": [
             "shu@dam.brown.edu", 
-            "Chi-Wang_Shu@brown.edu"
+            "chi-wang_shu@brown.edu"
         ]
     }, 
     "Alejandro Portes": {
@@ -461,7 +470,8 @@
     }, 
     "David H. Weinberg": {
         "email_list": [
-            "weinbergd@mail.nih.gov"
+            "weinbergd@mail.nih.gov", 
+            "dhw@astronomy.ohio-state.edu"
         ]
     }, 
     "Deirdre Wilson": {
@@ -494,7 +504,8 @@
     }, 
     "Andy Field": {
         "email_list": [
-            "andyf@sussex.ac.uk"
+            "andyf@sussex.ac.uk", 
+            "andy@forestfringe.co.uk"
         ]
     }, 
     "David B. Johnson": {
@@ -586,7 +597,8 @@
     }, 
     "Daniel Tranel": {
         "email_list": [
-            "daniel-tranel@uiowa.edu"
+            "daniel-tranel@uiowa.edu", 
+            "daniel-tranel@uiowa.com"
         ]
     }, 
     "Anoop Gupta": {
@@ -597,10 +609,11 @@
     }, 
     "David A. Patterson": {
         "email_list": [
-            "pattrsnatcsdotBerkeleydotedu", 
+            "pattrsn@csdotberkeleydotedu", 
             "david.patterson@du.edu", 
             "david.patterson@umb.edu", 
-            "david.patterson@utdallas.edu"
+            "david.patterson@utdallas.edu", 
+            "david.paterson@dpag.ox.ac.uk"
         ]
     }, 
     "Elia Stupka": {
@@ -639,7 +652,7 @@
     }, 
     "Carlos S. Frenk": {
         "email_list": [
-            "C.S.Frenk@durham.ac.uk"
+            "c.s.frenk@durham.ac.uk"
         ]
     }, 
     "Daoben Zhu": {
@@ -649,7 +662,7 @@
     }, 
     "Doron Lancet": {
         "email_list": [
-            "Doron.Lancet@weizmann.ac.il"
+            "doron.lancet@weizmann.ac.il"
         ]
     }, 
     "Andrzej Skowron": {
@@ -665,7 +678,7 @@
     }, 
     "Corinna Cortes": {
         "email_list": [
-            "corinnaatgoogledotcom"
+            "corinna@googledotcom"
         ]
     }, 
     "Ashok Agarwal": {
@@ -685,7 +698,8 @@
     }, 
     "Alan C. Evans": {
         "email_list": [
-            "alan.evans@mcgill.ca"
+            "alan.evans@mcgill.ca", 
+            "alan@bic.mni.mcgill.ca"
         ]
     }, 
     "Cees Dekker": {
@@ -695,7 +709,7 @@
     }, 
     "David Botstein": {
         "email_list": [
-            "jbrickatprinceton.edu"
+            "jbrick@princeton.edu"
         ]
     }, 
     "Alberto Alesina": {
@@ -799,7 +813,7 @@
     }, 
     "Anthony D. Joseph": {
         "email_list": [
-            "adjATeecs.berkeley.edu", 
+            "adjateecs.berkeley.edu", 
             "adj@cs.berkeley.edu"
         ]
     }, 
@@ -854,7 +868,9 @@
         ]
     }, 
     "David R. Bentley": {
-        "email_list": []
+        "email_list": [
+            "dbentley@illumina.com"
+        ]
     }, 
     "Andrew Pickles": {
         "email_list": [
@@ -897,7 +913,7 @@
     }, 
     "Bill Triggs": {
         "email_list": [
-            "Bill.Triggs@imag.fr", 
+            "bill.triggs@imag.fr", 
             "bill.triggs@free.fr", 
             "triggs@imag.fr"
         ]
@@ -935,7 +951,7 @@
     }, 
     "Didier Raoult": {
         "email_list": [
-            "Didier.Raoult@medecine.univ-mrs.fr", 
+            "didier.raoult@medecine.univ-mrs.fr", 
             "didier.raoult@gmail.com"
         ]
     }, 
@@ -984,7 +1000,7 @@
     }, 
     "Daphne Koller": {
         "email_list": [
-            "koller@CS.Stanford.EDU"
+            "koller@cs.stanford.edu"
         ]
     }, 
     "Douglas F. Easton": {
@@ -994,7 +1010,9 @@
         ]
     }, 
     "Anna Dominiczak": {
-        "email_list": []
+        "email_list": [
+            "anna.dominiczak@glasgow.ac.uk"
+        ]
     }, 
     "Carol S. Dweck": {
         "email_list": [
@@ -1019,7 +1037,7 @@
     }, 
     "Dorin Comaniciu": {
         "email_list": [
-            "Dorin.Comaniciu@siemens.com"
+            "dorin.comaniciu@siemens.com"
         ]
     }, 
     "Elinor Ostrom": {
@@ -1111,7 +1129,7 @@
         "email_list": [
             "lanzavecchia@irb.usi.ch", 
             "lanzavecchia@micro.biol.ethz.ch", 
-            "lanzavecchia"
+            "lanzavecchia@irb.unisi.ch"
         ]
     }, 
     "Danny Reinberg": {
@@ -1242,7 +1260,8 @@
     "Alfonso Valencia": {
         "email_list": [
             "valencia@cnb.uam.es", 
-            "valencia@cnio.es"
+            "valencia@cnio.es", 
+            "avalencia@cnio.es"
         ]
     }, 
     "Anders M. Dale": {

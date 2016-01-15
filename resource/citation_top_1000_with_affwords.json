@@ -1503,7 +1503,7 @@
             "address": " 465 Soda Hall \r\n RAD Lab\r\n Computer Science Division #1776 \r\n UC Berkeley \r\n Berkeley, CA 94720-1776 \r\n\r\n", 
             "position": "Professor", 
             "homepage": "http://www.cs.berkeley.edu/~pattrsn", 
-            "email": "pattrsn at cs dot Berkeley dot edu, david.patterson@du.edu, david.patterson@umb.edu, david.patterson@utdallas.edu"
+            "email": "pattrsn at cs dot Berkeley dot edu, david.patterson@du.edu, david.patterson@umb.edu, david.patterson@utdallas.edu, david.paterson@dpag.ox.ac.uk"
         }, 
         "n_citation": 48173, 
         "id": "53f48087dabfae963d25a9dc"
@@ -3703,7 +3703,7 @@
         "affiliation_cn": "", 
         "affiliation": "Department of Astronomy|Ohio State University", 
         "contact": {
-            "email": "weinbergd@mail.nih.gov"
+            "email": "weinbergd@mail.nih.gov, dhw@astronomy.ohio-state.edu"
         }, 
         "n_citation": 5225, 
         "id": "54874c9fdabfae9b401344ed"
@@ -5553,7 +5553,7 @@
             "edu": "Antonio Lanzavecchia earned a degree in Medicine at the University of Pavia where he specialized in Paediatrics and in Infectious Diseases.", 
             "position": "Director", 
             "homepage": "http://www.irb.usi.ch/antonio-lanzavecchia", 
-            "email": "lanzavecchia@irb.usi.ch, lanzavecchia@micro.biol.ethz.ch, lanzavecchia", 
+            "email": "lanzavecchia@irb.usi.ch, lanzavecchia@micro.biol.ethz.ch, lanzavecchia@irb.unisi.ch", 
             "address": "Institute for Research in Biomedicine Istituto di Ricerca in Biomedicina Via Vincenzo Vela 6 - CH-6500 Bellinzona"
         }, 
         "n_citation": 6340, 
@@ -5581,7 +5581,7 @@
         "contact": {
             "affiliation": "Piano Technicians Guild", 
             "homepage": "http://www.dennisbenson.com/", 
-            "email": "dennis@dennisbenson.com", 
+            "email": "dennis@dennisbenson.com, denniscovey@bensonandmangold.com", 
             "bio": "I am a Piano Technicians Guild member who specializes in home piano tuning and repair as well as concert level work. in Willmar, Minnesota and surrounding area.\n", 
             "position": "web designer"
         }, 
@@ -7271,7 +7271,7 @@
             "position": "Assistant Professor", 
             "bsuniv": "College of William and Mary", 
             "homepage": "http://www.cs.umass.edu/~dkulp/", 
-            "email": "dkulp@cs.umass.edu"
+            "email": "dkulp@cs.umass.edu, dkulp@cs.umass"
         }, 
         "n_citation": 8878, 
         "id": "53f4740adabfaee43ed2c11a"
@@ -9698,7 +9698,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "Istituto Giannina Gaslini, Genova, Italy", 
-        "contact": {}, 
+        "contact": {
+            "email": "lorenzomoretta@ospedalegaslini.ge.it"
+        }, 
         "n_citation": 3029, 
         "id": "53f7d87ddabfae9467db98bd"
     }, 
@@ -12492,7 +12494,7 @@
             "edu": "", 
             "position": "Professor", 
             "homepage": "http://eati.landesbioscience.com/members/64/", 
-            "email": "alemoret@unige.it, a.moretta@realstaffing.com", 
+            "email": "alemoret@unige.it, a.moretta@realstaffing.com, lorenzomoretta@ospedalegaslini.ge.it", 
             "address": ""
         }, 
         "n_citation": 2365, 
@@ -14444,7 +14446,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "Berenson-Allen Center for Noninvasive Brain Stimulation, Beth Israel Deaconess Medical Center, Harvard Medical School, Boston, MA, USA", 
-        "contact": {}, 
+        "contact": {
+            "email": "apleone@bidmc.harvard.edu"
+        }, 
         "n_citation": 2308, 
         "id": "54878019dabfaed7b5fa30b1"
     }, 
@@ -16633,7 +16637,7 @@
             "edu": "Alfonso Valencia is a biologist with formal training in population genetics and biophysics which he received from the Universidad Complutense de Madrid. He was awarded his PhD in 1988 at the Universidad Aut\u00f3noma de Madrid.", 
             "position": "professor", 
             "homepage": "http://www.pdg.cnb.uam.es/valencia/", 
-            "email": "valencia@cnb.uam.es, valencia@cnio.es"
+            "email": "valencia@cnb.uam.es, valencia@cnio.es, avalencia@cnio.es"
         }, 
         "n_citation": 7062, 
         "id": "53f4a20cdabfaec3b877b49a"
@@ -16807,7 +16811,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "BHF Glasgow Cardiovascular Research Centre|Division of Cardiovascular and Medical Sciences|University of Glasgow", 
-        "contact": {}, 
+        "contact": {
+            "email": "anna.dominiczak@glasgow.ac.uk"
+        }, 
         "n_citation": 2345, 
         "id": "53f438d4dabfaeecd6975fcf"
     }, 
@@ -18462,7 +18468,7 @@
         "affiliation_cn": "", 
         "affiliation": "Department of Psychology, School of Life Sciences, University of Sussex, Falmer, Brighton BN1 9QH UK", 
         "contact": {
-            "email": "andyf@sussex.ac.uk"
+            "email": "andyf@sussex.ac.uk, andy@forestfringe.co.uk"
         }, 
         "n_citation": 150, 
         "id": "53f436a9dabfaee1c0a9fd6d"
@@ -18814,7 +18820,7 @@
         "affiliation_cn": "", 
         "affiliation": "McConnell Brain Imaging Centre|Montreal Neurological Institute|McGill University", 
         "contact": {
-            "email": "alan.evans@mcgill.ca"
+            "email": "alan.evans@mcgill.ca, alan@bic.mni.mcgill.ca"
         }, 
         "n_citation": 9806, 
         "id": "53fa14a4dabfae9467e17040"
@@ -21119,7 +21125,7 @@
             "edu": "BA, Psychology, Notre Dame\nMA, Clinical Psychology, University of Iowa, Iowa City, IA\nPhD, Clinical Psychology, University of Iowa, Iowa City, IA", 
             "position": "Professor", 
             "homepage": "http://psychology.uiowa.edu/people/daniel-tranel", 
-            "email": "daniel-tranel@uiowa.edu", 
+            "email": "daniel-tranel@uiowa.edu, daniel-tranel@uiowa.com", 
             "address": ""
         }, 
         "n_citation": 3689, 
@@ -22912,7 +22918,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "Joseph Henry Laboratories, Princeton University, Princeton, New Jersey 08544, USA", 
-        "contact": {}, 
+        "contact": {
+            "email": "witten@ias.edu"
+        }, 
         "n_citation": 939, 
         "id": "5410b930dabfae44f08d60a3"
     }, 
@@ -24607,7 +24615,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "Sanger Centre|Wellcome Trust Genome Campus", 
-        "contact": {}, 
+        "contact": {
+            "email": "dbentley@illumina.com"
+        }, 
         "n_citation": 3428, 
         "id": "53f44ea7dabfaee1c0b0de1f"
     }, 
@@ -25768,7 +25778,9 @@
         ], 
         "affiliation_cn": "", 
         "affiliation": "UC Berkeley", 
-        "contact": {}, 
+        "contact": {
+            "email": "asrabkin@gmail.com"
+        }, 
         "n_citation": 3719, 
         "id": "53f43717dabfaee0d9b6adcb"
     }, 

@@ -17,7 +17,8 @@ for person_dict in marked_person_dict_list:
 		if 'email' not in person_dict['contact'] or not person_dict['contact']['email']:
 			result_person_dict['email_list'] = []
 		else:
-			result_person_dict['email_list'] = person_dict['contact']['email'].replace(' ', '').replace('\r\n', '').split(',')
+			email_addr = person_dict['contact']['email'].replace(' at ', '@').replace('\r\n', '').replace(' ', '').lower()
+			result_person_dict['email_list'] = email_addr.split(',')
 		result_person_dict_dict[person_name.decode('utf8')] = result_person_dict
 result_json = json.dumps(result_person_dict_dict, indent=4)
 with open('marked_person_dict.json', 'w') as marked_file:

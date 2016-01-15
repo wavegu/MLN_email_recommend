@@ -15,9 +15,7 @@
             "weld@cs.washington.edu"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "weld@cs.washington.edu"
-        ]
+        "ERROR": []
     }, 
     "Amos Bairoch": {
         "abandoned_email_list": [
@@ -29,9 +27,7 @@
             "bairoch@cmu.unige.ch"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "amos.bairoch@isb-sib.ch"
-        ]
+        "ERROR": []
     }, 
     "David J. Lipman": {
         "abandoned_email_list": [
@@ -284,9 +280,7 @@
             "witten@ias.edu"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "witten@ias.edu"
-        ]
+        "ERROR": []
     }, 
     "Axel T. Brunger": {
         "abandoned_email_list": [], 
@@ -491,9 +485,7 @@
             "a.moretta@realstaffing.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "lorenzomoretta@ospedalegaslini.ge.it"
-        ]
+        "ERROR": []
     }, 
     "Douglas G. Altman": {
         "abandoned_email_list": [
@@ -647,9 +639,7 @@
             "shu@dam.brown.edu"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "chi-wang_shu@brown.edu"
-        ]
+        "ERROR": []
     }, 
     "Bruce Fischl": {
         "abandoned_email_list": [
@@ -749,9 +739,7 @@
             "bill.triggs@free.fr"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "bill.triggs@imag.fr"
-        ]
+        "ERROR": []
     }, 
     "Donald G. Truhlar": {
         "abandoned_email_list": [
@@ -778,9 +766,7 @@
             "dkulp@cs.umass"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "dkulp@cs.umass"
-        ]
+        "ERROR": []
     }, 
     "Bart Staels": {
         "abandoned_email_list": [
@@ -844,9 +830,7 @@
             "denniscovey@bensonandmangold.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "denniscovey@bensonandmangold.com"
-        ]
+        "ERROR": []
     }, 
     "Bruce Gillespie": {
         "abandoned_email_list": [
@@ -944,9 +928,7 @@
             "weinbergd@mail.nih.gov"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "dhw@astronomy.ohio-state.edu"
-        ]
+        "ERROR": []
     }, 
     "Deirdre Wilson": {
         "abandoned_email_list": [
@@ -998,9 +980,7 @@
             "andy@forestfringe.co.uk"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "andy@forestfringe.co.uk"
-        ]
+        "ERROR": []
     }, 
     "David B. Johnson": {
         "abandoned_email_list": [
@@ -1174,9 +1154,7 @@
             "asrabkin@gmail.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "asrabkin@gmail.com"
-        ]
+        "ERROR": []
     }, 
     "Daniel Tranel": {
         "abandoned_email_list": [], 
@@ -1185,9 +1163,7 @@
             "daniel-tranel@uiowa.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "daniel-tranel@uiowa.com"
-        ]
+        "ERROR": []
     }, 
     "Anoop Gupta": {
         "abandoned_email_list": [
@@ -1210,9 +1186,7 @@
             "david.patterson@umb.edu"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "david.paterson@dpag.ox.ac.uk"
-        ]
+        "ERROR": []
     }, 
     "Elia Stupka": {
         "abandoned_email_list": [
@@ -1296,9 +1270,7 @@
             "c.s.frenk@durham.ac.uk"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "c.s.frenk@durham.ac.uk"
-        ]
+        "ERROR": []
     }, 
     "Daoben Zhu": {
         "abandoned_email_list": [
@@ -1324,9 +1296,7 @@
             "doron.lancet@weizmann.ac.il"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "doron.lancet@weizmann.ac.il"
-        ]
+        "ERROR": []
     }, 
     "Andrzej Skowron": {
         "abandoned_email_list": [
@@ -1404,7 +1374,6 @@
         ], 
         "MISS": [], 
         "ERROR": [
-            "alan@bic.mni.mcgill.ca", 
             "jcevans@ups.edu"
         ]
     }, 
@@ -1677,9 +1646,7 @@
             "valencia@cnio.es"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "avalencia@cnio.es"
-        ]
+        "ERROR": []
     }, 
     "David Haussler": {
         "abandoned_email_list": [
@@ -1731,9 +1698,7 @@
             "dbentley@illumina.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "dbentley@illumina.com"
-        ]
+        "ERROR": []
     }, 
     "Andrew Pickles": {
         "abandoned_email_list": [
@@ -1885,9 +1850,7 @@
             "didier.raoult@gmail.com"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "didier.raoult@medecine.univ-mrs.fr"
-        ]
+        "ERROR": []
     }, 
     "David Wetherall": {
         "abandoned_email_list": [
@@ -2010,9 +1973,7 @@
             "anna.dominiczak@glasgow.ac.uk"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "anna.dominiczak@glasgow.ac.uk"
-        ]
+        "ERROR": []
     }, 
     "Dan Boneh": {
         "abandoned_email_list": [
@@ -2218,9 +2179,7 @@
             "apleone@bidmc.harvard.edu"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "apleone@bidmc.harvard.edu"
-        ]
+        "ERROR": []
     }, 
     "Clifford B. Saper": {
         "abandoned_email_list": [
@@ -2243,9 +2202,7 @@
             "lanzavecchia@micro.biol.ethz.ch"
         ], 
         "MISS": [], 
-        "ERROR": [
-            "lanzavecchia@irb.unisi.ch"
-        ]
+        "ERROR": []
     }, 
     "Danny Reinberg": {
         "abandoned_email_list": [
