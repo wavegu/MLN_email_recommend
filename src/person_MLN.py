@@ -126,7 +126,7 @@ class PersonMLN:
         for email in recommend_email_list:
             if email not in marked_email_list:
                 error_email_list.append(email)
-        person_report_dict['MISS'] = miss_email_list
+        person_report_dict['MISS '] = miss_email_list
         person_report_dict['ERROR'] = error_email_list
 
         return person_report_dict

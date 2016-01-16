@@ -1,3 +1,4 @@
+import re
 import os
 import sys
 reload(sys)
@@ -16,7 +17,8 @@ class NodeMLN:
 
         self.last_name = self.person_name.split(' ')[-1]
         self.first_name = self.person_name.split(' ')[0]
-        self.email_prefix = self.email[:self.email.find('@')]
+        self.prefix = self.email[:self.email.find('@')]
+        self.prefix = re.sub(r'([\d]+)','',self.prefix)
 
     def grounding_string_unary(self, grounding_name, is_true):
         grounding_str = str(grounding_name) + '(' + str(self.node_name) + ')\n'
@@ -24,42 +26,68 @@ class NodeMLN:
             return '!' + grounding_str
         return grounding_str
 
-    def get_grounding_email_prefix_contain_last_name(self):
-        is_contain_last_name = self.last_name in self.email_prefix
-        return self.grounding_string_unary('email_prefix_contain_last_name', is_contain_last_name)
+    def prefix_contain_last_name(self):
+        is_contain_last_name = self.last_name in self.prefix
+        return self.grounding_string_unary('prefix_contain_last_name', is_contain_last_name)
 
-    def get_grounding_email_prefix_contain_first_name(self):
-        is_contain_first_name = self.first_name in self.email_prefix and len(self.first_name) > 2
-        return self.grounding_string_unary('email_prefix_contain_first_name', is_contain_first_name)
+    def prefix_contain_first_name(self):
+        is_contain_first_name = self.first_name in self.prefix and len(self.first_name) > 2
+        return self.grounding_string_unary('prefix_contain_first_name', is_contain_first_name)
 
-    def get_grounding_google_title_contain_last_name(self):
+    def google_title_contain_last_name(self):
         is_contain_last_name = self.last_name in self.google_title
         return self.grounding_string_unary('google_title_contain_last_name', is_contain_last_name)
 
-    def get_grounding_google_title_contain_first_name(self):
+    def google_title_contain_first_name(self):
         is_contain_first_name = self.first_name in self.google_title
-        return self.grounding_string_unary('google_title_contain_last_name', is_contain_first_name)
+        return self.grounding_string_unary('google_title_contain_first_name', is_contain_first_name)
 
-    def get_grounding_google_content_contain_last_name(self):
+    def google_content_contain_last_name(self):
         is_contain_last_name = self.last_name in self.google_content
         return self.grounding_string_unary('google_content_contain_last_name', is_contain_last_name)
 
-    def get_grounding_google_content_contain_all_first_char(self):
+    def google_content_contain_first_name(self):
+        is_contain_first_name = self.last_name in self.google_content
+        return self.grounding_string_unary('google_content_contain_first_name', is_contain_first_name)
+
+    def prefix_contained_in_last_name(self):
+        is_contained_in_last_name = self.prefix in self.last_name
+        return self.grounding_string_unary('prefix_contained_in_last_name', is_contained_in_last_name)
+
+    def prefix_contained_in_first_name(self):
+        is_contained_in_first_name = self.prefix in self.first_name
+        return self.grounding_string_unary('prefix_contained_in_first_name', is_contained_in_first_name)
+
+    def google_content_contain_all_first_char(self):
         all_char = ''
         for name_part in self.person_name.split(' '):
             all_char += name_part[0]
         is_contain_all_first_char = False
-        if all_char in self.email_prefix:
-            is_contain_all_first_char = float(len(all_char)) >= float(len(self.email_prefix)) * 0.6
+        if all_char in self.prefix:
+            is_contain_all_first_char = float(len(all_char)) >= float(len(self.prefix)) * 0.75
         return self.grounding_string_unary('google_content_contain_all_first_char', is_contain_all_first_char)
+
+    def prefix_contained_in_name_part_with_another_first_char(self):
+        first_name_with_first_char = self.last_name[0] + self.first_name
+        last_name_with_first_char = self.first_name[0] + self.last_name
+        is_prefix_contained = self.prefix in first_name_with_first_char or self.prefix in last_name_with_first_char
+        return self.grounding_string_unary('prefix_contained_in_name_part_with_another_first_char', is_prefix_contained)
 
     def get_groundings(self):
         grounding_list = [
-            self.get_grounding_email_prefix_contain_last_name(),
-            self.get_grounding_email_prefix_contain_first_name(),
-            self.get_grounding_google_title_contain_last_name(),
-            self.get_grounding_google_title_contain_first_name(),
-            self.get_grounding_google_content_contain_last_name(),
-            self.get_grounding_google_content_contain_all_first_char()
+            self.prefix_contain_last_name(),
+            self.prefix_contain_first_name(),
+
+            self.prefix_contained_in_last_name(),
+            self.prefix_contained_in_first_name(),
+
+            self.google_title_contain_last_name(),
+            self.google_title_contain_first_name(),
+
+            self.google_content_contain_last_name(),
+            self.google_content_contain_first_name(),
+
+            self.google_content_contain_all_first_char(),
+            self.prefix_contained_in_name_part_with_another_first_char()
         ]
         return grounding_list

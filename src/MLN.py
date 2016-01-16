@@ -59,7 +59,7 @@ class MLN:
             all_marked_num += len(marked_person_dict[person_name]['email_list'])
         for person_name, person_report_dict in report_dict.items():
             all_error_num += len(person_report_dict['ERROR'])
-            all_miss_num += len(person_report_dict['MISS'])
+            all_miss_num += len(person_report_dict['MISS '])
             all_recommend_num += len(person_report_dict['recommend_email_list'])
             all_abandoned_num += len(person_report_dict['abandoned_email_list'])
         all_candidate_num = all_recommend_num + all_abandoned_num
@@ -71,6 +71,11 @@ class MLN:
         print 'accuracy  ', 1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)
         print 'recall    ', float(all_recommend_num - all_error_num) / float(all_marked_num)
         print 'precision ', float(all_recommend_num - all_error_num) / float(all_recommend_num)
+
+        with open('../performance.txt', 'w') as performance_file:
+            performance_file.write('accuracy  ' + str(1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)) + '\n')
+            performance_file.write('recall    ' + str(float(all_recommend_num - all_error_num) / float(all_marked_num)) + '\n')
+            performance_file.write('precision ' + str(float(all_recommend_num - all_error_num) / float(all_recommend_num)) + '\n')
 
         with open(self.report_path, 'w') as report_file:
             report_file.write(json.dumps(report_dict, indent=4))
