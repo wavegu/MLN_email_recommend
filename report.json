@@ -116,27 +116,32 @@
             "rwilson@watson.wustl.edu", 
             "kcrouse@wustl.edu", 
             "thepler@wustl.edu", 
-            "sleong@wustl.edu", 
-            "xqhuang@cs.iastate.edu"
+            "sleong@wustl.edu"
         ], 
         "recommend_email_list": [
-            "achinwal@wustl.edu"
+            "achinwal@wustl.edu", 
+            "xqhuang@cs.iastate.edu"
         ], 
         "MISS ": [], 
-        "ERROR": []
+        "ERROR": [
+            "xqhuang@cs.iastate.edu"
+        ]
     }, 
     "Clark Mobarry": {
         "abandoned_email_list": [
-            "530528.31533.qm@web82504.mail.mud.yahoo.com", 
             "donnac58@yahoo.com", 
-            "384869.68448.qm@web53606.mail.re2.yahoo.com", 
             "yahoomailneo@web120601.mail.ne1.yahoo.com"
         ], 
         "recommend_email_list": [
-            "mobarry@kreative.net"
+            "mobarry@kreative.net", 
+            "530528.31533.qm@web82504.mail.mud.yahoo.com", 
+            "384869.68448.qm@web53606.mail.re2.yahoo.com"
         ], 
         "MISS ": [], 
-        "ERROR": []
+        "ERROR": [
+            "530528.31533.qm@web82504.mail.mud.yahoo.com", 
+            "384869.68448.qm@web53606.mail.re2.yahoo.com"
+        ]
     }, 
     "David E. Culler": {
         "abandoned_email_list": [
@@ -198,14 +203,13 @@
     }, 
     "Bert Vogelstein": {
         "abandoned_email_list": [
-            "vogelbe@welch.jhu.edu", 
-            "vogelbe@jhmi.edu", 
             "velculescu@jhmi.edu"
         ], 
-        "recommend_email_list": [], 
-        "MISS ": [
-            "vogelbe@welch.jhu.edu"
+        "recommend_email_list": [
+            "vogelbe@welch.jhu.edu", 
+            "vogelbe@jhmi.edu"
         ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Deanna Church": {
@@ -230,22 +234,21 @@
     }, 
     "Ashok Agarwal": {
         "abandoned_email_list": [
-            "agarwaa@ccf.org", 
             "email@ccf.org", 
             "aka@uvic.ca"
         ], 
-        "recommend_email_list": [], 
-        "MISS ": [
+        "recommend_email_list": [
             "agarwaa@ccf.org"
         ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Deborah L. Mcguinness": {
         "abandoned_email_list": [
-            "mcguid@rpi.edu", 
             "email@rpi.edu"
         ], 
         "recommend_email_list": [
+            "mcguid@rpi.edu", 
             "dlm@ksl.stanford.edu"
         ], 
         "MISS ": [], 
@@ -483,11 +486,11 @@
     }, 
     "Douglas G. Altman": {
         "abandoned_email_list": [
-            "email@csm.ox.ac.uk", 
-            "ku.ca.xo.msc@namtla.guod"
+            "email@csm.ox.ac.uk"
         ], 
         "recommend_email_list": [
-            "doug.altman@csm.ox.ac.uk"
+            "doug.altman@csm.ox.ac.uk", 
+            "ku.ca.xo.msc@namtla.guod"
         ], 
         "MISS ": [], 
         "ERROR": []
@@ -1154,10 +1157,9 @@
         "ERROR": []
     }, 
     "Anoop Gupta": {
-        "abandoned_email_list": [
-            "query@dranoopgupta.com"
-        ], 
+        "abandoned_email_list": [], 
         "recommend_email_list": [
+            "query@dranoopgupta.com", 
             "anoop@dranoopgupta.com"
         ], 
         "MISS ": [], 
@@ -1201,17 +1203,14 @@
     }, 
     "Alex Bateman": {
         "abandoned_email_list": [
-            "agb@sanger.ac.uk", 
-            "email@ebi.ac.uk", 
-            "agb@ebi.ac.uk"
+            "email@ebi.ac.uk"
         ], 
         "recommend_email_list": [
+            "agb@sanger.ac.uk", 
+            "agb@ebi.ac.uk", 
             "abateman@rmfpc.com"
         ], 
-        "MISS ": [
-            "agb@sanger.ac.uk", 
-            "agb@ebi.ac.uk"
-        ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Christos Faloutsos": {
@@ -1434,14 +1433,13 @@
     }, 
     "Abraham Z. Snyder": {
         "abandoned_email_list": [
-            "avi@npg.wustl.edu", 
             "email@npg.wustl.edu", 
             "jonathan.power@nih.gov"
         ], 
-        "recommend_email_list": [], 
-        "MISS ": [
+        "recommend_email_list": [
             "avi@npg.wustl.edu"
         ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Aravind Subramanian": {
@@ -1887,15 +1885,12 @@
         "ERROR": []
     }, 
     "Desmond G. Higgins": {
-        "abandoned_email_list": [
+        "abandoned_email_list": [], 
+        "recommend_email_list": [
             "ei.dcu@sniggih.sed", 
             "ei.dcu@sreveis.naibaf"
         ], 
-        "recommend_email_list": [], 
-        "MISS ": [
-            "ei.dcu@sniggih.sed", 
-            "ei.dcu@sreveis.naibaf"
-        ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Dani Rodrik": {
@@ -2148,9 +2143,7 @@
             "djs@dewittross.com"
         ], 
         "recommend_email_list": [], 
-        "MISS ": [
-            "djs@dewittross.com"
-        ], 
+        "MISS ": [], 
         "ERROR": []
     }, 
     "Alvaro Pascual-Leone": {
@@ -2465,13 +2458,12 @@
     }, 
     "Charles R. Johnson": {
         "abandoned_email_list": [
-            "chasjohn@uw.edu", 
+            "chasjohn@uw.edu"
+        ], 
+        "recommend_email_list": [
             "crjohnso@math.wm.edu"
         ], 
-        "recommend_email_list": [], 
-        "MISS ": [
-            "crjohnso@math.wm.edu"
-        ], 
+        "MISS ": [], 
         "ERROR": []
     }
 }

@@ -4,6 +4,7 @@
 // hidden predicates
 prefix_contain_last_name(Item)
 prefix_contain_first_name(Item)
+prefix_is_invalid_keyword(Item)
 google_title_contain_last_name(Item)
 google_title_contain_first_name(Item)
 google_content_contain_last_name(Item)
@@ -13,9 +14,9 @@ prefix_contained_in_last_name(Item)
 prefix_contained_in_first_name(Item)
 prefix_contained_in_name_part_with_another_first_char(Item)
 
-same_prefix(A, B)
-same_domain(A, B)
-same_address(A, B)
+*same_prefix(A, B)
+*same_domain(A, B)
+*same_address(A, B)
 
 is_valid_email(Item)
 
@@ -49,22 +50,33 @@ is_valid_email(Item)
 // google_content_contain_last_name(y) => is_valid_email(y)
 0.2  !google_content_contain_last_name(y) v is_valid_email(y)
 
+// google_content_contain_first_name(y) => is_valid_email(y)
+0.2  !google_content_contain_first_name(y) v is_valid_email(y)
+
 // prefix_contained_in_name_part_with_another_first_char(y) => is_valid_email(y)
 2.0  !prefix_contained_in_name_part_with_another_first_char(y) v is_valid_email(y)
 
 
 // same_prefix(a, b) => is_valid_email(a) <=> is_valid_email(b)
-0.9  !same_prefix(a, b) v !is_valid_email(a) v is_valid_email(b)
-0.9  !same_prefix(a, b) v !is_valid_email(b) v is_valid_email(a)
+0.45  !same_prefix(a, b) v is_valid_email(a)
+0.45  !same_prefix(a, b) v is_valid_email(b)
+0.6	  !same_prefix(a, b) v !is_valid_email(a) v is_valid_email(b)
+0.6	  !same_prefix(a, b) v !is_valid_email(b) v is_valid_email(a)
 
 // same_domain(a, b) => is_valid_email(a) <=> is_valid_email(b)
-0.5  !same_domain(a, b) v is_valid_email(a) v is_valid_email(b)
+0.3  !same_domain(a, b) v same_prefix(a, b) v !is_valid_email(a) v !is_valid_email(b)
+0.3 !same_domain(a, b) v same_prefix(a, b) v !prefix_is_invalid_keyword(a) v is_valid_email(b)
+0.3 !same_domain(a, b) v same_prefix(a, b) v !prefix_is_invalid_keyword(b) v is_valid_email(a)
 
 // same_address(a, b) => is_valid_email(a) <=> is_valid_email(b)
+0.4  !same_address(a, b) v is_valid_email(a)
+0.4  !same_address(a, b) v is_valid_email(b)
 2.0  !same_address(a, b) v !is_valid_email(a) v is_valid_email(b)
 2.0  !same_address(a, b) v !is_valid_email(b) v is_valid_email(a)
 
 
+// prefix_is_invalid_keyword(y) => is_valid_email(y)
+10.0  !prefix_is_invalid_keyword(y) v !is_valid_email(y)
 
 
 

@@ -31,7 +31,7 @@ class MLN:
 
     def run_exp(self, exp_person_num):
         for person in self.person_list:
-            person.write_mln_data_file()
+            person.write_mln_evidence_file()
             person.run_tuffy()
             exp_person_num -= 1
             if exp_person_num == 0:
@@ -68,13 +68,14 @@ class MLN:
         print 'miss      ', all_miss_num
         print 'error     ', all_error_num
         print 'marked    ', all_marked_num
+        print 'recommend ', all_recommend_num
         print 'accuracy  ', 1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)
-        print 'recall    ', float(all_recommend_num - all_error_num) / float(all_marked_num)
+        print 'recall    ', float(all_recommend_num - all_error_num) / float(all_recommend_num - all_error_num + all_miss_num)
         print 'precision ', float(all_recommend_num - all_error_num) / float(all_recommend_num)
 
         with open('../performance.txt', 'w') as performance_file:
             performance_file.write('accuracy  ' + str(1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)) + '\n')
-            performance_file.write('recall    ' + str(float(all_recommend_num - all_error_num) / float(all_marked_num)) + '\n')
+            performance_file.write('recall    ' + str(float(all_recommend_num - all_error_num) / float(all_recommend_num - all_error_num + all_miss_num)) + '\n')
             performance_file.write('precision ' + str(float(all_recommend_num - all_error_num) / float(all_recommend_num)) + '\n')
 
         with open(self.report_path, 'w') as report_file:
@@ -83,5 +84,5 @@ class MLN:
 
 if __name__ == '__main__':
     mln = MLN()
-    # mln.run_exp(1000)
+    mln.run_exp(1000)
     mln.evaluate()

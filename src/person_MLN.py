@@ -54,7 +54,7 @@ class PersonMLN:
         with open(self.processed_item_file_path, 'w') as output_item_file:
             output_item_file.write(json.dumps(processed_google_item_list, indent=4, ensure_ascii=False))
 
-    def write_mln_data_file(self):
+    def write_mln_evidence_file(self):
 
         # 得到处理过的items文件，其中每个item是一个MLN节点
         self.write_processed_google_item_file()
@@ -67,9 +67,20 @@ class PersonMLN:
         # 每个节点写对应的 MLN data 文件
         with open(self.grounding_file_path, 'w') as grounding_file:
             for node in node_mln_list:
-                node_grounding_list = node.get_groundings()
+                # 写单节点evidence
+                node_grounding_list = node.get_unary_groundings()
                 for node_grounding in node_grounding_list:
                     grounding_file.write(node_grounding)
+                # 写连边evidence
+                for another_node in node_mln_list:
+                    if node.node_name == another_node.node_name:
+                        continue
+                    if node.prefix == another_node.prefix:
+                        grounding_file.write(node.grounding_string_binary('same_prefix', another_node.node_name))
+                    if node.domain == another_node.domain:
+                        grounding_file.write(node.grounding_string_binary('same_domain', another_node.node_name))
+                    if node.prefix == another_node.prefix and node.domain == another_node.domain:
+                        grounding_file.write(node.grounding_string_binary('same_address', another_node.node_name))
                 grounding_file.write('\n')
 
     def run_tuffy(self):

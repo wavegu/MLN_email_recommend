@@ -2297,7 +2297,7 @@
             "edu": "", 
             "position": "Professor", 
             "homepage": "http://www.hopkinsmedicine.org/pharmacology_molecular_sciences/faculty/bios/vogelstein.html", 
-            "email": "vogelbe@welch.jhu.edu", 
+            "email": "vogelbe@welch.jhu.edu, vogelbe@jhmi.edu", 
             "address": "Room 589, Cancer Research Bldg., 1650 Orleans Street, Baltimore, MD 21231"
         }, 
         "n_citation": 12245, 
@@ -5702,7 +5702,7 @@
             "edu": "Professor Doug Altman graduated in statistics from the University of Bath.", 
             "position": "Professor", 
             "homepage": "http://www.octru.ox.ac.uk/team/researchers/doug-altman", 
-            "email": "doug.altman@csm.ox.ac.uk", 
+            "email": "doug.altman@csm.ox.ac.uk, ku.ca.xo.msc@namtla.guod", 
             "address": ""
         }, 
         "n_citation": 6917, 
@@ -9958,7 +9958,7 @@
             "position": "Professor", 
             "bsuniv": "Colgate University ", 
             "homepage": "http://pages.cs.wisc.edu/~dewitt/", 
-            "email": "dewitt@cs.wisc.edu, djs@dewittross.com"
+            "email": "dewitt@cs.wisc.edu"
         }, 
         "n_citation": 25366, 
         "id": "53f48d93dabfaea7cd1d33c4"
@@ -12936,7 +12936,7 @@
             "edu": "", 
             "position": "Professor", 
             "homepage": "http://web.stanford.edu/class/ee380/Abstracts/070110.html", 
-            "email": "anoop@microsoft.com, anoop@dranoopgupta.com", 
+            "email": "anoop@microsoft.com, anoop@dranoopgupta.com, query@dranoopgupta.com", 
             "address": ""
         }, 
         "n_citation": 22997, 
@@ -25920,7 +25920,7 @@
             "position": "acting director and senior research scientist", 
             "bsuniv": "Duke University", 
             "homepage": "http://www.ksl.stanford.edu/people/dlm/", 
-            "email": "dlm@ksl.stanford.edu"
+            "email": "dlm@ksl.stanford.edu, mcguid@rpi.edu"
         }, 
         "n_citation": 15244, 
         "id": "53f56978dabfae679bf8045b"
