@@ -1,21 +1,23 @@
 [
     {
+        "title": "Bert Vogelstein - Johns Hopkins Medicine", 
         "content": "rank: clayton professor of oncology and pathology telephone number: 410-955-8878. fax number: 410-955-0548. e-mail address: vogelbe@welch.jhu.edu", 
+        "cite_name": "Johns Hopkins School of Medicine", 
         "email_addr_list": [
             "vogelbe@welch.jhu.edu"
         ], 
-        "cite_url": "www.hopkinsmedicine.org/.../vogelst...", 
-        "cite_name": "Johns Hopkins School of Medicine", 
-        "title": "Bert Vogelstein - Johns Hopkins Medicine"
+        "id": "563", 
+        "cite_url": "www.hopkinsmedicine.org/.../vogelst..."
     }, 
     {
-        "content": "apr 2, 2012 - ... kenneth w. kinzler,; bert vogelstein,† and; victor e. velculescu,†. + author ... e-mail: vogelbe@jhmi.edu (b.v.); velculescu@jhmi.edu (v.e.v).", 
+        "title": "The Predictive Capacity of Personal Genome Sequencing ...", 
+        "content": "apr 2, 2012 - ... kenneth w. kinzler,; bert vogelstein,\u2020 and; victor e. velculescu,\u2020. + author ... e-mail: vogelbe@jhmi.edu (b.v.); velculescu@jhmi.edu (v.e.v).", 
+        "cite_name": "Science Translational Medicine", 
         "email_addr_list": [
             "vogelbe@jhmi.edu", 
             "velculescu@jhmi.edu"
         ], 
-        "cite_url": "stm.sciencemag.org/.../scitranslmed.3003...", 
-        "cite_name": "Science Translational Medicine", 
-        "title": "The Predictive Capacity of Personal Genome Sequencing ..."
+        "id": "564", 
+        "cite_url": "stm.sciencemag.org/.../scitranslmed.3003..."
     }
 ]

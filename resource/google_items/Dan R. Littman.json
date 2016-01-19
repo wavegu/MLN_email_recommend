@@ -1,75 +1,83 @@
 [
     {
+        "title": "Dan R. Littman - Skirball Institute of Biomolecular Medicine", 
         "content": "e-mail: dan.littman@med.nyu.edu ... email: jeff.blenker@med.nyu.edu ... kirigin fk, birchmeier c, wagner ef, murphy km, myers rm, bonneau r, littman dr.", 
+        "cite_name": "NYU Langone Medical Center", 
         "email_addr_list": [
             "dan.littman@med.nyu.edu", 
             "jeff.blenker@med.nyu.edu"
         ], 
-        "cite_url": "skirball.med.nyu.edu/faculty/.../dan-r-littm...", 
-        "cite_name": "NYU Langone Medical Center", 
-        "title": "Dan R. Littman - Skirball Institute of Biomolecular Medicine"
+        "id": "761", 
+        "cite_url": "skirball.med.nyu.edu/faculty/.../dan-r-littm..."
     }, 
     {
+        "title": "Dan Rudolf Littman | NYU School of Medicine", 
         "content": "contact info. phone: 212/263-7579. email: dan.littman@med.nyu.edu. web: hhmi research in progress  littman lab, skirball institute. research; publications...", 
+        "cite_name": "NYU Langone Medical Center", 
         "email_addr_list": [
             "dan.littman@med.nyu.edu"
         ], 
-        "cite_url": "www.med.nyu.edu/biosketch/littmd01", 
-        "cite_name": "NYU Langone Medical Center", 
-        "title": "Dan Rudolf Littman | NYU School of Medicine"
+        "id": "762", 
+        "cite_url": "www.med.nyu.edu/biosketch/littmd01"
     }, 
     {
+        "title": "Dan R. Littman, MD, PhD | The Helen L. and Martin S ...", 
         "content": "dan r. littman, md, phd. dan r ... e-mail: dan.littman@med.nyu.edu. lab website: http://saturn.med.nyu.edu/research/mp/littmanlab/index.html. research...", 
+        "cite_name": "NYU Langone Medical Center", 
         "email_addr_list": [
             "dan.littman@med.nyu.edu"
         ], 
-        "cite_url": "kimmelstem.med.nyu.edu/dan-r-littman", 
-        "cite_name": "NYU Langone Medical Center", 
-        "title": "Dan R. Littman, MD, PhD | The Helen L. and Martin S ..."
+        "id": "763", 
+        "cite_url": "kimmelstem.med.nyu.edu/dan-r-littman"
     }, 
     {
+        "title": "United States of America", 
         "content": "email: lsherman@scripps.eduthis e-mail address is being protected from spambots. you need javascript ... dan r. littman, m.d., ph.d. on council since 2010", 
+        "cite_name": "", 
         "email_addr_list": [
             "lsherman@scripps.eduthis"
         ], 
-        "cite_url": "www.iuisonline.org/index.php?option=com_content...", 
-        "cite_name": "", 
-        "title": "United States of America"
+        "id": "764", 
+        "cite_url": "www.iuisonline.org/index.php?option=com_content..."
     }, 
     {
+        "title": "Dan Littman - Google Scholar Citations", 
         "content": "dan littman. nyu langone ... verified email at med.nyu.edu - homepage ... hk deng, r liu, w ellmeier, s choe, d unutmaz, m burkhart, pd marzio, ... nature...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@med.nyu.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=k_88WOoAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Dan Littman - Google Scholar Citations"
+        "id": "765", 
+        "cite_url": "scholar.google.com/citations?user=k_88WOoAAAAJ..."
     }, 
     {
+        "title": "About AAI - The American Association of Immunologists", 
         "content": "president: dan r. littman, m.d., ph.d., hhmi/skirball institute of biomolecular medicine, new york, ... email: infoaai@aai.org | website feedback: aai webmaster.", 
+        "cite_name": "American Association of Immunologists", 
         "email_addr_list": [
             "infoaai@aai.org"
         ], 
-        "cite_url": "https://aai.org/About/", 
-        "cite_name": "American Association of Immunologists", 
-        "title": "About AAI - The American Association of Immunologists"
+        "id": "766", 
+        "cite_url": "https://aai.org/About/"
     }, 
     {
-        "content": "amélie collins, dan r. littman  ichiro taniuchi about the authors. top of page ... correspondence to: dan r. littman email: dan.littman@med.nyu.edu.", 
+        "title": "RUNX proteins in transcription factor networks that ... - Nature", 
+        "content": "am\u00e9lie collins, dan r. littman  ichiro taniuchi about the authors. top of page ... correspondence to: dan r. littman email: dan.littman@med.nyu.edu.", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "dan.littman@med.nyu.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "RUNX proteins in transcription factor networks that ... - Nature"
+        "id": "767", 
+        "cite_url": ""
     }, 
     {
-        "content": "amélie collins, dan r. littman  ichiro taniuchi about the authors ... correspondence to: ichiro taniuchi email: taniuchi@rcai.riken.jp. top of page...", 
+        "title": "RUNX proteins in transcription factor networks that regulate ...", 
+        "content": "am\u00e9lie collins, dan r. littman  ichiro taniuchi about the authors ... correspondence to: ichiro taniuchi email: taniuchi@rcai.riken.jp. top of page...", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "taniuchi@rcai.riken.jp"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "RUNX proteins in transcription factor networks that regulate ..."
+        "id": "768", 
+        "cite_url": ""
     }
 ]

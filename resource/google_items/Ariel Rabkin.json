@@ -1,20 +1,22 @@
 [
     {
+        "title": "Ariel Rabkin", 
         "content": "ariel (ari) rabkin ... the best way to contact me is email to asrabkin at gmail.com ... ariel rabkin, matvey arye, siddhartha sen, vivek pai, and michael j.", 
+        "cite_name": "", 
         "email_addr_list": [
             "asrabkin@gmail.com"
         ], 
-        "cite_url": "asrabkin.bitbucket.org/", 
-        "cite_name": "", 
-        "title": "Ariel Rabkin"
+        "id": "403", 
+        "cite_url": "asrabkin.bitbucket.org/"
     }, 
     {
+        "title": "Ari Rabkin - Google Scholar Citations", 
         "content": "verified email at cloudera.com - homepage ... j boulon, a konwinski, r qi, a rabkin, e yang, m yang ... a rabkin, m arye, s sen, vs pai, mj freedman.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cloudera.com"
         ], 
-        "cite_url": "scholar.google.com/citations?user=QYsnk-cAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Ari Rabkin - Google Scholar Citations"
+        "id": "404", 
+        "cite_url": "scholar.google.com/citations?user=QYsnk-cAAAAJ..."
     }
 ]

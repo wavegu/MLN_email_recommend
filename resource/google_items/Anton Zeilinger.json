@@ -1,48 +1,53 @@
 [
     {
+        "title": "Anton Zeilinger - IQOQI", 
         "content": "anton zeilinger. group leader. zi 3.1 ... 3, 1090 vienna, austria. anton.zeilinger@univie.ac.at .... tel.: +43 1 427729582. email: iqoqi-vienna@oeaw.ac.at", 
+        "cite_name": "", 
         "email_addr_list": [
             "anton.zeilinger@univie.ac.at", 
             "iqoqi-vienna@oeaw.ac.at"
         ], 
-        "cite_url": "www.iqoqi-vienna.at/team/anton-zeilinger/", 
-        "cite_name": "", 
-        "title": "Anton Zeilinger - IQOQI"
+        "id": "373", 
+        "cite_url": "www.iqoqi-vienna.at/team/anton-zeilinger/"
     }, 
     {
+        "title": "Anton Zeilinger \u2014 Berlin-Brandenburgische Akademie der ...", 
         "content": "tel.: 00 43/1/4 27 75 12 01. fax.: 00 43/1/4 27 72 95 52. e-mail: anton.zeilinger@univie.ac.at. website: http://www.quantum.at/zeilinger...", 
+        "cite_name": "", 
         "email_addr_list": [
             "anton.zeilinger@univie.ac.at"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "Anton Zeilinger — Berlin-Brandenburgische Akademie der ..."
+        "id": "374", 
+        "cite_url": ""
     }, 
     {
+        "title": "Anton Zeilinger - Google Scholar Citations", 
         "content": "cancel. anton zeilinger. university of vienna. verified email at univie.ac.at - homepage ... d bouwmeester, jw pan, k mattle, m eibl, h weinfurter, a zeilinger.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@univie.ac.at"
         ], 
-        "cite_url": "scholar.google.com/citations?user=cuqIY0oAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Anton Zeilinger - Google Scholar Citations"
+        "id": "375", 
+        "cite_url": "scholar.google.com/citations?user=cuqIY0oAAAAJ..."
     }, 
     {
-        "content": "fax: ++43/1/515 81-3449. e-mail: komarek@oeaw.ac.at. weitere vertreter der Öaw: präsident univ.-prof. dr. anton zeilinger Österreichische akademie der...", 
+        "title": "\u00d6sterreichische IIASA-Kommission", 
+        "content": "fax: ++43/1/515 81-3449. e-mail: komarek@oeaw.ac.at. weitere vertreter der \u00d6aw: pr\u00e4sident univ.-prof. dr. anton zeilinger \u00d6sterreichische akademie der...", 
+        "cite_name": "", 
         "email_addr_list": [
             "komarek@oeaw.ac.at"
         ], 
-        "cite_url": "www.oeaw.ac.at/iiasa-kom/mitglieder.html", 
-        "cite_name": "", 
-        "title": "Österreichische IIASA-Kommission"
+        "id": "376", 
+        "cite_url": "www.oeaw.ac.at/iiasa-kom/mitglieder.html"
     }, 
     {
+        "title": "DLD Conference Speaker: Anton Zeilinger", 
         "content": "jan 19, 2014 - anton zeilinger is a physicist who has held teaching and research positions at m.i.t., the universities of innsbruck and oxford, at the technical...", 
+        "cite_name": "", 
         "email_addr_list": [
             "positions@m.i.t"
         ], 
-        "cite_url": "dld-conference.com/users/anton-zeilinger", 
-        "cite_name": "", 
-        "title": "DLD Conference Speaker: Anton Zeilinger"
+        "id": "377", 
+        "cite_url": "dld-conference.com/users/anton-zeilinger"
     }
 ]

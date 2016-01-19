@@ -1,20 +1,22 @@
 [
     {
+        "title": "Micromanagers of gene expression: the potentially ... - Nature", 
         "content": "david p. bartel  chang-zheng chen about the authors. top of page ... correspondence to: david p. bartel email: dbartel@wi.mit.edu. top of page...", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "dbartel@wi.mit.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Micromanagers of gene expression: the potentially ... - Nature"
+        "id": "888", 
+        "cite_url": ""
     }, 
     {
+        "title": "MicroRNAs in the Hox network: an apparent link to posterior ...", 
         "content": "soraya yekta, clifford j. tabin  david p. bartel about the authors. top of page ... correspondence to: david p. bartel email: dbartel@wi.mit.edu. top of page...", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "dbartel@wi.mit.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "MicroRNAs in the Hox network: an apparent link to posterior ..."
+        "id": "889", 
+        "cite_url": ""
     }
 ]

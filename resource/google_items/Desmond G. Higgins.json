@@ -1,20 +1,22 @@
 [
     {
-        "content": "professor desmond gerard higgins b.a.(mod), phd. ▽. ◁. ▷. home [x] ... conway institute belfield dublin 4. telephone: ext. 6833. email: ei.dcu@sniggih.sed...", 
+        "title": "Professor Des Higgins | UCD Conway", 
+        "content": "professor desmond gerard higgins b.a.(mod), phd. \u25bd. \u25c1. \u25b7. home [x] ... conway institute belfield dublin 4. telephone: ext. 6833. email: ei.dcu@sniggih.sed...", 
+        "cite_name": "University College Dublin", 
         "email_addr_list": [
             "ei.dcu@sniggih.sed"
         ], 
-        "cite_url": "", 
-        "cite_name": "University College Dublin", 
-        "title": "Professor Des Higgins | UCD Conway"
+        "id": "922", 
+        "cite_url": ""
     }, 
     {
+        "title": "OD-seq: outlier detection in multiple sequence alignments", 
         "content": "aug 25, 2015 - and desmond g. higgins ..... fabian sievers, email: ei.dcu@sreveis.naibaf. ... penn o, privman e, landan g, graur d, pupko t. an alignment...", 
+        "cite_name": "National Center for Biotechnology Information", 
         "email_addr_list": [
             "ei.dcu@sreveis.naibaf"
         ], 
-        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
-        "cite_name": "National Center for Biotechnology Information", 
-        "title": "OD-seq: outlier detection in multiple sequence alignments"
+        "id": "923", 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P..."
     }
 ]

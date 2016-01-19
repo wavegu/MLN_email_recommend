@@ -1,29 +1,32 @@
 [
     {
-        "content": "email: lorenzomoretta@ospedalegaslini.ge.it ... professor lorenzo moretta is ordinary professor of general pathology and ... alessandro moretta´s lab was.", 
+        "title": "[PDF]Profile Lorenzo Moretta - enii.org", 
+        "content": "email: lorenzomoretta@ospedalegaslini.ge.it ... professor lorenzo moretta is ordinary professor of general pathology and ... alessandro moretta\u00b4s lab was.", 
+        "cite_name": "", 
         "email_addr_list": [
             "lorenzomoretta@ospedalegaslini.ge.it"
         ], 
-        "cite_url": "www.enii.org/upload/doc/doc46ea9b008fa36.pdf", 
-        "cite_name": "", 
-        "title": "[PDF]Profile Lorenzo Moretta - enii.org"
+        "id": "206", 
+        "cite_url": "www.enii.org/upload/doc/doc46ea9b008fa36.pdf"
     }, 
     {
+        "title": "Highly effective NK cells are associated with good prognosis ...", 
         "content": "email this article (login required) ... naji salem3, jochen walz3, alessandro moretta4 and daniel olive1,2,3 ... daniel olive, email: daniel.olive@inserm.fr.", 
+        "cite_name": "", 
         "email_addr_list": [
             "daniel.olive@inserm.fr"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "Highly effective NK cells are associated with good prognosis ..."
+        "id": "207", 
+        "cite_url": ""
     }, 
     {
+        "title": "Recruitment Consultant (m/w) - Headhunter! Karriere ... - Xing", 
         "content": "nov 18, 2014 - ... an up to date cv or connect with alessandro moretta on xing or email: a.moretta@realstaffing.com expressing your interest in this position.", 
+        "cite_name": "XING", 
         "email_addr_list": [
             "a.moretta@realstaffing.com"
         ], 
-        "cite_url": "https://www.xing.com/.../recruitment-consultant-m-strich-w-10089...", 
-        "cite_name": "XING", 
-        "title": "Recruitment Consultant (m/w) - Headhunter! Karriere ... - Xing"
+        "id": "208", 
+        "cite_url": "https://www.xing.com/.../recruitment-consultant-m-strich-w-10089..."
     }
 ]

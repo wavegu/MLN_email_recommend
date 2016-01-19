@@ -1,11 +1,12 @@
 [
     {
+        "title": "Andrew Tanenbaum - Google Scholar Citations", 
         "content": "andrew tanenbaum. professor of computer ... verified email at cs.vu.nl - homepage  scholar ... as tanenbaum, as woodhull, as tanenbaum, as tanenbaum.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cs.vu.nl"
         ], 
-        "cite_url": "scholar.google.com/citations?user=TvjaNqkAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Andrew Tanenbaum - Google Scholar Citations"
+        "id": "331", 
+        "cite_url": "scholar.google.com/citations?user=TvjaNqkAAAAJ"
     }
 ]

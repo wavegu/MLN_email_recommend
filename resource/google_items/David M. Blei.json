@@ -1,20 +1,22 @@
 [
     {
+        "title": "David Blei - Columbia University", 
         "content": "david m. blei. columbia university david.blei@columbia.edu ... please email me if you would like permission to take the course. my previous courses are here.", 
+        "cite_name": "Columbia University", 
         "email_addr_list": [
             "david.blei@columbia.edu"
         ], 
-        "cite_url": "www.cs.columbia.edu/~blei/", 
-        "cite_name": "Columbia University", 
-        "title": "David Blei - Columbia University"
+        "id": "882", 
+        "cite_url": "www.cs.columbia.edu/~blei/"
     }, 
     {
+        "title": "David Blei - Google Scholar Citations", 
         "content": "verified email at columbia.edu - homepage  scholar ... k barnard, p duygulu, d forsyth, n de freitas, dm blei, mi jordan ... m hoffman, fr bach, dm blei.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@columbia.edu"
         ], 
-        "cite_url": "https://scholar.google.com/citations?user...", 
-        "cite_name": "Google Scholar", 
-        "title": "David Blei - Google Scholar Citations"
+        "id": "883", 
+        "cite_url": "https://scholar.google.com/citations?user..."
     }
 ]

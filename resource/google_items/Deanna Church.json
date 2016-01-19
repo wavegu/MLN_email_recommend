@@ -1,20 +1,22 @@
 [
     {
-        "content": "deanna church, phd • personalis, inc. ... organizer. lynn duncan; phone: 415.476.2470; email: lynn.duncan@ucsf.edu...", 
+        "title": "Deanna Church, PhD \u2022 Personalis, Inc. - Institute for Human ...", 
+        "content": "deanna church, phd \u2022 personalis, inc. ... organizer. lynn duncan; phone: 415.476.2470; email: lynn.duncan@ucsf.edu...", 
+        "cite_name": "University of California, San Francisco", 
         "email_addr_list": [
             "lynn.duncan@ucsf.edu"
         ], 
-        "cite_url": "humangenetics.ucsf.edu/.../deanna...", 
-        "cite_name": "University of California, San Francisco", 
-        "title": "Deanna Church, PhD • Personalis, Inc. - Institute for Human ..."
+        "id": "899", 
+        "cite_url": "humangenetics.ucsf.edu/.../deanna..."
     }, 
     {
+        "title": "Extending reference assembly models - Genome Biology", 
         "content": "jan 24, 2015 - deanna m church*, valerie a schneider*, karyn meltz steinberg, michael c schatz, ... corresponding authors: deanna m church deanna.church@personalis.com - valerie a schneider ... for all author emails, please log on.", 
+        "cite_name": "Genome Biology", 
         "email_addr_list": [
             "deanna.church@personalis.com"
         ], 
-        "cite_url": "www.genomebiology.com/2015/16/1/13", 
-        "cite_name": "Genome Biology", 
-        "title": "Extending reference assembly models - Genome Biology"
+        "id": "900", 
+        "cite_url": "www.genomebiology.com/2015/16/1/13"
     }
 ]

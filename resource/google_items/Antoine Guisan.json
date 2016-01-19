@@ -1,29 +1,32 @@
 [
     {
-        "content": "antoine guisan. university of lausanne ... verified email at unil.ch. scholar ... w thuiller, c albert, mb araújo, pm berry, m cabeza, a guisan, t hickler, .", 
+        "title": "Antoine Guisan - Google Scholar Citations", 
+        "content": "antoine guisan. university of lausanne ... verified email at unil.ch. scholar ... w thuiller, c albert, mb ara\u00fajo, pm berry, m cabeza, a guisan, t hickler, .", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@unil.ch"
         ], 
-        "cite_url": "scholar.google.com/citations?user=89DB5TMAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Antoine Guisan - Google Scholar Citations"
+        "id": "370", 
+        "cite_url": "scholar.google.com/citations?user=89DB5TMAAAAJ..."
     }, 
     {
-        "content": "jun 23, 2005 - antoine guisan,. laboratoire de biologie de la conservation (lbc), département decologie et devolution ... e-mail: antoine.guisan@unil.ch...", 
-        "email_addr_list": [
-            "antoine.guisan@unil.ch"
-        ], 
-        "cite_url": "onlinelibrary.wiley.com/doi/10.1111/j...x/abstract", 
+        "title": "Predicting species distribution: offering more than simple ...", 
+        "content": "jun 23, 2005 - antoine guisan,. laboratoire de biologie de la conservation (lbc), d\u00e9partement decologie et devolution ... e-mail: antoine.guisan@unil.ch...", 
         "cite_name": "John Wiley  Sons", 
-        "title": "Predicting species distribution: offering more than simple ..."
-    }, 
-    {
-        "content": "email: antoine.guisan@unil.ch website. past visitors. dr frederick garcia. fred joined us in august 2011 from toulouse france, to teach a short course with...", 
         "email_addr_list": [
             "antoine.guisan@unil.ch"
         ], 
-        "cite_url": "taramartin.org/visitors/", 
+        "id": "371", 
+        "cite_url": "onlinelibrary.wiley.com/doi/10.1111/j...x/abstract"
+    }, 
+    {
+        "title": "Visitors \u2013 Martin Conservation Decisions Lab", 
+        "content": "email: antoine.guisan@unil.ch website. past visitors. dr frederick garcia. fred joined us in august 2011 from toulouse france, to teach a short course with...", 
         "cite_name": "", 
-        "title": "Visitors – Martin Conservation Decisions Lab"
+        "email_addr_list": [
+            "antoine.guisan@unil.ch"
+        ], 
+        "id": "372", 
+        "cite_url": "taramartin.org/visitors/"
     }
 ]

@@ -1,11 +1,12 @@
 [
     {
+        "title": "Twenty Questions for Donald Knuth | | InformIT", 
         "content": "may 20, 2014 - if you want email notifications, send an email to taocp@awl.com. ... don knuth: scholars can look at the handwritten pages that led to volumes...", 
+        "cite_name": "InformIT", 
         "email_addr_list": [
             "taocp@awl.com"
         ], 
-        "cite_url": "", 
-        "cite_name": "InformIT", 
-        "title": "Twenty Questions for Donald Knuth | | InformIT"
+        "id": "956", 
+        "cite_url": ""
     }
 ]

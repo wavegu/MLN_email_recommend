@@ -1,20 +1,22 @@
 [
     {
+        "title": "UMB Institute for Genome Sciences | UM BioPark", 
         "content": "... of maryland school of medicine led by claire m. fraser, ph.d., one of the worlds preeminent genome scientists. ... email: igs-info@som.umaryland.edu...", 
+        "cite_name": "", 
         "email_addr_list": [
             "igs-info@som.umaryland.edu"
         ], 
-        "cite_url": "www.umbiopark.com/tenants/umb-institute-genome-sciences", 
-        "cite_name": "", 
-        "title": "UMB Institute for Genome Sciences | UM BioPark"
+        "id": "724", 
+        "cite_url": "www.umbiopark.com/tenants/umb-institute-genome-sciences"
     }, 
     {
+        "title": "BD Board of Directors Elects Dr. Claire M. Fraser-Liggett", 
         "content": "sep 26, 2006 - contact: colleen t. white corporate communications (201) 847-5369. email: colleen_white@bd.com. patricia a. spinella investor relations", 
+        "cite_name": "Becton Dickinson", 
         "email_addr_list": [
             "colleen_white@bd.com"
         ], 
-        "cite_url": "https://bd.com/.../b_article.asp?...", 
-        "cite_name": "Becton Dickinson", 
-        "title": "BD Board of Directors Elects Dr. Claire M. Fraser-Liggett"
+        "id": "725", 
+        "cite_url": "https://bd.com/.../b_article.asp?..."
     }
 ]

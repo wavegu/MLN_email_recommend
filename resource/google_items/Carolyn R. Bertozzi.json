@@ -1,20 +1,22 @@
 [
     {
+        "title": "Carolyn R. Bertozzi | College of Chemistry", 
         "content": "professor of chemistry. email: crb@berkeley.edu (link sends e-mail) office: 820 latimer hall phone: 510.643.1682 fax: 510.643.2628 lab: d86-d79 hildebrand", 
+        "cite_name": "UC Berkeley College of Chemistry", 
         "email_addr_list": [
             "crb@berkeley.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "UC Berkeley College of Chemistry", 
-        "title": "Carolyn R. Bertozzi | College of Chemistry"
+        "id": "641", 
+        "cite_url": ""
     }, 
     {
+        "title": "Carolyn R. BERTOZZI - Google Scholar Citations", 
         "content": "cancel. carolyn r. bertozzi. university of california, berkeley. verified email at berkeley.edu. scholar ... ced chidsey, cr bertozzi, tm putvinski, am mujsce.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@berkeley.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=t5PHthoAAAAJhl...", 
-        "cite_name": "Google Scholar", 
-        "title": "Carolyn R. BERTOZZI - Google Scholar Citations"
+        "id": "642", 
+        "cite_url": "scholar.google.com/citations?user=t5PHthoAAAAJhl..."
     }
 ]

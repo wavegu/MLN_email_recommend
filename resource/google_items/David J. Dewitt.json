@@ -1,11 +1,12 @@
 [
     {
-        "content": "david schwartz is a personal injury and medical malpractice attorney in the madison, wisconsin ... david j. schwartz • attorney ... email: djs@dewittross.com.", 
+        "title": "David J. Schwartz - DeWitt Ross and Stevens Law Firm", 
+        "content": "david schwartz is a personal injury and medical malpractice attorney in the madison, wisconsin ... david j. schwartz \u2022 attorney ... email: djs@dewittross.com.", 
+        "cite_name": "DeWitt Ross  Stevens S.C.", 
         "email_addr_list": [
             "djs@dewittross.com"
         ], 
-        "cite_url": "www.dewittross.com/our.../david-schwartz", 
-        "cite_name": "DeWitt Ross  Stevens S.C.", 
-        "title": "David J. Schwartz - DeWitt Ross and Stevens Law Firm"
+        "id": "867", 
+        "cite_url": "www.dewittross.com/our.../david-schwartz"
     }
 ]

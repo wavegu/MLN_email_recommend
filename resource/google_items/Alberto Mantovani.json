@@ -1,20 +1,22 @@
 [
     {
+        "title": "DC-Research Knowledge Portal: Alberto Mantovani", 
         "content": "phone, +39 02 8224 2444. fax, +39 02 8224 5101. email, alberto.mantovani@humanitasresearch.it. address, via manzoni, 56 20089 rozzano italy...", 
+        "cite_name": "", 
         "email_addr_list": [
             "alberto.mantovani@humanitasresearch.it"
         ], 
-        "cite_url": "dc-research.eu/person/alberto-mantovani", 
-        "cite_name": "", 
-        "title": "DC-Research Knowledge Portal: Alberto Mantovani"
+        "id": "197", 
+        "cite_url": "dc-research.eu/person/alberto-mantovani"
     }, 
     {
-        "content": "altro recapito telefonico, 02 5031 2887. e-mail, alberto.mantovani@unimi.it. altra e-mail. luogo di ricevimento. orario di ricevimento, martedì 16.00-17.00 istituto...", 
+        "title": "alberto mantovani - Professori e Ricercatori dei Corsi di laurea", 
+        "content": "altro recapito telefonico, 02 5031 2887. e-mail, alberto.mantovani@unimi.it. altra e-mail. luogo di ricevimento. orario di ricevimento, marted\u00ec 16.00-17.00 istituto...", 
+        "cite_name": "", 
         "email_addr_list": [
             "alberto.mantovani@unimi.it"
         ], 
-        "cite_url": "www.medicina.unimi.it/.../MANTOVANI-ALBERTO-...", 
-        "cite_name": "", 
-        "title": "alberto mantovani - Professori e Ricercatori dei Corsi di laurea"
+        "id": "198", 
+        "cite_url": "www.medicina.unimi.it/.../MANTOVANI-ALBERTO-..."
     }
 ]

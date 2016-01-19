@@ -1,39 +1,43 @@
 [
     {
+        "title": "USC - Viterbi School of Engineering - Carl Kesselman", 
         "content": "email: carl@isi.edu. web page: http://www.isi.edu/~carl. education dr. kesselman received a dual ba/bs in computer science and electrical engineering from...", 
-        "email_addr_list": [
-            "carl@isi.edu"
-        ], 
-        "cite_url": "ise.usc.edu/directory/carl_kesselman.htm", 
         "cite_name": "University of Southern California", 
-        "title": "USC - Viterbi School of Engineering - Carl Kesselman"
-    }, 
-    {
-        "content": "carl kesselman. carl kesselman, ph.d. director, medical informatics isi ... email: carl at isi.edu. phone: 310-448-9338. groups: carl. © 2015 the university of...", 
         "email_addr_list": [
             "carl@isi.edu"
         ], 
-        "cite_url": "www.isi.edu/people/carl", 
-        "cite_name": "", 
-        "title": "Information Sciences Institute - Carl Kesselman"
+        "id": "617", 
+        "cite_url": "ise.usc.edu/directory/carl_kesselman.htm"
     }, 
     {
+        "title": "Information Sciences Institute - Carl Kesselman", 
+        "content": "carl kesselman. carl kesselman, ph.d. director, medical informatics isi ... email: carl at isi.edu. phone: 310-448-9338. groups: carl. \u00a9 2015 the university of...", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "carl@isi.edu"
+        ], 
+        "id": "618", 
+        "cite_url": "www.isi.edu/people/carl"
+    }, 
+    {
+        "title": "Carl Kesselman - Google Scholar Citations", 
         "content": "carl kesselman. professor university ... verified email at isi.edu. scholar. get my own ... a chervenak, i foster, c kesselman, c salisbury, s tuecke. journal of...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@isi.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=5c38WVcAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Carl Kesselman - Google Scholar Citations"
+        "id": "619", 
+        "cite_url": "scholar.google.com/citations?user=5c38WVcAAAAJ..."
     }, 
     {
+        "title": "Back button on facet value pane is kind of funny... \u00b7 Issue ...", 
         "content": "oct 8, 2015 - https://github.com/carlkesselman - reply to this email directly or view it ... +1 (310) 448-9338 email: carl@isi.edumailto:carl@isi.edu web:...", 
+        "cite_name": "", 
         "email_addr_list": [
             "carl@isi.edumailto", 
             "carl@isi.edu"
         ], 
-        "cite_url": "https://github.com/informatics-isi-edu/chaise/issues/118", 
-        "cite_name": "", 
-        "title": "Back button on facet value pane is kind of funny... · Issue ..."
+        "id": "620", 
+        "cite_url": "https://github.com/informatics-isi-edu/chaise/issues/118"
     }
 ]

@@ -1,49 +1,54 @@
 [
     {
+        "title": "Doron Lancet - Weizmann Institute of Science", 
         "content": "dec 30, 2014 - location, meyer bldg, room 413. weizmann institute of science rehovot 76100, israel. e-mail, doron.lancet@weizmann.ac.il...", 
-        "email_addr_list": [
-            "doron.lancet@weizmann.ac.il"
-        ], 
-        "cite_url": "www.weizmann.ac.il/molgen/Lancet/home", 
         "cite_name": "Weizmann Institute of Science", 
-        "title": "Doron Lancet - Weizmann Institute of Science"
-    }, 
-    {
-        "content": "lancet and lms would like to hire a scientist who completed an msc, phd or ... please email doron.lancet@weizmann.ac.il with your cv/lp and details of.", 
         "email_addr_list": [
             "doron.lancet@weizmann.ac.il"
         ], 
-        "cite_url": "safrabio.cs.tau.ac.il/download/Doron_Lancet.pdf", 
-        "cite_name": "", 
-        "title": "[PDF]Doron Lancets group at the Weizmann Institute has ..."
+        "id": "974", 
+        "cite_url": "www.weizmann.ac.il/molgen/Lancet/home"
     }, 
     {
+        "title": "[PDF]Doron Lancets group at the Weizmann Institute has ...", 
+        "content": "lancet and lms would like to hire a scientist who completed an msc, phd or ... please email doron.lancet@weizmann.ac.il with your cv/lp and details of.", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "doron.lancet@weizmann.ac.il"
+        ], 
+        "id": "975", 
+        "cite_url": "safrabio.cs.tau.ac.il/download/Doron_Lancet.pdf"
+    }, 
+    {
+        "title": "Meetings - SYNLET - Universit\u00e4t Leipzig", 
         "content": "email: doron.lancet@weizmann.ac.il ... phone: +34 93316 0530. email: ricard.sole@upf.edu ... 43 699 113 49 173. email: bernd.mayer@emergentec.com.", 
+        "cite_name": "", 
         "email_addr_list": [
             "doron.lancet@weizmann.ac.il", 
             "ricard.sole@upf.edu", 
             "bernd.mayer@emergentec.com"
         ], 
-        "cite_url": "synlet.izbi.uni-leipzig.de/index.php?page=30", 
-        "cite_name": "", 
-        "title": "Meetings - SYNLET - Universität Leipzig"
+        "id": "976", 
+        "cite_url": "synlet.izbi.uni-leipzig.de/index.php?page=30"
     }, 
     {
+        "title": "Doron Lancet Weizmann Institute of Science - NASA ...", 
         "content": "doron lancet pioneered genome research in israel, and currently heads of the crown human genome center at ... email: doron.lancet@weizmann.ac.il...", 
+        "cite_name": "", 
         "email_addr_list": [
             "doron.lancet@weizmann.ac.il"
         ], 
-        "cite_url": "https://astrobiology.nasa.gov/directory/people/lancet-doron/", 
-        "cite_name": "", 
-        "title": "Doron Lancet Weizmann Institute of Science - NASA ..."
+        "id": "977", 
+        "cite_url": "https://astrobiology.nasa.gov/directory/people/lancet-doron/"
     }, 
     {
+        "title": "Quasispecies in population of compositional assemblies", 
         "content": "dec 30, 2014 - renan gross, itzhak fouxon, doron lancet and omer markovitch*. * corresponding author: omer markovitch omermar@gmail.com.", 
+        "cite_name": "BioMed Central", 
         "email_addr_list": [
             "omermar@gmail.com"
         ], 
-        "cite_url": "www.biomedcentral.com/1471-2148/14/265", 
-        "cite_name": "BioMed Central", 
-        "title": "Quasispecies in population of compositional assemblies"
+        "id": "978", 
+        "cite_url": "www.biomedcentral.com/1471-2148/14/265"
     }
 ]

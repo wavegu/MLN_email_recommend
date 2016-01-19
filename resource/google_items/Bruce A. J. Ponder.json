@@ -1,39 +1,43 @@
 [
     {
+        "title": "Department of Oncology: Bruce Ponder", 
         "content": "prof. sir bruce ponder (fmedsci, frs) ... email: bruce.ponder@cruk.cam.ac.uk; pa: jean miller; tel. +44 (0)1223 761860; email: jam43@cam.ac.uk.", 
+        "cite_name": "University of Cambridge", 
         "email_addr_list": [
             "bruce.ponder@cruk.cam.ac.uk", 
             "jam43@cam.ac.uk"
         ], 
-        "cite_url": "www.oncology.cam.ac.uk/research/.../ponder.ht...", 
-        "cite_name": "University of Cambridge", 
-        "title": "Department of Oncology: Bruce Ponder"
+        "id": "588", 
+        "cite_url": "www.oncology.cam.ac.uk/research/.../ponder.ht..."
     }, 
     {
-        "content": "ponder – prof sir bruce a j, frcp, frs. bruce ponder. university post: li ka shing ... email: bruce.ponder@cruk.cam.ac.uk. fellows  research assoc. by...", 
-        "email_addr_list": [
-            "bruce.ponder@cruk.cam.ac.uk"
-        ], 
-        "cite_url": "www.jesus.cam.ac.uk/?...ponder...sir-bruce-a-j...", 
+        "title": "Ponder \u2013 Prof Sir Bruce A J, FRCP, FRS | Jesus College ...", 
+        "content": "ponder \u2013 prof sir bruce a j, frcp, frs. bruce ponder. university post: li ka shing ... email: bruce.ponder@cruk.cam.ac.uk. fellows  research assoc. by...", 
         "cite_name": "Jesus College, Cambridge", 
-        "title": "Ponder – Prof Sir Bruce A J, FRCP, FRS | Jesus College ..."
-    }, 
-    {
-        "content": "cancer research uk cambridge institute box 197. hills rd cambridge cb2 0xz united kingdom (uk). email: bruce.ponder@cruk.cam.ac.uk. tel: 01223...", 
         "email_addr_list": [
             "bruce.ponder@cruk.cam.ac.uk"
         ], 
-        "cite_url": "www.cancerresearchuk.org/.../bruce-ponder-20", 
-        "cite_name": "Cancer Research UK", 
-        "title": "Bruce Ponder : Cancer Research UK"
+        "id": "589", 
+        "cite_url": "www.jesus.cam.ac.uk/?...ponder...sir-bruce-a-j..."
     }, 
     {
+        "title": "Bruce Ponder : Cancer Research UK", 
+        "content": "cancer research uk cambridge institute box 197. hills rd cambridge cb2 0xz united kingdom (uk). email: bruce.ponder@cruk.cam.ac.uk. tel: 01223...", 
+        "cite_name": "Cancer Research UK", 
+        "email_addr_list": [
+            "bruce.ponder@cruk.cam.ac.uk"
+        ], 
+        "id": "590", 
+        "cite_url": "www.cancerresearchuk.org/.../bruce-ponder-20"
+    }, 
+    {
+        "title": "Association studies for finding cancer-susceptibility genetic ...", 
         "content": "paul d. p. pharoah, alison m. dunning, bruce a. j. ponder  douglas f. easton ... correspondence to: bruce a. j. ponder email: bruce.ponder@srl.cam.ac.uk.", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "bruce.ponder@srl.cam.ac.uk"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Association studies for finding cancer-susceptibility genetic ..."
+        "id": "591", 
+        "cite_url": ""
     }
 ]

@@ -1,20 +1,22 @@
 [
     {
+        "title": "Daniel G. Brown - the David R. Cheriton School of Computer ...", 
         "content": "sep 2, 2013 - daniel g. brown ... more recently, my mmath student dan dexter and i adapted some ideas from that work to ... email: dan.brown@uwaterloo.ca.", 
+        "cite_name": "David R. Cheriton School of Computer Science", 
         "email_addr_list": [
             "dan.brown@uwaterloo.ca"
         ], 
-        "cite_url": "https://cs.uwaterloo.ca/~b...", 
-        "cite_name": "David R. Cheriton School of Computer Science", 
-        "title": "Daniel G. Brown - the David R. Cheriton School of Computer ..."
+        "id": "778", 
+        "cite_url": "https://cs.uwaterloo.ca/~b..."
     }, 
     {
+        "title": "Daniel G. Brown - Google Scholar Citations", 
         "content": "daniel g. brown. university of michigan ... verified email at umich.edu - homepage  scholar ... dg brown, s page, r riolo, m zellner, w rand. international...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@umich.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=cD37cXcAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Daniel G. Brown - Google Scholar Citations"
+        "id": "779", 
+        "cite_url": "scholar.google.com/citations?user=cD37cXcAAAAJ..."
     }
 ]

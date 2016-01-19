@@ -1,11 +1,12 @@
 [
     {
+        "title": "ETH - SOP - Prof. Dr. Eckart Zitzler", 
         "content": "jul 14, 2010 - office, etz g 84. phone, +41 44 632 70 66. secretariat, +41 44 632 70 35. fax, +41 44 632 10 35. e-mail, eckart.zitzler@tik.ee.ethz.ch...", 
+        "cite_name": "ETH Zurich", 
         "email_addr_list": [
             "eckart.zitzler@tik.ee.ethz.ch"
         ], 
-        "cite_url": "www.tik.ee.ethz.ch/~zitzler/", 
-        "cite_name": "ETH Zurich", 
-        "title": "ETH - SOP - Prof. Dr. Eckart Zitzler"
+        "id": "996", 
+        "cite_url": "www.tik.ee.ethz.ch/~zitzler/"
     }
 ]

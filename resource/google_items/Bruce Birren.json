@@ -1,20 +1,22 @@
 [
     {
+        "title": "Bruce Birren - Broad Institute", 
         "content": "bruce birren. bruce birren. dna sequencing and automation home page. e-mail: bwb@genome.wi.mit.edu.", 
+        "cite_name": "Broad Institute", 
         "email_addr_list": [
             "bwb@genome.wi.mit.edu"
         ], 
-        "cite_url": "www.broadinstitute.org/personal/bwb/birren.html", 
-        "cite_name": "Broad Institute", 
-        "title": "Bruce Birren - Broad Institute"
+        "id": "595", 
+        "cite_url": "www.broadinstitute.org/personal/bwb/birren.html"
     }, 
     {
+        "title": "Agenda - Participants", 
         "content": "jul 17, 2013 - ottawa, on k2p 1p1 canada phone: (613) 751-4460. fax: (613) 751-4474. email: cbell@genomecanada.ca. bruce birren, ph.d. co-director", 
+        "cite_name": "National Institutes of Health", 
         "email_addr_list": [
             "cbell@genomecanada.ca"
         ], 
-        "cite_url": "https://commonfund.nih.gov/hmp/.../particip...", 
-        "cite_name": "National Institutes of Health", 
-        "title": "Agenda - Participants"
+        "id": "596", 
+        "cite_url": "https://commonfund.nih.gov/hmp/.../particip..."
     }
 ]

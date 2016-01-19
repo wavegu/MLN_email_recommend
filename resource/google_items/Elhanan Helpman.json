@@ -1,20 +1,22 @@
 [
     {
+        "title": "Elhanan Helpman - Google Scholar Citations", 
         "content": "create alert. cancel. elhanan helpman. harvard university. verified email at harvard.edu. scholar ... gm grossman, e helpman. mit press, cambridge, ma,...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@harvard.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=OlNv-7AAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Elhanan Helpman - Google Scholar Citations"
+        "id": "1013", 
+        "cite_url": "scholar.google.com/citations?user=OlNv-7AAAAAJ..."
     }, 
     {
+        "title": "Elhanan Helpman - IGC | IGC", 
         "content": "elhanan helpman. elhanan helpman. email: ehelpman@harvard.edu ... elhanan helpman is the galen l. stone professor of international trade at harvard...", 
+        "cite_name": "", 
         "email_addr_list": [
             "ehelpman@harvard.edu"
         ], 
-        "cite_url": "www.theigc.org/person/elhanan-helpman/", 
-        "cite_name": "", 
-        "title": "Elhanan Helpman - IGC | IGC"
+        "id": "1014", 
+        "cite_url": "www.theigc.org/person/elhanan-helpman/"
     }
 ]

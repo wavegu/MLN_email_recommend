@@ -1,20 +1,22 @@
 [
     {
+        "title": "Donald Schneider \u2014 Penn State Department of Astronomy ...", 
         "content": "donald schneider. main content. department head and distinguished professor. 525 davey lab university park, pa 16802. email: dps7@psu.edu.", 
+        "cite_name": "Pennsylvania State University", 
         "email_addr_list": [
             "dps7@psu.edu"
         ], 
-        "cite_url": "astro.psu.edu/people/dps7", 
-        "cite_name": "Pennsylvania State University", 
-        "title": "Donald Schneider — Penn State Department of Astronomy ..."
+        "id": "963", 
+        "cite_url": "astro.psu.edu/people/dps7"
     }, 
     {
+        "title": "Donald P. Schneider - a Wausau, Wisconsin (WI) Insurance ...", 
         "content": "jun 13, 2014 - donald p. schneider, a wausau, wisconsin (wi) lawyer, attorney ... schneider law firm, s.c. ... dschneider@schneiderlaw.net (office email).", 
+        "cite_name": "", 
         "email_addr_list": [
             "dschneider@schneiderlaw.net"
         ], 
-        "cite_url": "pview.findlaw.com/view/1691282_1", 
-        "cite_name": "", 
-        "title": "Donald P. Schneider - a Wausau, Wisconsin (WI) Insurance ..."
+        "id": "964", 
+        "cite_url": "pview.findlaw.com/view/1691282_1"
     }
 ]

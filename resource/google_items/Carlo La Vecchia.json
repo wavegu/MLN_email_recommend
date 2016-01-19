@@ -1,38 +1,42 @@
 [
     {
+        "title": "European cancer mortality predictions for the year 2013", 
         "content": "feb 12, 2013 - c. la vecchia, istituto di ricerche farmacologiche mario negri, via ... fax: +39-02-33-200-231; e-mail: carlo.lavecchia@marionegri.it.", 
-        "email_addr_list": [
-            "carlo.lavecchia@marionegri.it"
-        ], 
-        "cite_url": "annonc.oxfordjournals.org/.../annonc.mdt010.abstra...", 
         "cite_name": "Annals of Oncology", 
-        "title": "European cancer mortality predictions for the year 2013"
-    }, 
-    {
-        "content": "altra e-mail, carlo.lavecchia@marionegri.it. luogo di ricevimento. orario di ricevimento, su appuntamento telefonico. pagina personale. curriculum, ita ita...", 
         "email_addr_list": [
             "carlo.lavecchia@marionegri.it"
         ], 
-        "cite_url": "www.medicina.unimi.it/.../LAVECCHIA-CARLO-05H...", 
-        "cite_name": "", 
-        "title": "carlo la vecchia - Professori e Ricercatori dei Corsi di laurea"
+        "id": "623", 
+        "cite_url": "annonc.oxfordjournals.org/.../annonc.mdt010.abstra..."
     }, 
     {
+        "title": "carlo la vecchia - Professori e Ricercatori dei Corsi di laurea", 
+        "content": "altra e-mail, carlo.lavecchia@marionegri.it. luogo di ricevimento. orario di ricevimento, su appuntamento telefonico. pagina personale. curriculum, ita ita...", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "carlo.lavecchia@marionegri.it"
+        ], 
+        "id": "624", 
+        "cite_url": "www.medicina.unimi.it/.../LAVECCHIA-CARLO-05H..."
+    }, 
+    {
+        "title": "Carlo La Vecchia - World Congress of Public Health Nutrition", 
         "content": "carlo dr. carlo la vecchia. dr. la vecchia received his medical degree from ... dr. la vecchia is an adjunct professor of medicine at vanderbilt medical ... info@nutritionwithoutborders.orgthis email address is being protected from spambots.", 
+        "cite_name": "", 
         "email_addr_list": [
             "info@nutritionwithoutborders.orgthis"
         ], 
-        "cite_url": "www.nutrition2014.org/index.php/programa/.../2.../116-carlo-la-vecchia", 
-        "cite_name": "", 
-        "title": "Carlo La Vecchia - World Congress of Public Health Nutrition"
+        "id": "625", 
+        "cite_url": "www.nutrition2014.org/index.php/programa/.../2.../116-carlo-la-vecchia"
     }, 
     {
+        "title": "carlo la vecchia - Retenews24", 
         "content": "jan 27, 2015 - ... subscribe by email. carlo la vecchia ... nuovo metodo rivoluzionario contro la calvizie ... 081 18779581 email. segreteria@retenews24.it", 
+        "cite_name": "", 
         "email_addr_list": [
             "segreteria@retenews24.it"
         ], 
-        "cite_url": "www.retenews24.it/...il.../carlo-la-vecchia/", 
-        "cite_name": "", 
-        "title": "carlo la vecchia - Retenews24"
+        "id": "626", 
+        "cite_url": "www.retenews24.it/...il.../carlo-la-vecchia/"
     }
 ]

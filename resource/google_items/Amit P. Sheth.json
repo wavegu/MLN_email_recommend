@@ -1,38 +1,42 @@
 [
     {
+        "title": "Amit Sheth - Google Scholar Citations", 
         "content": "amit sheth. lexisnexis ohio eminent ... verified email at wright.edu - homepage  scholar. get my own ... p attie, m singh, ap sheth, m rusinkiewicz. 343, 1993.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@wright.edu"
         ], 
-        "cite_url": "https://scholar.google.com/citations?user...", 
-        "cite_name": "Google Scholar", 
-        "title": "Amit Sheth - Google Scholar Citations"
+        "id": "262", 
+        "cite_url": "https://scholar.google.com/citations?user..."
     }, 
     {
+        "title": "[PDF]Resume in PDF - Kno.e.sis", 
         "content": "advisor: dr. amit p. sheth. university of ... sarasi lalithsena, prateek jain, pascal hitzler, amit sheth. ... email:steven.gustafson[at]research.ge.com. prateek jain.", 
+        "cite_name": "", 
         "email_addr_list": [
             "steven.gustafson@research.ge.com"
         ], 
-        "cite_url": "knoesis.org/researchers/sarasi/docs/SarasiLalithsenaCV.pdf", 
-        "cite_name": "", 
-        "title": "[PDF]Resume in PDF - Kno.e.sis"
+        "id": "263", 
+        "cite_url": "knoesis.org/researchers/sarasi/docs/SarasiLalithsenaCV.pdf"
     }, 
     {
+        "title": "[PDF]Special Issue on Semantic Web and Science Data Access", 
         "content": "name and address (including e-mail address) of author(s), an abstract, and a list of identifying keywords. ... e-mail: ashish@email.arc.nasa.gov ... amit p. sheth.", 
+        "cite_name": "", 
         "email_addr_list": [
             "ashish@email.arc.nasa.gov"
         ], 
-        "cite_url": "www.dljournal.org/cfp/jdl_cfp-sw.pdf", 
-        "cite_name": "", 
-        "title": "[PDF]Special Issue on Semantic Web and Science Data Access"
+        "id": "264", 
+        "cite_url": "www.dljournal.org/cfp/jdl_cfp-sw.pdf"
     }, 
     {
+        "title": "Amit P. Sheth: Publications, bio, bibliography, etc ...", 
         "content": "amit p. sheth: publications, bio, bibliography, etc. ... personal homepage: http://knoesis.org/amit/; employer: (); email: amit.sheth@wright.edu...", 
+        "cite_name": "", 
         "email_addr_list": [
             "amit.sheth@wright.edu"
         ], 
-        "cite_url": "https://www.interaction-design.org/literature/author/amit-p-sheth", 
-        "cite_name": "", 
-        "title": "Amit P. Sheth: Publications, bio, bibliography, etc ..."
+        "id": "265", 
+        "cite_url": "https://www.interaction-design.org/literature/author/amit-p-sheth"
     }
 ]

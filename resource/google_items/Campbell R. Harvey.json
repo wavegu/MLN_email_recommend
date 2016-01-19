@@ -1,38 +1,42 @@
 [
     {
+        "title": "Campbell R. Harveys Homepage - Duke University", 
         "content": "campbell r. harvey. cam.harvey@duke.edu. office: +1 919.660.7768. mobile: +1 919.271.8156. order via barnes and noble  order via amazon  my blog.", 
-        "email_addr_list": [
-            "cam.harvey@duke.edu"
-        ], 
-        "cite_url": "people.duke.edu/~charvey/", 
         "cite_name": "Duke University", 
-        "title": "Campbell R. Harveys Homepage - Duke University"
-    }, 
-    {
-        "content": "if you are campbell r. harvey , you may change this information at the repec author service. or if you are not ... email: cam.harvey@duke.edu. homepage...", 
         "email_addr_list": [
             "cam.harvey@duke.edu"
         ], 
-        "cite_url": "https://ideas.repec.org/e/pha102.html", 
-        "cite_name": "", 
-        "title": "Campbell R. Harvey at IDEAS"
+        "id": "609", 
+        "cite_url": "people.duke.edu/~charvey/"
     }, 
     {
+        "title": "Campbell R. Harvey at IDEAS", 
+        "content": "if you are campbell r. harvey , you may change this information at the repec author service. or if you are not ... email: cam.harvey@duke.edu. homepage...", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "cam.harvey@duke.edu"
+        ], 
+        "id": "610", 
+        "cite_url": "https://ideas.repec.org/e/pha102.html"
+    }, 
+    {
+        "title": "Campbell R. Harvey - Google Scholar Citations", 
         "content": "campbell r. harvey. professor of finance, duke ... verified email at duke.edu - homepage  scholar ... a brav, jr graham, cr harvey, r michaely. journal of...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@duke.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=cajqjGAAAAAJhl...", 
-        "cite_name": "Google Scholar", 
-        "title": "Campbell R. Harvey - Google Scholar Citations"
+        "id": "611", 
+        "cite_url": "scholar.google.com/citations?user=cajqjGAAAAAJhl..."
     }, 
     {
+        "title": "[PDF]CAMPBELL R. HARVEY - University of Miami School of ...", 
         "content": "professor campbell r. harvey. one towerview drive,. fuqua school of business,. duke university,. durham, nc 27708 usa. email cam.harvey@duke.edu.", 
+        "cite_name": "University of Miami School of Business Administration", 
         "email_addr_list": [
             "cam.harvey@duke.edu"
         ], 
-        "cite_url": "https://www.bus....", 
-        "cite_name": "University of Miami School of Business Administration", 
-        "title": "[PDF]CAMPBELL R. HARVEY - University of Miami School of ..."
+        "id": "612", 
+        "cite_url": "https://www.bus...."
     }
 ]

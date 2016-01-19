@@ -1,20 +1,22 @@
 [
     {
+        "title": "Alex Szalay - Johns Hopkins University", 
         "content": "alex szalay. personal information: alumni centennial professor department of ... md 21218. tel:(410)-516-7217. fax: (410)-516-5096. email: szalay@jhu.edu...", 
+        "cite_name": "", 
         "email_addr_list": [
             "szalay@jhu.edu"
         ], 
-        "cite_url": "www.sdss.jhu.edu/~szalay/", 
-        "cite_name": "", 
-        "title": "Alex Szalay - Johns Hopkins University"
+        "id": "233", 
+        "cite_url": "www.sdss.jhu.edu/~szalay/"
     }, 
     {
+        "title": "Faculty  Research Staff | Henry A. Rowland Department of ...", 
         "content": "jonathan a. bagger. krieger-eisenhower professor. phd, princeton. bagger@jhu.edu offsite. research interests: particle theory; theory and phenomenology of...", 
+        "cite_name": "Johns Hopkins University", 
         "email_addr_list": [
             "bagger@jhu.edu"
         ], 
-        "cite_url": "physics-astronomy.jhu.edu/people/", 
-        "cite_name": "Johns Hopkins University", 
-        "title": "Faculty  Research Staff | Henry A. Rowland Department of ..."
+        "id": "234", 
+        "cite_url": "physics-astronomy.jhu.edu/people/"
     }
 ]

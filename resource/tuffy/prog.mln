@@ -12,6 +12,8 @@ google_content_contain_first_name(Item)
 google_content_contain_all_first_char(Item)
 prefix_contained_in_last_name(Item)
 prefix_contained_in_first_name(Item)
+google_title_contain_aff_word(Item)
+google_content_contain_aff_word(Item)
 prefix_contained_in_name_part_with_another_first_char(Item)
 
 *same_prefix(A, B)
@@ -24,7 +26,7 @@ is_valid_email(Item)
 
 // prefix_contain_last_name(y) => is_valid_email(y)
 0.9  !prefix_contain_last_name(y) v is_valid_email(y)
-0.8  prefix_contain_last_name(y) v !is_valid_email(y)
+0.75  prefix_contain_last_name(y) v !is_valid_email(y)
 
 // prefix_contain_first_name(y) => is_valid_email(y)
 0.8  !prefix_contain_first_name(y) v is_valid_email(y)
@@ -42,20 +44,25 @@ is_valid_email(Item)
 1.5  !google_content_contain_all_first_char(y) v is_valid_email(y)
 
 // google_title_contain_last_name(y) => is_valid_email(y)
-0.3  !google_title_contain_last_name(y) v is_valid_email(y)
+0.25  !google_title_contain_last_name(y) v is_valid_email(y)
 
 // google_title_contain_first_name(y) => is_valid_email(y)
-0.3  !google_title_contain_first_name(y) v is_valid_email(y)
+0.2  !google_title_contain_first_name(y) v is_valid_email(y)
 
 // google_content_contain_last_name(y) => is_valid_email(y)
-0.2  !google_content_contain_last_name(y) v is_valid_email(y)
+0.1  !google_content_contain_last_name(y) v is_valid_email(y)
 
 // google_content_contain_first_name(y) => is_valid_email(y)
-0.2  !google_content_contain_first_name(y) v is_valid_email(y)
+0.1  !google_content_contain_first_name(y) v is_valid_email(y)
 
 // prefix_contained_in_name_part_with_another_first_char(y) => is_valid_email(y)
 2.0  !prefix_contained_in_name_part_with_another_first_char(y) v is_valid_email(y)
 
+// google_title_contain_aff_word(y) => is_valid_email(y)
+0.1  !google_title_contain_aff_word(y) v is_valid_email(y)
+
+// google_content_contain_aff_word(y) => is_valid_email(y)
+0.1  !google_content_contain_aff_word(y) v is_valid_email(y)
 
 // same_prefix(a, b) => is_valid_email(a) <=> is_valid_email(b)
 0.45  !same_prefix(a, b) v is_valid_email(a)

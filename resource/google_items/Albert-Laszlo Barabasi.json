@@ -1,29 +1,32 @@
 [
     {
-        "content": "email: alb@nd.edu ... albert-lászló barabási is a distinguished university professor at northeastern university, where he directs the center for complex...", 
+        "title": "Albert-Laszlo Barabasi \u2014 College of Engineering", 
+        "content": "email: alb@nd.edu ... albert-l\u00e1szl\u00f3 barab\u00e1si is a distinguished university professor at northeastern university, where he directs the center for complex...", 
+        "cite_name": "University of Notre Dame", 
         "email_addr_list": [
             "alb@nd.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "University of Notre Dame", 
-        "title": "Albert-Laszlo Barabasi — College of Engineering"
+        "id": "189", 
+        "cite_url": ""
     }, 
     {
-        "content": "email: a.barabasi@neu.edu ... albert-lászló barabási is the robert gray dodge professor of network science and a distinguished university professor at...", 
+        "title": "Barab\u00e1si - Northeastern University", 
+        "content": "email: a.barabasi@neu.edu ... albert-l\u00e1szl\u00f3 barab\u00e1si is the robert gray dodge professor of network science and a distinguished university professor at...", 
+        "cite_name": "Northeastern University College of Computer and Info...", 
         "email_addr_list": [
             "a.barabasi@neu.edu"
         ], 
-        "cite_url": "www.ccs.neu.ed...", 
-        "cite_name": "Northeastern University College of Computer and Info...", 
-        "title": "Barabási - Northeastern University"
+        "id": "190", 
+        "cite_url": "www.ccs.neu.ed..."
     }, 
     {
-        "content": "cancel. albert-lászló barabási ... verified email at neu.edu - homepage  scholar ... h jeong, b tombor, r albert, zn oltvai, al barabási. nature 407 (6804)...", 
+        "title": "Albert-L\u00e1szl\u00f3 Barab\u00e1si - Google Scholar Citations", 
+        "content": "cancel. albert-l\u00e1szl\u00f3 barab\u00e1si ... verified email at neu.edu - homepage  scholar ... h jeong, b tombor, r albert, zn oltvai, al barab\u00e1si. nature 407 (6804)...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@neu.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=vsj2slIAAAAJhl...", 
-        "cite_name": "Google Scholar", 
-        "title": "Albert-László Barabási - Google Scholar Citations"
+        "id": "191", 
+        "cite_url": "scholar.google.com/citations?user=vsj2slIAAAAJhl..."
     }
 ]

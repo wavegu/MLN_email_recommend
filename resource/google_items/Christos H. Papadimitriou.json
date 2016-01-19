@@ -1,29 +1,32 @@
 [
     {
+        "title": "Christos H PAPADIMITRIOU - Google Scholar Citations", 
         "content": "create alert. cancel. christos h papadimitriou ... verified email at berkeley.edu. scholar ... a rao, s ratnasamy, c papadimitriou, s shenker, i stoica.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@berkeley.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=rXYLXJMAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Christos H PAPADIMITRIOU - Google Scholar Citations"
+        "id": "721", 
+        "cite_url": "scholar.google.com/citations?user=rXYLXJMAAAAJ"
     }, 
     {
+        "title": "Academy of Europe: Papadimitriou Christos", 
         "content": "oct 16, 2012 - christos h. papadimitriou. email: christos at cs.berkeley.edu ... homepage: http://www.ieor.berkeley.edu/people/faculty/papadimitriou.htm", 
+        "cite_name": "", 
         "email_addr_list": [
             "christos@cs.berkeley.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "Academy of Europe: Papadimitriou Christos"
+        "id": "722", 
+        "cite_url": ""
     }, 
     {
+        "title": "Google Scholar Citations", 
         "content": "christos papadimitriou. uc berkeley. verified email at cs.berkeley.edu. @cs.berkeley.edu. cited by ... christos h papadimitriou. uc berkeley. verified email...", 
+        "cite_name": "", 
         "email_addr_list": [
             "email@cs.berkeley.edu"
         ], 
-        "cite_url": "scholar.google.com.co/citations?view_op=search_authorshl...", 
-        "cite_name": "", 
-        "title": "Google Scholar Citations"
+        "id": "723", 
+        "cite_url": "scholar.google.com.co/citations?view_op=search_authorshl..."
     }
 ]

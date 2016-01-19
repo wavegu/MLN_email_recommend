@@ -1,38 +1,42 @@
 [
     {
-        "content": "apr 9, 1997 - e-mail: bart.staels@pasteur-lille.fr. 2. functions  fellowships. previous functions: • research fellow (dr.g.verhoeven) at the...", 
-        "email_addr_list": [
-            "bart.staels@pasteur-lille.fr"
-        ], 
-        "cite_url": "www.insulinresistance.us/bio/StaelsBart.pdf", 
+        "title": "[PDF]Bart STAELS - WCIR \u2013 Annual World Congress on Insulin ...", 
+        "content": "apr 9, 1997 - e-mail: bart.staels@pasteur-lille.fr. 2. functions  fellowships. previous functions: \u2022 research fellow (dr.g.verhoeven) at the...", 
         "cite_name": "", 
-        "title": "[PDF]Bart STAELS - WCIR – Annual World Congress on Insulin ..."
+        "email_addr_list": [
+            "bart.staels@pasteur-lille.fr"
+        ], 
+        "id": "522", 
+        "cite_url": "www.insulinresistance.us/bio/StaelsBart.pdf"
     }, 
     {
+        "title": "Nuclear transcription factors: new opportunities for lipid ...", 
         "content": "feb 28, 2007 - c1 *corresponding author: professor bart staels, fax +33 3 20 87 73 60, email bart.staels@pasteur-lille.fr. how to cite this article; link to this...", 
-        "email_addr_list": [
-            "bart.staels@pasteur-lille.fr"
-        ], 
-        "cite_url": "journals.cambridge.org/abstract_S0029665100...", 
         "cite_name": "Cambridge University Press", 
-        "title": "Nuclear transcription factors: new opportunities for lipid ..."
-    }, 
-    {
-        "content": "correspondence to bart staels, phd, institut pasteur de lille, 1 rue du professeur calmette, bp245, 59019 lille, france. e-mail bart.staels@pasteur-lille.fr.", 
         "email_addr_list": [
             "bart.staels@pasteur-lille.fr"
         ], 
-        "cite_url": "atvb.ahajournals.org/.../...", 
-        "cite_name": "Arteriosclerosis, Thrombosis, and Vascular Biology", 
-        "title": "Extract - Arteriosclerosis, Thrombosis, and Vascular Biology"
+        "id": "523", 
+        "cite_url": "journals.cambridge.org/abstract_S0029665100..."
     }, 
     {
+        "title": "Extract - Arteriosclerosis, Thrombosis, and Vascular Biology", 
+        "content": "correspondence to bart staels, phd, institut pasteur de lille, 1 rue du professeur calmette, bp245, 59019 lille, france. e-mail bart.staels@pasteur-lille.fr.", 
+        "cite_name": "Arteriosclerosis, Thrombosis, and Vascular Biology", 
+        "email_addr_list": [
+            "bart.staels@pasteur-lille.fr"
+        ], 
+        "id": "524", 
+        "cite_url": "atvb.ahajournals.org/.../..."
+    }, 
+    {
+        "title": "[PDF]Prof. Bart Staels", 
         "content": "oct 6, 2015 - bart staels. institut pasteur de lille ... 12, 8952 schlieren. contact person: elena osto, phone: +41 (0)44 6356469, email: elena.osto@uzh.ch.", 
+        "cite_name": "University of Zurich", 
         "email_addr_list": [
             "elena.osto@uzh.ch"
         ], 
-        "cite_url": "www.zihp.uzh.ch/.../lecture_Prof%20%20Bart%20St...", 
-        "cite_name": "University of Zurich", 
-        "title": "[PDF]Prof. Bart Staels"
+        "id": "525", 
+        "cite_url": "www.zihp.uzh.ch/.../lecture_Prof%20%20Bart%20St..."
     }
 ]

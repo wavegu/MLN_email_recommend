@@ -1,29 +1,32 @@
 [
     {
+        "title": "Alan D Lopez - Google Scholar Citations", 
         "content": "alan d lopez. university of melbourne ... verified email at unimelb.edu.au. scholar. get my own ... ad lopez, cd mathers, m ezzati, dt jamison, cj murray.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@unimelb.edu.au"
         ], 
-        "cite_url": "scholar.google.com/citations?user=tYilcK8AAAAJhl...", 
-        "cite_name": "Google Scholar", 
-        "title": "Alan D Lopez - Google Scholar Citations"
+        "id": "170", 
+        "cite_url": "scholar.google.com/citations?user=tYilcK8AAAAJhl..."
     }, 
     {
+        "title": "Alan Lopez | University of Washington - Department of ...", 
         "content": "alan lopez. the university of melbourne building 379, level 5 207 bouverie st, carlton 3010. vic australia. email: alan.lopez@unimelb.edu.au.", 
+        "cite_name": "University of Washington", 
         "email_addr_list": [
             "alan.lopez@unimelb.edu.au"
         ], 
-        "cite_url": "globalhealth.washington.edu/faculty/alan-lopez", 
-        "cite_name": "University of Washington", 
-        "title": "Alan Lopez | University of Washington - Department of ..."
+        "id": "171", 
+        "cite_url": "globalhealth.washington.edu/faculty/alan-lopez"
     }, 
     {
+        "title": "Better health intelligence: a new era for civil registration and ...", 
         "content": "apr 7, 2015 - alan d lopez corresponding author and philip w setel ..... contributor information. alan d lopez, email: ua.ude.bleminu@zepol.nala. philip w...", 
+        "cite_name": "National Center for Biotechnology Information", 
         "email_addr_list": [
             "ua.ude.bleminu@zepol.nala"
         ], 
-        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
-        "cite_name": "National Center for Biotechnology Information", 
-        "title": "Better health intelligence: a new era for civil registration and ..."
+        "id": "172", 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P..."
     }
 ]

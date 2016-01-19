@@ -1,48 +1,53 @@
 [
     {
+        "title": "Arthur Toga - LONI - University of Southern California", 
         "content": "arthur toga professor toga@loni.usc.edu  http://www.loni.usc.edu. laboratory of neuro imaging keck school of medicine of usc university of southern...", 
+        "cite_name": "University of Southern California", 
         "email_addr_list": [
             "toga@loni.usc.edu"
         ], 
-        "cite_url": "loni.usc.edu/about.../indiv_detail.php?...", 
-        "cite_name": "University of Southern California", 
-        "title": "Arthur Toga - LONI - University of Southern California"
+        "id": "426", 
+        "cite_url": "loni.usc.edu/about.../indiv_detail.php?..."
     }, 
     {
+        "title": "Toga Arthur - UCLA CTRL | Faculty DataBase | Faculty Editor", 
         "content": "work email address: toga@loni.ucla.edu ... 2013; 7(2): . toga arthur w, thompson paul m connectomics sheds new light on alzheimers disease.. biological...", 
-        "email_addr_list": [
-            "toga@loni.ucla.edu"
-        ], 
-        "cite_url": "faculty.neuroscience.ucla.edu/.../pe...", 
         "cite_name": "University of California, Los Angeles", 
-        "title": "Toga Arthur - UCLA CTRL | Faculty DataBase | Faculty Editor"
+        "email_addr_list": [
+            "toga@loni.ucla.edu"
+        ], 
+        "id": "427", 
+        "cite_url": "faculty.neuroscience.ucla.edu/.../pe..."
     }, 
     {
+        "title": "Mapping brain asymmetry : Abstract : Nature Reviews ...", 
         "content": "mapping brain asymmetry. arthur w. toga  paul m. thompson about the authors ... correspondence to: arthur w. toga email: toga@loni.ucla.edu. top of page...", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "toga@loni.ucla.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Mapping brain asymmetry : Abstract : Nature Reviews ..."
+        "id": "428", 
+        "cite_url": ""
     }, 
     {
+        "title": "Towards multimodal atlases of the human brain : Abstract ...", 
         "content": "arthur w. toga, paul m. thompson, susumu mori, katrin amunts  karl zilles about the ... correspondence to: arthur w. toga email: toga@loni.ucla.edu.", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "toga@loni.ucla.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Towards multimodal atlases of the human brain : Abstract ..."
+        "id": "429", 
+        "cite_url": ""
     }, 
     {
+        "title": "GENETICS OF BRAIN STRUCTURE AND INTELLIGENCE ...", 
         "content": "arthur w. toga and paul m. thompson ... medicine, university of california, los angeles, california 90095; email: toga@loni.ucla.edu, thompson@loni.ucla.edu.", 
+        "cite_name": "Annual Reviews", 
         "email_addr_list": [
             "toga@loni.ucla.edu", 
             "thompson@loni.ucla.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Annual Reviews", 
-        "title": "GENETICS OF BRAIN STRUCTURE AND INTELLIGENCE ..."
+        "id": "430", 
+        "cite_url": ""
     }
 ]

@@ -1,20 +1,22 @@
 [
     {
+        "title": "BruinWalk : Demetri Terzopoulos", 
         "content": "demetri terzopoulos ... email: dt@cs.ucla.edu ... [174a]demetri is one of the best professors you can meet in your life, he is not only knowledgable, but also very...", 
+        "cite_name": "", 
         "email_addr_list": [
             "dt@cs.ucla.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "BruinWalk : Demetri Terzopoulos"
+        "id": "914", 
+        "cite_url": ""
     }, 
     {
+        "title": "Demetri Terzopoulos - Google Scholar Citations", 
         "content": "demetri terzopoulos. distinguished professor ... verified email at cs.ucla.edu - homepage  scholar. get my own ... d terzopoulos, j platt, a barr, k fleischer.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cs.ucla.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=pKuBFaQAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Demetri Terzopoulos - Google Scholar Citations"
+        "id": "915", 
+        "cite_url": "scholar.google.com/citations?user=pKuBFaQAAAAJ"
     }
 ]

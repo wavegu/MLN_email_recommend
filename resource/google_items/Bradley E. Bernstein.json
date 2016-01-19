@@ -1,11 +1,12 @@
 [
     {
+        "title": "Bradley Bernstein - Harvard BBS PhD Program", 
         "content": "aug 6, 2015 - email: bernstein.bradley@mgh.harvard.edu ... suva ml, rheinbay e, gillespie sm, wakimoto h, cahill dp, nashed bv, curry wt, martuza rl,...", 
+        "cite_name": "Harvard Medical School", 
         "email_addr_list": [
             "bernstein.bradley@mgh.harvard.edu"
         ], 
-        "cite_url": "https://www.hms.harvard.edu/dms/.../Bernstein.p...", 
-        "cite_name": "Harvard Medical School", 
-        "title": "Bradley Bernstein - Harvard BBS PhD Program"
+        "id": "580", 
+        "cite_url": "https://www.hms.harvard.edu/dms/.../Bernstein.p..."
     }
 ]

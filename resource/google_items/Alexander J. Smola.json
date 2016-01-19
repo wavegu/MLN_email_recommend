@@ -1,29 +1,32 @@
 [
     {
-        "content": "create alert. cancel. alex smola ... verified email at google.com - homepage  scholar ... b schölkopf, jc platt, j shawe-taylor, aj smola, rc williamson.", 
+        "title": "Alex Smola - Google Scholar Citations", 
+        "content": "create alert. cancel. alex smola ... verified email at google.com - homepage  scholar ... b sch\u00f6lkopf, jc platt, j shawe-taylor, aj smola, rc williamson.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@google.com"
         ], 
-        "cite_url": "scholar.google.com/citations?user=Tb0ZrYwAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Alex Smola - Google Scholar Citations"
+        "id": "230", 
+        "cite_url": "scholar.google.com/citations?user=Tb0ZrYwAAAAJ"
     }, 
     {
-        "content": "email: amahmed at cs dot cmu dot edu ... nips 2011 tutorial on , graphical models for the internet, with alexander j. smola [video]. ○ www 2011...", 
+        "title": "Amr Ahmed (Research at Google)", 
+        "content": "email: amahmed at cs dot cmu dot edu ... nips 2011 tutorial on , graphical models for the internet, with alexander j. smola [video]. \u25cb www 2011...", 
+        "cite_name": "Carnegie Mellon University", 
         "email_addr_list": [
             "amahmed@cs.cmu.edu"
         ], 
-        "cite_url": "www.cs.cmu.edu/~amahmed/", 
-        "cite_name": "Carnegie Mellon University", 
-        "title": "Amr Ahmed (Research at Google)"
+        "id": "231", 
+        "cite_url": "www.cs.cmu.edu/~amahmed/"
     }, 
     {
+        "title": "alex@smola.org - The Email Archive", 
         "content": "research santa clara ca usa alex@smola.org markus weimer yahoo! ... s. caetano nicta/anu tiberio.caetano @nicta.com.au alexander j. smola yahoo!", 
+        "cite_name": "", 
         "email_addr_list": [
             "alex@smola.org"
         ], 
-        "cite_url": "www.the-email-archive.com/email-data-alex-smola-org-14670849.htm", 
-        "cite_name": "", 
-        "title": "alex@smola.org - The Email Archive"
+        "id": "232", 
+        "cite_url": "www.the-email-archive.com/email-data-alex-smola-org-14670849.htm"
     }
 ]

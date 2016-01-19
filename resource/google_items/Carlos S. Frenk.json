@@ -1,39 +1,43 @@
 [
     {
+        "title": "Prof Carlos Frenk - Durham University", 
         "content": "prof carlos frenk. professor in the department of ... (email at c.s.frenk@durham.ac.uk) .... 2288-2296. schneider, m.d., cole, s., frenk, c.s.  szapudi, i. (2011).", 
+        "cite_name": "Durham University", 
         "email_addr_list": [
             "email@c.s.frenk"
         ], 
-        "cite_url": "https://www.dur.ac.uk/research/directory/staff/?...", 
-        "cite_name": "Durham University", 
-        "title": "Prof Carlos Frenk - Durham University"
+        "id": "635", 
+        "cite_url": "https://www.dur.ac.uk/research/directory/staff/?..."
     }, 
     {
+        "title": "Prof. Carlos Frenk - CAASTRO", 
         "content": "frenk, professor carlos - partner investigator. evolving university of durham, uk. email: c.s.frenk@durham.ac.uk. website(s): personal website. research...", 
+        "cite_name": "", 
         "email_addr_list": [
             "c.s.frenk@durham.ac.uk"
         ], 
-        "cite_url": "www.caastro.org/people/frenk-professor-carlos", 
-        "cite_name": "", 
-        "title": "Prof. Carlos Frenk - CAASTRO"
+        "id": "636", 
+        "cite_url": "www.caastro.org/people/frenk-professor-carlos"
     }, 
     {
+        "title": "Department of Physics  Astronomy: Laura Sales", 
         "content": "apr 1, 2015 - email: laura.sales@ucr.edu ... carlos a.; sales, laura v.; helmi, amina; frenk, carlos s.; navarro, julio f.; springel, volker; vogelsberger,...", 
+        "cite_name": "", 
         "email_addr_list": [
             "laura.sales@ucr.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "Department of Physics  Astronomy: Laura Sales"
+        "id": "637", 
+        "cite_url": ""
     }, 
     {
+        "title": "Directory of 2dF Team Members - Oxford Astrophysics", 
         "content": "nov 24, 1998 - ... russell cannon email : rdc@aaoepp.aao.gov.au office phone : +61 2 .... carlos s. frenk email : c.s.frenk@durham.ac.uk office phone : +44...", 
+        "cite_name": "University of Oxford", 
         "email_addr_list": [
             "rdc@aaoepp.aao.gov.au", 
             "c.s.frenk@durham.ac.uk"
         ], 
-        "cite_url": "www-astro.physics.ox.ac.uk/~gbd/.../directory.html", 
-        "cite_name": "University of Oxford", 
-        "title": "Directory of 2dF Team Members - Oxford Astrophysics"
+        "id": "638", 
+        "cite_url": "www-astro.physics.ox.ac.uk/~gbd/.../directory.html"
     }
 ]

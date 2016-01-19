@@ -1,47 +1,52 @@
 [
     {
+        "title": "Elia Stupka - Google Scholar Citations", 
         "content": "create alert. cancel. elia stupka ... verified email at hsr.it. scholar. get my own ... s aparicio, j chapman, e stupka, n putnam, j chia, p dehal, ... science 297...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@hsr.it"
         ], 
-        "cite_url": "scholar.google.com/citations?user=a2BqAmQAAAAJ...", 
-        "cite_name": "Google Scholar", 
-        "title": "Elia Stupka - Google Scholar Citations"
+        "id": "1019", 
+        "cite_url": "scholar.google.com/citations?user=a2BqAmQAAAAJ..."
     }, 
     {
+        "title": "Bioinformatics.it :: Bioinformatics Italian Society", 
         "content": "funding source: san raffaele salary on grant: commensurate with role/experience. contact person (referent): elia stupka ref. e-mail: stupka.elia@hsr.it", 
+        "cite_name": "", 
         "email_addr_list": [
             "stupka.elia@hsr.it"
         ], 
-        "cite_url": "bioinformatics.it/index.php?mod=newsnewsId=507", 
-        "cite_name": "", 
-        "title": "Bioinformatics.it :: Bioinformatics Italian Society"
+        "id": "1020", 
+        "cite_url": "bioinformatics.it/index.php?mod=newsnewsId=507"
     }, 
     {
+        "title": "Elia Stupka - OBF Redmine", 
         "content": "elia stupka. email: elia.stupka@cbm.fvg.it; registered on: projects. bio-eutilities (manager, 01/03/2014); bio::featureio (manager, 03/09/2011); bio::graphics...", 
+        "cite_name": "", 
         "email_addr_list": [
             "elia.stupka@cbm.fvg.it"
         ], 
-        "cite_url": "https://redmine.open-bio.org/users/11", 
-        "cite_name": "", 
-        "title": "Elia Stupka - OBF Redmine"
+        "id": "1021", 
+        "cite_url": "https://redmine.open-bio.org/users/11"
     }, 
     {
-        "content": "+39 081 5833428 – mobile: +39 340 2789194 – e-mail: remo.sanges@szn.it .... remo sanges, pedro cruz, vincenza maselli, elia stupka. analysis of...", 
+        "title": "[PDF]REMO SANGES, PhD", 
+        "content": "+39 081 5833428 \u2013 mobile: +39 340 2789194 \u2013 e-mail: remo.sanges@szn.it .... remo sanges, pedro cruz, vincenza maselli, elia stupka. analysis of...", 
+        "cite_name": "", 
         "email_addr_list": [
             "remo.sanges@szn.it"
         ], 
-        "cite_url": "www.adm.sissa.it/_media/collaborazioni/sanges.15.cv.pdf", 
-        "cite_name": "", 
-        "title": "[PDF]REMO SANGES, PhD"
+        "id": "1022", 
+        "cite_url": "www.adm.sissa.it/_media/collaborazioni/sanges.15.cv.pdf"
     }, 
     {
+        "title": "Elia Stupka", 
         "content": "dr. elia stupka started his genomics career as part of the ensembl group and the core human genome ... email: andrea.weber@flemingeurope.com. news.", 
+        "cite_name": "", 
         "email_addr_list": [
             "andrea.weber@flemingeurope.com"
         ], 
-        "cite_url": "", 
-        "cite_name": "", 
-        "title": "Elia Stupka"
+        "id": "1023", 
+        "cite_url": ""
     }
 ]

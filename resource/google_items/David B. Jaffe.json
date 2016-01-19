@@ -1,20 +1,22 @@
 [
     {
+        "title": "David Jaffe - The University of Texas at San Antonio", 
         "content": "david b. jaffe, ph.d. professor. phone: (210) 458-5843. email: david.jaffe@utsa.edu ... research in dr. jaffes lab focuses on the hippocampal formation; a brain...", 
+        "cite_name": "University of Texas at San Antonio", 
         "email_addr_list": [
             "david.jaffe@utsa.edu"
         ], 
-        "cite_url": "www.utsa.edu/.../DavidJaffe.html", 
-        "cite_name": "University of Texas at San Antonio", 
-        "title": "David Jaffe - The University of Texas at San Antonio"
+        "id": "843", 
+        "cite_url": "www.utsa.edu/.../DavidJaffe.html"
     }, 
     {
-        "content": "david b jaffe - ... david b jaffe. biology  neurosciences institute. email: david.jaffe@utsa.edu•phone: 2104585843, 2104585843...", 
+        "title": "David B Jaffe - UT San Antonio", 
+        "content": "david b jaffe - ... david b jaffe. biology  neurosciences institute. email: david.jaffe@utsa.edu\u2022phone: 2104585843, 2104585843...", 
+        "cite_name": "", 
         "email_addr_list": [
             "david.jaffe@utsa.edu"
         ], 
-        "cite_url": "utsa.influuent.utsystem.edu/.../david-b-jaffe(9a6cc7ba-5a2c-477b-97ac-...", 
-        "cite_name": "", 
-        "title": "David B Jaffe - UT San Antonio"
+        "id": "844", 
+        "cite_url": "utsa.influuent.utsystem.edu/.../david-b-jaffe(9a6cc7ba-5a2c-477b-97ac-..."
     }
 ]

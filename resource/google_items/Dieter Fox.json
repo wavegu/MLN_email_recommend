@@ -1,38 +1,42 @@
 [
     {
+        "title": "Dieter Fox | Computer Science  Engineering", 
         "content": "dieter fox. title: professor (faculty). robotics ... email: fox at cs.washington.edu. home page: http://homes.cs.washington.edu/~fox. office: cse586. research...", 
+        "cite_name": "University of Washington", 
         "email_addr_list": [
             "fox@cs.washington.edu"
         ], 
-        "cite_url": "https://www.cs.washington.edu/node/389", 
-        "cite_name": "University of Washington", 
-        "title": "Dieter Fox | Computer Science  Engineering"
+        "id": "939", 
+        "cite_url": "https://www.cs.washington.edu/node/389"
     }, 
     {
+        "title": "Dieter Fox - Google Scholar Citations", 
         "content": "dieter fox. professor of computer ... verified email at cs.washington.edu - homepage  scholar. get my own ... s thrun, d fox, w burgard, f dellaert. artificial...", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cs.washington.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=DqXsbPAAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Dieter Fox - Google Scholar Citations"
+        "id": "940", 
+        "cite_url": "scholar.google.com/citations?user=DqXsbPAAAAAJ"
     }, 
     {
+        "title": "Intel Labs Seattles New Director, Dieter Fox, on Why the ...", 
         "content": "sep 29, 2009 - dieter fox, an associate professor of computer science and engineering at the uw, ... you can e-mail him at gthuang@xconomy.com. follow @...", 
+        "cite_name": "Xconomy", 
         "email_addr_list": [
             "gthuang@xconomy.com"
         ], 
-        "cite_url": "www.xconomy.com/.../intel-labs-seattles-new-director-dieter-f...", 
-        "cite_name": "Xconomy", 
-        "title": "Intel Labs Seattles New Director, Dieter Fox, on Why the ..."
+        "id": "941", 
+        "cite_url": "www.xconomy.com/.../intel-labs-seattles-new-director-dieter-f..."
     }, 
     {
+        "title": "Details - USC Robotics Research Labs", 
         "content": "denis f. wolf, gaurav s. sukhatme, dieter fox and wolfram burgard. autonomous terrain mapping ... position: phd student. email: denis@robotics.usc.edu.", 
+        "cite_name": "", 
         "email_addr_list": [
             "denis@robotics.usc.edu"
         ], 
-        "cite_url": "robotics.usc.edu/publications/415/", 
-        "cite_name": "", 
-        "title": "Details - USC Robotics Research Labs"
+        "id": "942", 
+        "cite_url": "robotics.usc.edu/publications/415/"
     }
 ]

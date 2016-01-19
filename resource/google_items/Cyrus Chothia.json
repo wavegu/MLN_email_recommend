@@ -1,29 +1,32 @@
 [
     {
+        "title": "SCOP2 prototype: a new approach to protein structure mining", 
         "content": "nov 29, 2013 - antonina andreeva,*,; dave howorth,; cyrus chothia,; eugene ... +44 1223 267067; fax: +44 1223 268305; email: agm@mrc-lmb.cam.ac.uk...", 
+        "cite_name": "Nucleic Acids Research", 
         "email_addr_list": [
             "agm@mrc-lmb.cam.ac.uk"
         ], 
-        "cite_url": "nar.oxfordjournals.org/content/42/D1/D310.full", 
-        "cite_name": "Nucleic Acids Research", 
-        "title": "SCOP2 prototype: a new approach to protein structure mining"
+        "id": "757", 
+        "cite_url": "nar.oxfordjournals.org/content/42/D1/D310.full"
     }, 
     {
+        "title": "Dr Sarah Teichmann - Wellcome Trust Sanger Institute", 
         "content": "apr 11, 2013 - she joined cyrus chothias group at the mrc laboratory of molecular .... gene expression genomics; email: sarah.teichmann@sanger.ac.uk...", 
+        "cite_name": "Wellcome Trust Sanger Institute", 
         "email_addr_list": [
             "sarah.teichmann@sanger.ac.uk"
         ], 
-        "cite_url": "https://www.sanger.ac.uk/.../steichmann/", 
-        "cite_name": "Wellcome Trust Sanger Institute", 
-        "title": "Dr Sarah Teichmann - Wellcome Trust Sanger Institute"
+        "id": "758", 
+        "cite_url": "https://www.sanger.ac.uk/.../steichmann/"
     }, 
     {
+        "title": "Message from the ISCB: 2015 ISCB Accomplishment by a ...", 
         "content": "may 22, 2015 - cyrus chothia, an emeritus scientist at the medical research council ... for permissions, please e-mail: journals.permissions@oup.com.", 
+        "cite_name": "National Center for Biotechnology Information", 
         "email_addr_list": [
             "journals.permissions@oup.com"
         ], 
-        "cite_url": "www.ncbi.nlm.nih.gov/.../2...", 
-        "cite_name": "National Center for Biotechnology Information", 
-        "title": "Message from the ISCB: 2015 ISCB Accomplishment by a ..."
+        "id": "759", 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../2..."
     }
 ]

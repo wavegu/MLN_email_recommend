@@ -1,11 +1,12 @@
 [
     {
+        "title": "[PDF]The Design and Administration of Internet and Mail Surveys", 
         "content": "apr 13, 2011 - dillman@wsu.edu ; http://www.sesrc.wsu.edu/dillman. 1 c don a. dillman, april 2011. reconsidering mail survey. methods in an internet.", 
+        "cite_name": "University of Massachusetts Boston", 
         "email_addr_list": [
             "dillman@wsu.edu"
         ], 
-        "cite_url": "https://www.umb.edu/.../ASAAAPOR...", 
-        "cite_name": "University of Massachusetts Boston", 
-        "title": "[PDF]The Design and Administration of Internet and Mail Surveys"
+        "id": "946", 
+        "cite_url": "https://www.umb.edu/.../ASAAAPOR..."
     }
 ]

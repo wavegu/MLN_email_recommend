@@ -1,11 +1,12 @@
 [
     {
+        "title": "Accurate whole human genome sequencing using ... - Nature", 
         "content": "nov 6, 2008 - david r. bentley, shankar balasubramanian, harold p. swerdlow, geoffrey .... should be addressed to d.r.b. (email: dbentley@illumina.com).", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "dbentley@illumina.com"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Accurate whole human genome sequencing using ... - Nature"
+        "id": "890", 
+        "cite_url": ""
     }
 ]

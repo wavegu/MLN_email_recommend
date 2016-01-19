@@ -1,29 +1,32 @@
 [
     {
+        "title": "Chris B. Burge | MIT Biology", 
         "content": "email: cburge [at] mit.edu ... chris b. burge ... wang z., burge c. b. splicing regulation: from a parts list of regulatory elements to an integrated splicing code.", 
+        "cite_name": "Massachusetts Institute of Technology", 
         "email_addr_list": [
             "cburge@mit.edu"
         ], 
-        "cite_url": "https://biology.mit.edu/.../chris_bu...", 
-        "cite_name": "Massachusetts Institute of Technology", 
-        "title": "Chris B. Burge | MIT Biology"
+        "id": "708", 
+        "cite_url": "https://biology.mit.edu/.../chris_bu..."
     }, 
     {
+        "title": "Christopher Burge Lab - People - Christopher Burge - MIT", 
         "content": "christopher b. burge professor of biology and biological engineering ... email: cburge at mit dot edu. burge lab website: http://genes.mit.edu/burgelab.", 
+        "cite_name": "Massachusetts Institute of Technology", 
         "email_addr_list": [
             "cburge@mit.edu"
         ], 
-        "cite_url": "genes.mit.edu/burgelab/cburge.html", 
-        "cite_name": "Massachusetts Institute of Technology", 
-        "title": "Christopher Burge Lab - People - Christopher Burge - MIT"
+        "id": "709", 
+        "cite_url": "genes.mit.edu/burgelab/cburge.html"
     }, 
     {
+        "title": "Alternative isoform regulation in human tissue ... - Nature", 
         "content": "nov 2, 2008 - correspondence to: christopher b. burge correspondence and requests for materials should be addressed to c.b.b. (email: cburge@mit.edu).", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "cburge@mit.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Alternative isoform regulation in human tissue ... - Nature"
+        "id": "710", 
+        "cite_url": ""
     }
 ]

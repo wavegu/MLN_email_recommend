@@ -1,30 +1,33 @@
 [
     {
+        "title": "Danielle Thierry-Mieg (person) - WormBase : Nematode ...", 
         "content": "danielle thierry-mieg. email: mieg@ncbi.nlm.nih.gov. also known as: d thierry-mieg. wormbase id: wbperson651. ncbi. nlm. nih bldg 38a 8600 rockville...", 
-        "email_addr_list": [
-            "mieg@ncbi.nlm.nih.gov"
-        ], 
-        "cite_url": "www.wormbase.org/resources/person/WBPerson651", 
         "cite_name": "WormBase", 
-        "title": "Danielle Thierry-Mieg (person) - WormBase : Nematode ..."
-    }, 
-    {
-        "content": "aug 7, 2006 - corresponding author: danielle thierry-mieg mieg@ncbi.nlm.nih.gov ... 2006 thierry-mieg and thierry-mieg; licensee biomed central ltd.", 
         "email_addr_list": [
             "mieg@ncbi.nlm.nih.gov"
         ], 
-        "cite_url": "www.genomebiology.com/2006/7/S1/S12", 
-        "cite_name": "Genome Biology", 
-        "title": "Genome Biology | Full text | AceView: a comprehensive ..."
+        "id": "803", 
+        "cite_url": "www.wormbase.org/resources/person/WBPerson651"
     }, 
     {
+        "title": "Genome Biology | Full text | AceView: a comprehensive ...", 
+        "content": "aug 7, 2006 - corresponding author: danielle thierry-mieg mieg@ncbi.nlm.nih.gov ... 2006 thierry-mieg and thierry-mieg; licensee biomed central ltd.", 
+        "cite_name": "Genome Biology", 
+        "email_addr_list": [
+            "mieg@ncbi.nlm.nih.gov"
+        ], 
+        "id": "804", 
+        "cite_url": "www.genomebiology.com/2006/7/S1/S12"
+    }, 
+    {
+        "title": "Abstract - Nucleic Acids Research - Oxford Journals", 
         "content": "nov 11, 2014 - tel: +1 206 7326135; fax: +1 206 7326056; email: honey@uw.edu ... thierry-mieg@nih.gov; correspondence may also be addressed to...", 
+        "cite_name": "Nucleic Acids Research", 
         "email_addr_list": [
             "honey@uw.edu", 
             "thierry-mieg@nih.gov"
         ], 
-        "cite_url": "nar.oxfordjournals.org/content/43/D1/D737.abstract", 
-        "cite_name": "Nucleic Acids Research", 
-        "title": "Abstract - Nucleic Acids Research - Oxford Journals"
+        "id": "805", 
+        "cite_url": "nar.oxfordjournals.org/content/43/D1/D737.abstract"
     }
 ]

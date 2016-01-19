@@ -1,21 +1,23 @@
 [
     {
+        "title": "C - Faculty - LMC Dental", 
         "content": "caluori, domenic aegd. email: domenic.caluori@sbclinics.com ... laurie aegd. email: laurie@interfaithdentalclinic.com ... chung, chih chang aegd. email:...", 
+        "cite_name": "", 
         "email_addr_list": [
             "domenic.caluori@sbclinics.com", 
             "laurie@interfaithdentalclinic.com"
         ], 
-        "cite_url": "www.lmcdental.org/faculty?q=c", 
-        "cite_name": "", 
-        "title": "C - Faculty - LMC Dental"
+        "id": "690", 
+        "cite_url": "www.lmcdental.org/faculty?q=c"
     }, 
     {
+        "title": "Chih-Chung Chang - findUSAbusiness.com", 
         "content": "chih-chung chang is a business registered at 318 fairview ave, arcadia, ca . food products ... of this firm. get contact information, owner, number of employees, annual revenue of chih-chung chang. ... emails sopp@bigfoot.com. address...", 
+        "cite_name": "", 
         "email_addr_list": [
             "sopp@bigfoot.com"
         ], 
-        "cite_url": "www.findusabusiness.com/c/b/chih-chung-chang/5952078", 
-        "cite_name": "", 
-        "title": "Chih-Chung Chang - findUSAbusiness.com"
+        "id": "691", 
+        "cite_url": "www.findusabusiness.com/c/b/chih-chung-chang/5952078"
     }
 ]

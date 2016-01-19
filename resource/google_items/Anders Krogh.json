@@ -1,29 +1,32 @@
 [
     {
+        "title": "Anders Kroghs home page - Bioinformatics Centre", 
         "content": "may 3, 2002 - address: bioinformatics centre university of copenhagen ole maaloesvej 5 2200 copenhagen denmark e-mail: krogh@binf.ku.dk phone:...", 
+        "cite_name": "", 
         "email_addr_list": [
             "krogh@binf.ku.dk"
         ], 
-        "cite_url": "people.binf.ku.dk/krogh/", 
-        "cite_name": "", 
-        "title": "Anders Kroghs home page - Bioinformatics Centre"
+        "id": "270", 
+        "cite_url": "people.binf.ku.dk/krogh/"
     }, 
     {
+        "title": "Anders Krogh \u2013 Bioinformatics Centre - University of ...", 
         "content": "anders krogh. professor. department of biology, computational and ... +45 353-21329. phone (reception desk): +45 353-21311. e-mail: akrogh@bio.ku.dk...", 
+        "cite_name": "University of Copenhagen", 
         "email_addr_list": [
             "akrogh@bio.ku.dk"
         ], 
-        "cite_url": "", 
-        "cite_name": "University of Copenhagen", 
-        "title": "Anders Krogh – Bioinformatics Centre - University of ..."
+        "id": "271", 
+        "cite_url": ""
     }, 
     {
-        "content": "anders krogh møller. webredaktør. afdeling: kommunikation. telefon: 89 440 401. mobil: 40 22 86 80. email: anm@dmjx.dk...", 
+        "title": "/ Anders Krogh M\u00f8ller - Danmarks Medie", 
+        "content": "anders krogh m\u00f8ller. webredakt\u00f8r. afdeling: kommunikation. telefon: 89 440 401. mobil: 40 22 86 80. email: anm@dmjx.dk...", 
+        "cite_name": "", 
         "email_addr_list": [
             "anm@dmjx.dk"
         ], 
-        "cite_url": "www.dmjx.dk/om-os/kontakt/.../anders-krogh-moeller", 
-        "cite_name": "", 
-        "title": "/ Anders Krogh Møller - Danmarks Medie"
+        "id": "272", 
+        "cite_url": "www.dmjx.dk/om-os/kontakt/.../anders-krogh-moeller"
     }
 ]

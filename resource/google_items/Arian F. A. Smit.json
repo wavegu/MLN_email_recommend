@@ -1,39 +1,43 @@
 [
     {
+        "title": "rhubley", 
         "content": "email: rhubley@systemsbiology.org ... jared c. roach, gustavo glusman, arian f. a. smit, chad d. huff, robert hubley, paul t. shannon, lee rowen, krishna...", 
+        "cite_name": "", 
         "email_addr_list": [
             "rhubley@systemsbiology.org"
         ], 
-        "cite_url": "https://sites.google.com/site/rhubley/", 
-        "cite_name": "", 
-        "title": "rhubley"
+        "id": "399", 
+        "cite_url": "https://sites.google.com/site/rhubley/"
     }, 
     {
+        "title": "Editorial Board - Repbase Reports - GIRI", 
         "content": "fax: (650) 961-4473 kojima@girinst.org. associate editors: vladimir kapitonov, ph.d. kvladimirv@gmail.com. arian f.a. smit phd. institute for systems biology", 
+        "cite_name": "Genetic Information Research Institute", 
         "email_addr_list": [
             "kojima@girinst.org", 
             "kvladimirv@gmail.com"
         ], 
-        "cite_url": "www.girinst.org/.../editorialboard....", 
-        "cite_name": "Genetic Information Research Institute", 
-        "title": "Editorial Board - Repbase Reports - GIRI"
+        "id": "400", 
+        "cite_url": "www.girinst.org/.../editorialboard...."
     }, 
     {
+        "title": "Evolution and gene capture in ancient endogenous ...", 
         "content": "dec 12, 2014 - amanda y chong, email: ua.ude.yendys@gnohc.adnama. kenji k kojima ... arian f a smit, email: gro.ygoloibsmetsys@timsa. sally r isberg...", 
+        "cite_name": "National Center for Biotechnology Information", 
         "email_addr_list": [
             "ua.ude.yendys@gnohc.adnama"
         ], 
-        "cite_url": "www.ncbi.nlm.nih.gov/.../P...", 
-        "cite_name": "National Center for Biotechnology Information", 
-        "title": "Evolution and gene capture in ancient endogenous ..."
+        "id": "401", 
+        "cite_url": "www.ncbi.nlm.nih.gov/.../P..."
     }, 
     {
+        "title": "The UCSC Genome Browser database: 2015 update", 
         "content": "nov 26, 2014 - ... benedict paten,; brian j. raney,; arian f. a. smit,; matthew l. speir, ... +1 831 459 1472; fax: +1 831 459 1809; email: kate@soe.ucsc.edu.", 
+        "cite_name": "Nucleic Acids Research", 
         "email_addr_list": [
             "kate@soe.ucsc.edu"
         ], 
-        "cite_url": "nar.oxfordjournals.org/content/43/D1/D670.short", 
-        "cite_name": "Nucleic Acids Research", 
-        "title": "The UCSC Genome Browser database: 2015 update"
+        "id": "402", 
+        "cite_url": "nar.oxfordjournals.org/content/43/D1/D670.short"
     }
 ]

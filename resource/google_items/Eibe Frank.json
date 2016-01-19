@@ -1,29 +1,32 @@
 [
     {
+        "title": "Associate Professor Eibe Frank - Waikato University Experts ...", 
         "content": "associate professor eibe frank. department: computer science ... contact details. email: eibe@cs.waikato.ac.nz. phone: extension 4396...", 
+        "cite_name": "University of Waikato", 
         "email_addr_list": [
             "eibe@cs.waikato.ac.nz"
         ], 
-        "cite_url": "", 
-        "cite_name": "University of Waikato", 
-        "title": "Associate Professor Eibe Frank - Waikato University Experts ..."
+        "id": "1010", 
+        "cite_url": ""
     }, 
     {
+        "title": "Associate Professor Eibe Frank - Computing  Mathematical ...", 
         "content": "email: eibe@waikato.ac.nz. room: g.1.05 ... fax: +64 7 858 5095. website: http://www.cs.waikato.ac.nz/~eibe/ ... find more research publications by eibe frank...", 
+        "cite_name": "University of Waikato", 
         "email_addr_list": [
             "eibe@waikato.ac.nz"
         ], 
-        "cite_url": "", 
-        "cite_name": "University of Waikato", 
-        "title": "Associate Professor Eibe Frank - Computing  Mathematical ..."
+        "id": "1011", 
+        "cite_url": ""
     }, 
     {
+        "title": "Eibe Frank - Google Scholar Citations", 
         "content": "eibe frank. associate professor ... verified email at cs.waikato.ac.nz - homepage  scholar ... m hall, e frank, g holmes, b pfahringer, p reutemann, ih witten.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cs.waikato.ac.nz"
         ], 
-        "cite_url": "scholar.google.com/citations?user=dUV_NvIAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Eibe Frank - Google Scholar Citations"
+        "id": "1012", 
+        "cite_url": "scholar.google.com/citations?user=dUV_NvIAAAAJ"
     }
 ]

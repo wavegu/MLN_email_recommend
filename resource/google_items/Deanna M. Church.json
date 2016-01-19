@@ -1,21 +1,23 @@
 [
     {
+        "title": "Extending reference assembly models - Genome Biology", 
         "content": "jan 24, 2015 - corresponding authors: deanna m church deanna.church@personalis.com - valerie a schneider schneiva@ncbi.nlm.nih.gov - richard...", 
+        "cite_name": "Genome Biology", 
         "email_addr_list": [
             "deanna.church@personalis.com", 
             "schneiva@ncbi.nlm.nih.gov"
         ], 
-        "cite_url": "www.genomebiology.com/2015/16/1/13", 
-        "cite_name": "Genome Biology", 
-        "title": "Extending reference assembly models - Genome Biology"
+        "id": "901", 
+        "cite_url": "www.genomebiology.com/2015/16/1/13"
     }, 
     {
+        "title": "Deanna M. | Fred C Church", 
         "content": "deanna m. deanna m. bullock, csrm, aic. associate ... position: commercial claims team leader. email: dbullock@fredcchurch.com. phone: 978-322-7242...", 
+        "cite_name": "", 
         "email_addr_list": [
             "dbullock@fredcchurch.com"
         ], 
-        "cite_url": "www.fredcchurch.com/deanna-m", 
-        "cite_name": "", 
-        "title": "Deanna M. | Fred C Church"
+        "id": "902", 
+        "cite_url": "www.fredcchurch.com/deanna-m"
     }
 ]

@@ -1,38 +1,42 @@
 [
     {
+        "title": "Daniel T Tranel, PhD - Neuroscience - University of Iowa", 
         "content": "daniel t tranel, phd. daniel-tranel. neurology, psychology. daniel-tranel@uiowa.edu. professor; neuroscience ph.d. program director. summary statement:.", 
-        "email_addr_list": [
-            "daniel-tranel@uiowa.edu"
-        ], 
-        "cite_url": "neuroscience.grad.uiowa.edu/faculty/daniel-tranel", 
         "cite_name": "University of Iowa", 
-        "title": "Daniel T Tranel, PhD - Neuroscience - University of Iowa"
+        "email_addr_list": [
+            "daniel-tranel@uiowa.edu"
+        ], 
+        "id": "799", 
+        "cite_url": "neuroscience.grad.uiowa.edu/faculty/daniel-tranel"
     }, 
     {
+        "title": "Daniel Tranel, PhD - University of Iowa Carver College of ...", 
         "content": "oct 9, 2015 - contact information. primary office: 2155 rcp iowa city, ia 52242. phone: 319-384-6050. email: daniel-tranel@uiowa.edu...", 
-        "email_addr_list": [
-            "daniel-tranel@uiowa.edu"
-        ], 
-        "cite_url": "www.medicine.uiowa.e...", 
         "cite_name": "Roy J. and Lucille A. Carver College of Medicine", 
-        "title": "Daniel Tranel, PhD - University of Iowa Carver College of ..."
-    }, 
-    {
-        "content": "search email number information data on the internet ... hospitals and clinics 200 hawkins drive iowa city ia 52242 usa e-mail: daniel-tranel@uiowa.edu we...", 
         "email_addr_list": [
             "daniel-tranel@uiowa.edu"
         ], 
-        "cite_url": "www.the-email-archive.com/email-data-daniel-tranel-uiowa-edu-189703...", 
-        "cite_name": "", 
-        "title": "daniel-tranel@uiowa.edu - The Email Archive"
+        "id": "800", 
+        "cite_url": "www.medicine.uiowa.e..."
     }, 
     {
+        "title": "daniel-tranel@uiowa.edu - The Email Archive", 
+        "content": "search email number information data on the internet ... hospitals and clinics 200 hawkins drive iowa city ia 52242 usa e-mail: daniel-tranel@uiowa.edu we...", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "daniel-tranel@uiowa.edu"
+        ], 
+        "id": "801", 
+        "cite_url": "www.the-email-archive.com/email-data-daniel-tranel-uiowa-edu-189703..."
+    }, 
+    {
+        "title": "The Organisation of Conceptual Knowledge in the Brain: ...", 
         "content": "... actions daniel tranel, david kemmerer, and ralph adolphs university of iowa ... drive, iowa city, iowa 52242, usa (email: daniel-tranel@uiowa.com).", 
+        "cite_name": "", 
         "email_addr_list": [
             "daniel-tranel@uiowa.com"
         ], 
-        "cite_url": "https://books.google.com/books?isbn=1841699470", 
-        "cite_name": "", 
-        "title": "The Organisation of Conceptual Knowledge in the Brain: ..."
+        "id": "802", 
+        "cite_url": "https://books.google.com/books?isbn=1841699470"
     }
 ]

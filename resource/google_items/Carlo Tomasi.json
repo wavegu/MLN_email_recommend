@@ -1,38 +1,42 @@
 [
     {
+        "title": "Carlo Tomasi - Computer Science - Duke University", 
         "content": "carlo tomasi. cs department ... email, tomasi at cs.duke.edu. office, d213 ... r. estrada, c. tomasi, m. t. cabrera, d. k. wallace, s. f. freedman, and s. farsiu.", 
-        "email_addr_list": [
-            "tomasi@cs.duke.edu"
-        ], 
-        "cite_url": "www.cs.duke.edu/people/?csid=0000920", 
         "cite_name": "Duke University", 
-        "title": "Carlo Tomasi - Computer Science - Duke University"
-    }, 
-    {
-        "content": "sep 1, 2015 - carlo tomasi. submitted by ma190 on tue, ... email: tomasi@cs.duke.edu ... carlo tomasi is professor of computer science. he received a...", 
         "email_addr_list": [
             "tomasi@cs.duke.edu"
         ], 
-        "cite_url": "robotics.pratt.duke.edu/members/carlo-tomasi", 
-        "cite_name": "", 
-        "title": "Carlo Tomasi | Robotics"
+        "id": "631", 
+        "cite_url": "www.cs.duke.edu/people/?csid=0000920"
     }, 
     {
+        "title": "Carlo Tomasi | Robotics", 
+        "content": "sep 1, 2015 - carlo tomasi. submitted by ma190 on tue, ... email: tomasi@cs.duke.edu ... carlo tomasi is professor of computer science. he received a...", 
+        "cite_name": "", 
+        "email_addr_list": [
+            "tomasi@cs.duke.edu"
+        ], 
+        "id": "632", 
+        "cite_url": "robotics.pratt.duke.edu/members/carlo-tomasi"
+    }, 
+    {
+        "title": "Carlo Tomasi - Google Scholar Citations", 
         "content": "carlo tomasi. professor of computer science, duke university  computer vision. verified email at cs.duke.edu ... j puzicha, jm buhmann, y rubner, c tomasi.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@cs.duke.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=xViwZ0QAAAAJ", 
-        "cite_name": "Google Scholar", 
-        "title": "Carlo Tomasi - Google Scholar Citations"
+        "id": "633", 
+        "cite_url": "scholar.google.com/citations?user=xViwZ0QAAAAJ"
     }, 
     {
+        "title": "Carlo Tomasi | GFL Environmental Inc | ZoomInfo.com", 
         "content": "view carlo tomasis business profile as fleet maintenance director at gfl environmental ... carlo tomasi email: ctomasi@gflenv.com phone:(647) 381-6598.", 
+        "cite_name": "", 
         "email_addr_list": [
             "ctomasi@gflenv.com"
         ], 
-        "cite_url": "www.zoominfo.com/p/Carlo-Tomasi/1784371455", 
-        "cite_name": "", 
-        "title": "Carlo Tomasi | GFL Environmental Inc | ZoomInfo.com"
+        "id": "634", 
+        "cite_url": "www.zoominfo.com/p/Carlo-Tomasi/1784371455"
     }
 ]

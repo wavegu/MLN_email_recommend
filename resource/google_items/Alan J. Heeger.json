@@ -1,47 +1,52 @@
 [
     {
+        "title": "Alan Heeger - Google Scholar Citations", 
         "content": "cancel. alan heeger. professor of physics ... verified email at physics.ucsb.edu. scholar. get my own profile ... g yu, j gao, jc hummelen, f wudl, aj heeger.", 
+        "cite_name": "Google Scholar", 
         "email_addr_list": [
             "email@physics.ucsb.edu"
         ], 
-        "cite_url": "scholar.google.com/citations?user=tvQY9iIAAAAJhl...", 
-        "cite_name": "Google Scholar", 
-        "title": "Alan Heeger - Google Scholar Citations"
+        "id": "175", 
+        "cite_url": "scholar.google.com/citations?user=tvQY9iIAAAAJhl..."
     }, 
     {
+        "title": "Frontiers of Science Lecture: Low-cost Plastic Solar Cells ...", 
         "content": "lecturer: alan j. heeger, professor of physics, university of california, santa barbara date: thursday, jan. ... email address: jdegooyer@science.utah.edu.", 
+        "cite_name": "", 
         "email_addr_list": [
             "jdegooyer@science.utah.edu"
         ], 
-        "cite_url": "archive.unews.utah.edu/.../frontiers-of-science-lecture-low-cost-plastic-so...", 
-        "cite_name": "", 
-        "title": "Frontiers of Science Lecture: Low-cost Plastic Solar Cells ..."
+        "id": "176", 
+        "cite_url": "archive.unews.utah.edu/.../frontiers-of-science-lecture-low-cost-plastic-so..."
     }, 
     {
+        "title": "Alan J. Heeger | University of Utah News", 
         "content": "alan j. heeger. contact: email address: ajhe@physics.ucsb.edu. weve moved! come see what weve done with the place. unews.utah.edu  awards, grants ...", 
+        "cite_name": "", 
         "email_addr_list": [
             "ajhe@physics.ucsb.edu"
         ], 
-        "cite_url": "archive.unews.utah.edu/author/Alan%20J.%20Heeger/", 
-        "cite_name": "", 
-        "title": "Alan J. Heeger | University of Utah News"
+        "id": "177", 
+        "cite_url": "archive.unews.utah.edu/author/Alan%20J.%20Heeger/"
     }, 
     {
+        "title": "Faculty Profile : The University of Akron", 
         "content": "email: xgong@uakron.edu ... senior scientist, cbrite inc. (2004-2006); post-doc, uc santa barbara, with professor alan j. heeger, (2001-2004); alexander von...", 
+        "cite_name": "University of Akron", 
         "email_addr_list": [
             "xgong@uakron.edu"
         ], 
-        "cite_url": "https://www.uakron.edu/cpspe/.../profile.dot?id...", 
-        "cite_name": "University of Akron", 
-        "title": "Faculty Profile : The University of Akron"
+        "id": "178", 
+        "cite_url": "https://www.uakron.edu/cpspe/.../profile.dot?id..."
     }, 
     {
+        "title": "David Heeger", 
         "content": "david heeger  silver professor ... email: david.heeger@nyu.edu ... alan heeger (my dad) was awarded the nobelprize in chemistry 2000! photos from the...", 
+        "cite_name": "Center for Neural Science", 
         "email_addr_list": [
             "david.heeger@nyu.edu"
         ], 
-        "cite_url": "www.cns.nyu.edu/~david/", 
-        "cite_name": "Center for Neural Science", 
-        "title": "David Heeger"
+        "id": "179", 
+        "cite_url": "www.cns.nyu.edu/~david/"
     }
 ]

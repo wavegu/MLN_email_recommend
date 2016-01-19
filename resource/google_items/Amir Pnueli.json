@@ -1,20 +1,22 @@
 [
     {
+        "title": "Amir Pnueli", 
         "content": "amir pnueli. biographical data. amir pnueli was born in nahalal, israel, on apr. 22, 1941. he finished his b.sc. .... email address: amir@wisdom.weizmann.ac.il...", 
+        "cite_name": "", 
         "email_addr_list": [
             "amir@wisdom.weizmann.ac.il"
         ], 
-        "cite_url": "embedded.eecs.berkeley.edu/esd-seminar/fall97/biodata/pnueli.html", 
-        "cite_name": "", 
-        "title": "Amir Pnueli"
+        "id": "260", 
+        "cite_url": "embedded.eecs.berkeley.edu/esd-seminar/fall97/biodata/pnueli.html"
     }, 
     {
+        "title": "Zohar Mannas home page - Stanford CS Theory", 
         "content": "email: manna@cs.stanford.edu. phone: (650) 723-4364. fax: (650) 725-4671 ... zohar manna and amir pnueli. temporal verification of reactive systems:...", 
+        "cite_name": "", 
         "email_addr_list": [
             "manna@cs.stanford.edu"
         ], 
-        "cite_url": "theory.stanford.edu/~zm/", 
-        "cite_name": "", 
-        "title": "Zohar Mannas home page - Stanford CS Theory"
+        "id": "261", 
+        "cite_url": "theory.stanford.edu/~zm/"
     }
 ]

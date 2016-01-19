@@ -1,20 +1,22 @@
 [
     {
+        "title": "Crystal structure of a SNARE complex involved in synaptic ...", 
         "content": "r. bryan sutton, dirk fasshauer, reinhard jahn  axel t. brunger ... for materials should be addressed to a.t.b. (e-mail: email: brunger@laplace.csb.yale.edu).", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "brunger@laplace.csb.yale.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Crystal structure of a SNARE complex involved in synaptic ..."
+        "id": "471", 
+        "cite_url": ""
     }, 
     {
+        "title": "Article - Nature", 
         "content": "correspondence to: axel t. brunger correspondence and requests for materials should be addressed to a.t.b. (e-mail: email: brunger@laplace.csb.yale.edu).", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "brunger@laplace.csb.yale.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Article - Nature"
+        "id": "472", 
+        "cite_url": ""
     }
 ]

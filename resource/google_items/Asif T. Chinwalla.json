@@ -1,50 +1,55 @@
 [
     {
+        "title": "Initial sequencing and comparative analysis of the mouse ...", 
         "content": "mouse genome sequencing consortiumasif t. chinwalla, lisa l. cook, kimberly ..... k.l.t. (e-mail: email: kersli@genome.wi.mit.edu) or e.s.l. (e-mail: email:...", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "kersli@genome.wi.mit.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "Initial sequencing and comparative analysis of the mouse ..."
+        "id": "449", 
+        "cite_url": ""
     }, 
     {
+        "title": "The DNA sequence of human chromosome 7 : Abstract ...", 
         "content": "... matthew e. portnoy, david torrents, asif t. chinwalla, warren r. gish, sean r. ... correspondence to: richard k. wilson email: rwilson@watson.wustl.edu", 
+        "cite_name": "Nature", 
         "email_addr_list": [
             "rwilson@watson.wustl.edu"
         ], 
-        "cite_url": "", 
-        "cite_name": "Nature", 
-        "title": "The DNA sequence of human chromosome 7 : Abstract ..."
+        "id": "450", 
+        "cite_url": ""
     }, 
     {
+        "title": "Design and implementation of a generalized laboratory data ...", 
         "content": "(1); asif t chinwalla  achinwal@wustl.edu (1); kevin crouse  kcrouse@wustl.edu (1); todd hepler  thepler@wustl.edu (1); shin leong  sleong@wustl.edu...", 
+        "cite_name": "Springer Science+Business Media", 
         "email_addr_list": [
             "achinwal@wustl.edu", 
             "kcrouse@wustl.edu", 
             "thepler@wustl.edu", 
             "sleong@wustl.edu"
         ], 
-        "cite_url": "link.springer.com/.../10.1186%2F1471-2...", 
-        "cite_name": "Springer Science+Business Media", 
-        "title": "Design and implementation of a generalized laboratory data ..."
+        "id": "451", 
+        "cite_url": "link.springer.com/.../10.1186%2F1471-2..."
     }, 
     {
+        "title": "Abstract - Nucleic Acids Research - Oxford Journals", 
         "content": "xiaoqiu huang*,; shiaw-pyng yang1,; asif t. chinwalla1,; ladeana w. hillier1, ... tel: +1 515 294 2432; fax: +1 515 294 0258; email: xqhuang@cs.iastate.edu.", 
+        "cite_name": "Nucleic Acids Research", 
         "email_addr_list": [
             "xqhuang@cs.iastate.edu"
         ], 
-        "cite_url": "nar.oxfordjournals.org/content/34/1/201.abstract", 
-        "cite_name": "Nucleic Acids Research", 
-        "title": "Abstract - Nucleic Acids Research - Oxford Journals"
+        "id": "452", 
+        "cite_url": "nar.oxfordjournals.org/content/34/1/201.abstract"
     }, 
     {
+        "title": "[PDF]Application of a superword array in genome assembly", 
         "content": "jan 1, 2006 - xiaoqiu huang, shiaw-pyng yang, asif t. chinwalla, ladeana w. hillier, .... 294 2432; fax: +1 515 294 0258; email: xqhuang@cs.iastate.edu.", 
+        "cite_name": "", 
         "email_addr_list": [
             "xqhuang@cs.iastate.edu"
         ], 
-        "cite_url": "digitalcommons.wustl.edu/cgi/viewcontent.cgi?article=1105context...", 
-        "cite_name": "", 
-        "title": "[PDF]Application of a superword array in genome assembly"
+        "id": "453", 
+        "cite_url": "digitalcommons.wustl.edu/cgi/viewcontent.cgi?article=1105context..."
     }
 ]

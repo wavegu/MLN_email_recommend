@@ -1,47 +1,52 @@
 [
     {
+        "title": "Cornelia van Duijn - Dept. of Epidemiology", 
         "content": "email, c.vanduijn@erasmusmc.nl. biographical sketch. cornelia van duijn received a msc degree from the agricultural university wageningen (1987) and a...", 
+        "cite_name": "", 
         "email_addr_list": [
             "c.vanduijn@erasmusmc.nl"
         ], 
-        "cite_url": "www.erasmus-epidemiology.nl/people/profile.php?id...", 
-        "cite_name": "", 
-        "title": "Cornelia van Duijn - Dept. of Epidemiology"
+        "id": "738", 
+        "cite_url": "www.erasmus-epidemiology.nl/people/profile.php?id..."
     }, 
     {
+        "title": "Erasmus MC : Duijn, Cock van", 
         "content": "email c.vanduijn@erasmusmc.nl. biographical sketch cornelia van duijn received a msc degree from the agricultural university wageningen (1987) and a...", 
+        "cite_name": "", 
         "email_addr_list": [
             "c.vanduijn@erasmusmc.nl"
         ], 
-        "cite_url": "www.erasmusmc.nl/epid/51026/2581336/duijn-coch-van?lang=en", 
-        "cite_name": "", 
-        "title": "Erasmus MC : Duijn, Cock van"
+        "id": "739", 
+        "cite_url": "www.erasmusmc.nl/epid/51026/2581336/duijn-coch-van?lang=en"
     }, 
     {
+        "title": "Cornelia M. van Duijn, PhD - NIHES", 
         "content": "... +31(0)10 703 8450. fax: +31(0)10 704 4680. e-mail: nihes@erasmusmc.nl. keep me posted on nihes. name*. email address* ... cornelia m. van duijn, phd.", 
+        "cite_name": "", 
         "email_addr_list": [
             "nihes@erasmusmc.nl"
         ], 
-        "cite_url": "nihes.nl/blog/2012/cornelia-m-van-duijn-phd/", 
-        "cite_name": "", 
-        "title": "Cornelia M. van Duijn, PhD - NIHES"
+        "id": "740", 
+        "cite_url": "nihes.nl/blog/2012/cornelia-m-van-duijn-phd/"
     }, 
     {
+        "title": "IAP VI - P6/43 - Department of Molecular Genetics", 
         "content": "cornelia m. van duijn genetic epidemiology ... dr. cornelia van duijn, ph.d. erasmus medical center ... +31 (0) 10 408.9406. email: c.vanduijn@erasmusmc.nl...", 
+        "cite_name": "University of Antwerp", 
         "email_addr_list": [
             "c.vanduijn@erasmusmc.nl"
         ], 
-        "cite_url": "www.molgen.ua.ac.be/iap6/partner_eu1.html", 
-        "cite_name": "University of Antwerp", 
-        "title": "IAP VI - P6/43 - Department of Molecular Genetics"
+        "id": "741", 
+        "cite_url": "www.molgen.ua.ac.be/iap6/partner_eu1.html"
     }, 
     {
+        "title": "Cornelia M. van Duijn", 
         "content": "cornelia m. van duijn genetic epidemiology ... dr. cornelia van duijn, ph.d. erasmus university ... fax: +31 (0) 10 704.4657. email: c.vanduijn@erasmusmc.nl...", 
+        "cite_name": "", 
         "email_addr_list": [
             "c.vanduijn@erasmusmc.nl"
         ], 
-        "cite_url": "www.molgen.vib-ua.be/iap7/partner_eu1.shtml", 
-        "cite_name": "", 
-        "title": "Cornelia M. van Duijn"
+        "id": "742", 
+        "cite_url": "www.molgen.vib-ua.be/iap7/partner_eu1.shtml"
     }
 ]
