@@ -2,6 +2,7 @@
 import os
 import sys
 import json
+from util import del_a_from_b
 from util import create_dir_if_not_exist
 from node_mln import NodeMLN
 from constants import CONSTANT_PATH
@@ -134,8 +135,15 @@ class PersonMLN:
                 #     binary_relationship_list.append(node.grounding_string_binary('same_domain', another_node.node_name))
                 # if node.domain == another_node.domain and node.prefix != another_node.prefix and another_node.prefix_is_invalid_keyword()[0]:
                 #     binary_relationship_list.append(node.grounding_string_binary('same_domain_with_invalid', another_node.node_name))
-                if node.prefix != another_node.prefix and another_node.prefix in node.prefix or node.prefix in another_node.prefix:
-                    binary_relationship_list.append(node.grounding_string_binary('a_contain_prefix_b', another_node.node_name))
+                if node.prefix != another_node.prefix and (another_node.prefix in node.prefix or node.prefix in another_node.prefix):
+                    big_node = node
+                    small_node = another_node
+                    if node.prefix in another_node.prefix:
+                        big_node = another_node
+                        small_node = node
+                    remain_prefix = del_a_from_b(small_node.prefix, big_node.prefix)
+                    if remain_prefix[0] in big_node.first_char_list:
+                        binary_relationship_list.append(node.grounding_string_binary('a_contain_prefix_b', another_node.node_name))
         return binary_relationship_list
 
     def get_svm_feature_line_list(self):
@@ -160,10 +168,8 @@ class PersonMLN:
         if r < 3:
             token = '?'
         test_feature_list = []
-        invalid_email_feature_list = []
         for feature_line in fgm_feature_line_list:
-            if feature_line not in invalid_email_feature_list:
-                feature_line = feature_line.replace('+', token)
+            feature_line = feature_line.replace('+', token)
             test_feature_list.append(feature_line)
 
         return test_feature_list

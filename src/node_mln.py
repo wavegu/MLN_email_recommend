@@ -20,6 +20,8 @@ class NodeMLN:
 
         self.last_name = self.person_name.replace('-', ' ').split(' ')[-1]
         self.first_name = self.person_name.replace('-', ' ').split(' ')[0]
+        self.first_char_list = [name[0] for name in self.person_name.replace('-', '').split(' ')]
+
         self.domain = self.email[self.email.find('@')+1:]
         self.prefix = self.email[:self.email.find('@')]
         self.prefix = re.sub(r'([\d]+)', '', self.prefix)

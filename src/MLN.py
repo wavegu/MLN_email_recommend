@@ -168,7 +168,7 @@ class MLN:
         accuracy = tot_acc / 500.0
         precision = tot_pre / 500.0
         recall = tot_rec / 500.0
-        f1_value = tot_f1 / 500.0
+        f1_value = 2 * precision * recall / (precision + recall)
 
         print '-------------FGM----------------'
         print 'accuracy =', accuracy
@@ -265,5 +265,6 @@ if __name__ == '__main__':
     mln.write_svm_feature_file()
     mln.svm_evaluate()
 
-    mln.run_fgm_exp(is_need_binary=False)
+    # mln.write_fgm_feature_file(is_need_binary=True)
+    mln.run_fgm_exp(is_need_binary=True)
     mln.fgm_evaluate()
