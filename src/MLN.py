@@ -1,3 +1,4 @@
+# encoding: utf8
 import os
 from util import *
 from constants import CONSTANT_PATH
@@ -11,6 +12,7 @@ sys.setdefaultencoding('utf8')
 class MLN:
 
     def __init__(self):
+        print 'Experiment setting up...'
         self.person_list = []
         self.marked_person_dict = {}
         self.svm_dir = CONSTANT_PATH['svm_by_product_dir']
@@ -28,9 +30,9 @@ class MLN:
         self.mln_predict_file_path = os.path.join('..', 'by_product', 'mln_by_product', 'predict.db')
         self.marked_person_dict_path = os.path.join(self.resource_dir, 'mark', 'marked_person_dict.json')
 
+    def set_up(self):
         self.get_marked_person_dict()
         self.get_person_list()
-        # self.add_id_to_google_items()
         self.write_google_item_file()
 
     def get_marked_person_dict(self):
@@ -49,7 +51,6 @@ class MLN:
                     invalide_person_file.write(person_name + '\n')
                     continue
             if person_name not in self.marked_person_dict:
-                print person_name, 'not in marked'
                 continue
             marked_email_list = self.marked_person_dict[person_name]['email_list']
             marked_email_list = [email.lower() for email in marked_email_list]
@@ -87,25 +88,103 @@ class MLN:
         with open(self.svm_feature_file_path, 'w') as feature_file:
             feature_file.write(svm_feature_content)
 
+    def svm_evaluate(self):
+        cmd = 'python ' + self.svm_dir + '/svm_script/svm.py'
+        os.system(cmd)
+
     # ----------------------FGM-----------------------------------------
 
-    def write_fgm_feature_file(self):
+    def write_fgm_feature_file(self, is_need_binary):
         fgm_feature_content = ''
+        train_pos_num = 0
+        train_neg_num = 0
+        test_pos_num = 0
+        test_neg_num = 0
         for person in self.person_list:
-            for feature_line in person.get_fgm_feature_line_list():
+            fgm_feature_list = person.get_fgm_feature_line_list()
+            for feature_line in fgm_feature_list:
+                if feature_line[0] == '?':
+                    if feature_line[1] == '0':
+                        test_neg_num += 1
+                    else:
+                        test_pos_num += 1
+                else:
+                    if feature_line[1] == '0':
+                        train_neg_num += 1
+                    else:
+                        train_pos_num += 1
                 fgm_feature_content += feature_line.replace('!', '')
-        for person in self.person_list:
-            binary_line_list = person.get_binary_relationship_list()
-            for binary_line in binary_line_list:
-                binary_line = str(binary_line)
-                id1 = binary_line[binary_line.find('(') + 1: binary_line.find(',')].replace(' ', '')
-                id2 = binary_line[binary_line.find(',') + 1: binary_line.find(')')].replace(' ', '')
-                feature_name = binary_line[:binary_line.find('(')]
-                binary_line = '#edge ' + id1 + ' ' + id2 + ' ' + feature_name + '\n'
-                fgm_feature_content += binary_line
+        print 'test_pos =', test_pos_num
+        print 'test_neg =', test_neg_num
+        print 'train_pos =', train_pos_num
+        print 'train_neg =', train_neg_num
+
+        if is_need_binary:
+            for person in self.person_list:
+                binary_line_list = person.get_binary_relationship_list()
+                for binary_line in binary_line_list:
+                    binary_line = str(binary_line)
+                    id1 = binary_line[binary_line.find('(') + 1: binary_line.find(',')].replace(' ', '')
+                    id2 = binary_line[binary_line.find(',') + 1: binary_line.find(')')].replace(' ', '')
+                    feature_name = binary_line[:binary_line.find('(')]
+                    binary_line = '#edge ' + id1 + ' ' + id2 + ' ' + feature_name + '\n'
+                    fgm_feature_content += binary_line
 
         with open(self.fgm_feature_file_path, 'w') as feature_file:
             feature_file.write(fgm_feature_content)
+
+    def run_fgm_exp(self, is_need_binary):
+        import time
+        import subprocess
+        pro_list = []
+        for looper in range(5):
+            print 'Running FGM', looper, '...'
+            self.write_fgm_feature_file(is_need_binary)
+            cmd = os.path.join(self.fgm_dir, 'OpenCRF') + ' -est -niter 50000 -gradientstep 0.0002 -trainfile ' + os.path.join(self.fgm_dir, 'fgm_feature.txt') + ' -dstmodel model.txt > ' + os.path.join(self.fgm_dir, 'result'+str(looper)+'.txt')
+            pro = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            pro_list.append(pro)
+            time.sleep(1)
+        for pro in pro_list:
+            pro.wait()
+
+    def fgm_evaluate(self):
+        print 'FGM running over, evaluating...'
+        tot_acc = 0.0
+        tot_pre = 0.0
+        tot_rec = 0.0
+        tot_f1 = 0.0
+        for looper in range(5):
+            result_file_path = os.path.join(self.fgm_dir, 'result'+str(looper)+'.txt')
+            with open(result_file_path) as result_file:
+                performance_lines = result_file.readlines()[-5:-1]
+                accuracy = float(performance_lines[0][-5: -1])
+                precision = float(performance_lines[1][-5: -1])
+                recall = float(performance_lines[2][-5: -1])
+                f1_value = float(performance_lines[3][-5: -1])
+                tot_acc += accuracy
+                tot_pre += precision
+                tot_rec += recall
+                tot_f1 += f1_value
+        accuracy = tot_acc / 500.0
+        precision = tot_pre / 500.0
+        recall = tot_rec / 500.0
+        f1_value = tot_f1 / 500.0
+
+        print '-------------FGM----------------'
+        print 'accuracy =', accuracy
+        print 'precision =', precision
+        print 'recall =', recall
+        print 'F1_value =', f1_value
+        print '--------------------------------'
+
+        f = open(os.path.join(self.fgm_dir, 'result.txt'), 'w')
+        old = sys.stdout
+        sys.stdout = f
+        print 'accuracy =', accuracy
+        print 'precision =', precision
+        print 'recall =', recall
+        print 'F1_value =', f1_value
+        sys.stdout = old
 
     # ----------------------MLN-----------------------------------------
 
@@ -122,8 +201,6 @@ class MLN:
                 feature_file.write(binary_evidence)
 
     def run_mln_exp(self):
-        # for person in self.person_list:
-        #     person.write_mln_evidence_file()
         self.write_mln_feature_file()
         prog_path = os.path.join('..', 'resource', 'tuffy', 'prog.mln')
         query_path = os.path.join('..', 'resource', 'tuffy', 'query.db')
@@ -157,29 +234,36 @@ class MLN:
 
         all_candidate_num = len(google_item_dict.keys())
         all_recommend_num = len(pred_ids)
-        print '---------------------------------'
+        accuracy = (1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)) * 100.0
+        precision = float(all_recommend_num - all_error_num) / float(all_recommend_num) * 100.0
+        recall = float(all_recommend_num - all_error_num) / float(all_recommend_num - all_error_num + all_miss_num) * 100.0
+        print '-------------MLN----------------'
         print 'miss      ', all_miss_num
         print 'error     ', all_error_num
         print 'recommend ', all_recommend_num
         print 'candidate ', all_candidate_num
-        print 'accuracy  ', 1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)
-        print 'recall    ', float(all_recommend_num - all_error_num) / float(all_recommend_num - all_error_num + all_miss_num)
-        print 'precision ', float(all_recommend_num - all_error_num) / float(all_recommend_num)
+        print 'accuracy  ', accuracy
+        print 'precision ', precision
+        print 'recall    ', recall
+        print 'F1_VALUE  ', 2 * precision * recall / (precision + recall)
+
+        # print '--------------------------------'
 
         with open('../performance.txt', 'w') as performance_file:
             performance_file.write('accuracy  ' + str(1.0 - float(all_error_num + all_miss_num) / float(all_candidate_num)) + '\n')
             performance_file.write('recall    ' + str(float(all_recommend_num - all_error_num) / float(all_recommend_num - all_error_num + all_miss_num)) + '\n')
             performance_file.write('precision ' + str(float(all_recommend_num - all_error_num) / float(all_recommend_num)) + '\n')
 
-        # with open(self.report_path, 'w') as report_file:
-        #     report_file.write(json.dumps(report_dict, indent=4))
-
 
 if __name__ == '__main__':
     mln = MLN()
-    mln.write_fgm_feature_file()
+    mln.set_up()
+
+    mln.run_mln_exp()
+    mln.mln_evaluate()
+
     mln.write_svm_feature_file()
-    # mln.run_mln_exp()
-    # mln.mln_evaluate()
-    # mln.write_mln_feature_file()
-    # print len(mln.person_list)
+    mln.svm_evaluate()
+
+    mln.run_fgm_exp(is_need_binary=False)
+    mln.fgm_evaluate()

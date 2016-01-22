@@ -1,0 +1,22 @@
+[
+    {
+        "content": "(11); dana busam  dbusam@jcvi.org (12); bernard dumas  dumas@scsv.ups-tlse.fr ... (18); justin johnson  jhjohnsn@gmail.com (12); theerapong krajaejun...", 
+        "email_addr_list": [
+            "dbusam@jcvi.org", 
+            "dumas@scsv.ups-tlse.fr", 
+            "jhjohnsn@gmail.com"
+        ], 
+        "cite_url": "link.springer.com/article/10.1186%2Fgb-2010-11-7-r73", 
+        "cite_name": "", 
+        "title": "Genome sequence of the necrotrophic plant pathogen ..."
+    }, 
+    {
+        "content": "sep 4, 2007 - e-mail: slevy@jcvi.org. affiliation: j. craig venter institute, rockville, maryland, ... dana a busam,. affiliation: j. craig venter institute, rockville,...", 
+        "email_addr_list": [
+            "slevy@jcvi.org"
+        ], 
+        "cite_url": "journals.plos.org/plosbiology/article?id=10.1371/journal.pbio...", 
+        "cite_name": "", 
+        "title": "The Diploid Genome Sequence of an Individual Human"
+    }
+]

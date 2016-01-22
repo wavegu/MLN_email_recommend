@@ -26099,9 +26099,65 @@
     {
         "affiliation": "", 
         "contact": "", 
+        "name": "D. Deaven", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Christine Lloyd", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "E. Belding-Royer", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "University of Oxford UK UK", 
+        "contact": "", 
+        "name": "D. R. Cox", 
+        "affiliation_words": [
+            "oxford", 
+            "uk"
+        ]
+    }, 
+    {
+        "affiliation": "Argonne National Laboratory, Argonne, IL 60439-4815, USA", 
+        "contact": "", 
+        "name": "D. Kisielewska", 
+        "affiliation_words": [
+            "argonne", 
+            "usa", 
+            "national", 
+            "il", 
+            "60439-4815", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
         "name": "A. Tversky", 
         "affiliation_words": [
             ""
+        ]
+    }, 
+    {
+        "affiliation": "European Southern Observatory", 
+        "contact": "", 
+        "name": "C. Lidman", 
+        "affiliation_words": [
+            "observatory", 
+            "southern", 
+            "european"
         ]
     }, 
     {
@@ -26126,6 +26182,14 @@
         "name": "Andre Heck", 
         "affiliation_words": [
             "amstel"
+        ]
+    }, 
+    {
+        "affiliation": "University of Maryland", 
+        "contact": "", 
+        "name": "E. Kalnay", 
+        "affiliation_words": [
+            "maryland"
         ]
     }, 
     {
@@ -26205,6 +26269,24 @@
         ]
     }, 
     {
+        "affiliation": "The Sanger Centre, Wellcome Trust Genome Campus, Hinxton, CB10 1SA, United Kingdom", 
+        "contact": "", 
+        "name": "Darren Grafham", 
+        "affiliation_words": [
+            "kingdom", 
+            "1sa", 
+            "united", 
+            "cb10", 
+            "hinxton", 
+            "centre", 
+            "wellcome", 
+            "genome", 
+            "sanger", 
+            "trust", 
+            "campus"
+        ]
+    }, 
+    {
         "affiliation": "Medical Research Council|Laboratory of Molecular Biology", 
         "contact": "", 
         "name": "B. G. Barrell", 
@@ -26217,12 +26299,97 @@
         ]
     }, 
     {
+        "affiliation": "CERN, European Organization for Nuclear Research, Geneva, Switzerland", 
+        "contact": "", 
+        "name": "E. Lamanna", 
+        "affiliation_words": [
+            "geneva", 
+            "cern", 
+            "nuclear", 
+            "switzerland", 
+            "organization", 
+            "european"
+        ]
+    }, 
+    {
+        "affiliation": "Brookhaven National Laboratory", 
+        "contact": "", 
+        "name": "D. Lynn", 
+        "affiliation_words": [
+            "brookhaven", 
+            "national", 
+            "laboratory"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "C. Geertz", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "European Organisation for Particle Physics CERN CH-1211 Geneva 23 Switzerland", 
+        "contact": "", 
+        "name": "D. G. Charlton", 
+        "affiliation_words": [
+            "geneva", 
+            "particle", 
+            "23", 
+            "cern", 
+            "organisation", 
+            "switzerland", 
+            "physics", 
+            "ch-1211", 
+            "european"
+        ]
+    }, 
+    {
+        "affiliation": "Cardiology Department, Northwick Park Hospital, Watford Rd., HA1 3UJ Harrow, Middlesex UK", 
+        "contact": "", 
+        "name": "Dennis Joseph", 
+        "affiliation_words": [
+            "middlesex", 
+            "uk", 
+            "cardiology", 
+            "hospital", 
+            "park", 
+            "3uj", 
+            "watford", 
+            "northwick", 
+            "ha1", 
+            "harrow"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "C. J. Stone", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
         "affiliation": "Department of Physics|University of Notre-Dame", 
         "contact": "", 
         "name": "Albert-Laszlo Barabasiand", 
         "affiliation_words": [
             "notre-dame", 
             "physics"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Electrical Engineering and Computer Sciences \r\nUniversity of California at Berkeley", 
+        "contact": "amy@eecs.berkeley.edu", 
+        "name": "D. N.C. Tse", 
+        "affiliation_words": [
+            "sciences", 
+            "engineering", 
+            "computer", 
+            "electrical", 
+            "berkeley", 
+            "california"
         ]
     }, 
     {
@@ -26241,6 +26408,165 @@
         ]
     }, 
     {
+        "affiliation": "Queen Mary and Westfield College, London, UK", 
+        "contact": "", 
+        "name": "E. Eisenhandler", 
+        "affiliation_words": [
+            "queen", 
+            "london", 
+            "uk", 
+            "college", 
+            "westfield", 
+            "mary"
+        ]
+    }, 
+    {
+        "affiliation": "Climate Analysis Center, NOAA/NWS/NMC, Washington, DC 20233, U.S.A.", 
+        "contact": "", 
+        "name": "C. Ropelewski", 
+        "affiliation_words": [
+            "climate", 
+            "washington", 
+            "dc", 
+            "analysis", 
+            "20233", 
+            "noaa/nws/nmc"
+        ]
+    }, 
+    {
+        "affiliation": "Goddard Space Flight Center", 
+        "contact": "", 
+        "name": "E. Wollack", 
+        "affiliation_words": [
+            "flight", 
+            "goddard", 
+            "space"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Diane Gage", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "University of Pennsylvania", 
+        "contact": "discher@seas.upenn.edu", 
+        "name": "Dennis E. Discher", 
+        "affiliation_words": [
+            "pennsylvania"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Psychology, Hebrew University, Jerusalem Israel", 
+        "contact": "", 
+        "name": "D. Kahneman", 
+        "affiliation_words": [
+            "israel", 
+            "jerusalem", 
+            "psychology", 
+            "hebrew"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics and Astronomy, State University of New York, Stony Brook, NY 11794-3800, USA", 
+        "contact": "", 
+        "name": "C. Mcgrew", 
+        "affiliation_words": [
+            "usa", 
+            "11794-3800", 
+            "brook", 
+            "ny", 
+            "state", 
+            "york", 
+            "astronomy", 
+            "physics", 
+            "stony"
+        ]
+    }, 
+    {
+        "affiliation": "Poultry Science Department|University of Arkansas", 
+        "contact": "", 
+        "name": "D. A. Dickey", 
+        "affiliation_words": [
+            "poultry", 
+            "science", 
+            "arkansas"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Aging, University of Wisconsin, Madison, WI, USA", 
+        "contact": "", 
+        "name": "Carol D. Ryff", 
+        "affiliation_words": [
+            "aging", 
+            "madison", 
+            "wisconsin", 
+            "usa", 
+            "wi"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics, 2477 Randall Laboratory, The University of Michigan, 500 East University, Ann Arbor, MI 48109-1120, United States of America", 
+        "contact": "", 
+        "name": "C. Ferretti", 
+        "affiliation_words": [
+            "2477", 
+            "arbor", 
+            "48109-1120", 
+            "michigan", 
+            "mi", 
+            "america", 
+            "states", 
+            "united", 
+            "laboratory", 
+            "randall", 
+            "east", 
+            "physics", 
+            "ann", 
+            "500"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Christopher Clee", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "UCLA", 
+        "contact": "", 
+        "name": "E. L. Wright", 
+        "affiliation_words": [
+            "ucla"
+        ]
+    }, 
+    {
+        "affiliation": "Lawrence Livermore National Laboratory", 
+        "contact": "", 
+        "name": "D. Asner", 
+        "affiliation_words": [
+            "laboratory", 
+            "livermore", 
+            "national", 
+            "lawrence"
+        ]
+    }, 
+    {
+        "affiliation": "Princeton University, New Jersey, USA", 
+        "contact": "", 
+        "name": "D. Botstein", 
+        "affiliation_words": [
+            "usa", 
+            "jersey", 
+            "princeton"
+        ]
+    }, 
+    {
         "affiliation": "", 
         "contact": "", 
         "name": "A. R. Coulson", 
@@ -26249,11 +26575,42 @@
         ]
     }, 
     {
+        "affiliation": "Universidad Aut\u00c3\u00b3noma de Madrid Departamento de F\u00c3\u00adsica Te\u00c3\u00b3rica Madrid Spain", 
+        "contact": "", 
+        "name": "C. Glasman", 
+        "affiliation_words": [
+            "madrid", 
+            "de", 
+            "departamento", 
+            "te\u00e3\u00b3rica", 
+            "spain", 
+            "universidad", 
+            "f\u00e3\u00adsica", 
+            "aut\u00e3\u00b3noma"
+        ]
+    }, 
+    {
         "affiliation": "", 
         "contact": "", 
         "name": "A. P. Feinberg", 
         "affiliation_words": [
             ""
+        ]
+    }, 
+    {
+        "affiliation": "Physics Department, Brookhaven National Laboratory, Upton, NY, United States of America", 
+        "contact": "", 
+        "name": "D. L. Adams", 
+        "affiliation_words": [
+            "united", 
+            "upton", 
+            "national", 
+            "states", 
+            "ny", 
+            "laboratory", 
+            "brookhaven", 
+            "america", 
+            "physics"
         ]
     }, 
     {
@@ -26274,6 +26631,41 @@
             "universit\u00e3", 
             "pavia", 
             "6"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "C. Bishop", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Laboratoire de Physique Corpusculaire, Universit\u00c3\u00a9 Blaise Pascal, IN2P3-CNRS, Clermont-Ferrand, 63177 Aubi\u00c3\u00a8re, France", 
+        "contact": "", 
+        "name": "D. Pallin", 
+        "affiliation_words": [
+            "63177", 
+            "in2p3-cnrs", 
+            "laboratoire", 
+            "de", 
+            "physique", 
+            "blaise", 
+            "france", 
+            "pascal", 
+            "universit\u00e3\u00a9", 
+            "corpusculaire", 
+            "aubi\u00e3\u00a8re", 
+            "clermont-ferrand"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "D. F. Larcker", 
+        "affiliation_words": [
+            ""
         ]
     }, 
     {
@@ -26299,6 +26691,27 @@
         "affiliation_words": [
             "univ", 
             "bath"
+        ]
+    }, 
+    {
+        "affiliation": "School of Anatomy, University of New South Wales, Kensington, N.S.W. 2033 Australia", 
+        "contact": "", 
+        "name": "Charles R.R. Watson", 
+        "affiliation_words": [
+            "australia", 
+            "kensington", 
+            "anatomy", 
+            "2033", 
+            "wales", 
+            "south"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "C. Fornell", 
+        "affiliation_words": [
+            ""
         ]
     }, 
     {
@@ -26330,6 +26743,33 @@
             "medicine", 
             "biotechnology", 
             "maryland"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratoire de Physique des Particules (LAPP), IN2P3-CNRS, 74019 Annecy-le-Vieux Cedex, France", 
+        "contact": "", 
+        "name": "C. Goy", 
+        "affiliation_words": [
+            "de", 
+            "annecy-le-vieux", 
+            "laboratoire", 
+            "des", 
+            "physique", 
+            "france", 
+            "cedex", 
+            "in2p3-cnrs", 
+            "74019", 
+            "lapp", 
+            "particules"
+        ]
+    }, 
+    {
+        "affiliation": "IBM T. J. Watson Research Center", 
+        "contact": "charu@us.ibm.com", 
+        "name": "Charu C. Aggarwal", 
+        "affiliation_words": [
+            "watson", 
+            "ibm"
         ]
     }, 
     {
@@ -26366,11 +26806,103 @@
         ]
     }, 
     {
+        "affiliation": "Computer Science Department\r\n", 
+        "contact": "lowe@cs.ubc.ca", 
+        "name": "David G. Lowe", 
+        "affiliation_words": [
+            "science", 
+            "computer"
+        ]
+    }, 
+    {
+        "affiliation": "IBM T. J. Watson Research Center, Yorktown Heights, NY", 
+        "contact": "", 
+        "name": "C. D. Gelatt, Jr.", 
+        "affiliation_words": [
+            "ny", 
+            "watson", 
+            "heights", 
+            "ibm", 
+            "yorktown"
+        ]
+    }, 
+    {
+        "affiliation": "particle physics at the CERN LHC and at Fermilab.", 
+        "contact": "amidei@umich.edu", 
+        "name": "D. Amidei", 
+        "affiliation_words": [
+            "cern", 
+            "lhc", 
+            "physics", 
+            "fermilab", 
+            "particle"
+        ]
+    }, 
+    {
         "affiliation": "Department of Epidemiology", 
         "contact": "a.hofman@erasmusmc.nl", 
         "name": "A. Hofman", 
         "affiliation_words": [
             "epidemiology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics University of British Columbia V6T 1Z1 Vancouver BC Canada", 
+        "contact": "", 
+        "name": "D. Axen", 
+        "affiliation_words": [
+            "canada", 
+            "columbia", 
+            "bc", 
+            "1z1", 
+            "v6t", 
+            "british", 
+            "vancouver", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "IBM Research Division|T. J. Watson Research Center", 
+        "contact": "", 
+        "name": "David P. Divincenzo", 
+        "affiliation_words": [
+            "division", 
+            "watson", 
+            "ibm"
+        ]
+    }, 
+    {
+        "affiliation": "St. Jude Children's Research Hospital", 
+        "contact": "douglas.green@stjude.org", 
+        "name": "Douglas R. Green", 
+        "affiliation_words": [
+            "children's", 
+            "hospital", 
+            "jude", 
+            "st"
+        ]
+    }, 
+    {
+        "affiliation": "UCD Cancer Research Center", 
+        "contact": "bdhammock@ucdavis.edu", 
+        "name": "Bruce D. Hammock", 
+        "affiliation_words": [
+            "ucd", 
+            "cancer"
+        ]
+    }, 
+    {
+        "affiliation": "Institute of Geophysics and Planetary Physics / UCLA Los Angeles", 
+        "contact": "ctrussell@igpp.ucla.edu", 
+        "name": "C. T. Russell", 
+        "affiliation_words": [
+            "planetary", 
+            "ucla", 
+            "/", 
+            "angeles", 
+            "los", 
+            "geophysics", 
+            "physics"
         ]
     }, 
     {
@@ -26380,6 +26912,57 @@
         "affiliation_words": [
             "zoology", 
             "oxford"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratory of Neuroendocrinology|Rockefeller University", 
+        "contact": "Bruce.McEwen@rockefeller.edu", 
+        "name": "Bruce S. Mcewen", 
+        "affiliation_words": [
+            "laboratory", 
+            "rockefeller", 
+            "neuroendocrinology"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Cardiology|Divisions of Clinical Sciences and Computing and Statistics|Northwick Park Hospital and Clinical Research Centre", 
+        "contact": "", 
+        "name": "D. G. Altman", 
+        "affiliation_words": [
+            "divisions", 
+            "statistics", 
+            "computing", 
+            "hospital", 
+            "cardiology", 
+            "park", 
+            "centre", 
+            "sciences", 
+            "clinical", 
+            "northwick"
+        ]
+    }, 
+    {
+        "affiliation": "Harvard University", 
+        "contact": "mooneyd@seas.harvard.edu", 
+        "name": "David J. Mooney", 
+        "affiliation_words": [
+            "harvard"
+        ]
+    }, 
+    {
+        "affiliation": "Howard Hughes Medical Institute, University of Texas Southwestern Medical Center, Dallas, TX 75390, USA", 
+        "contact": "", 
+        "name": "David J. Mangelsdorf", 
+        "affiliation_words": [
+            "hughes", 
+            "usa", 
+            "75390", 
+            "tx", 
+            "dallas", 
+            "medical", 
+            "howard", 
+            "southwestern", 
+            "texas"
         ]
     }, 
     {
@@ -26412,6 +26995,48 @@
         ]
     }, 
     {
+        "affiliation": "Yale University and Stanford University", 
+        "contact": "", 
+        "name": "D. L. Donoho", 
+        "affiliation_words": [
+            "stanford", 
+            "yale"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology", 
+        "contact": "", 
+        "name": "David K. Gifford", 
+        "affiliation_words": [
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "C. R. Cloninger", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Computational Biology and an Adjunct Professor in the Genome Science and Technology Program at the University of Tennessee", 
+        "contact": "", 
+        "name": "Edward Uberbacher", 
+        "affiliation_words": [
+            "biology", 
+            "computational", 
+            "tennessee", 
+            "science", 
+            "professor", 
+            "adjunct", 
+            "program", 
+            "genome", 
+            "technology"
+        ]
+    }, 
+    {
         "affiliation": "Departamento de Fisica|Universidade Federal de Minas Gerais", 
         "contact": "", 
         "name": "A. Jorio", 
@@ -26432,6 +27057,15 @@
         "affiliation_words": [
             "beckman", 
             "illinois"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Medical Research|University of Toronto", 
+        "contact": "", 
+        "name": "Charles Boone", 
+        "affiliation_words": [
+            "toronto", 
+            "medical"
         ]
     }, 
     {
@@ -26464,6 +27098,14 @@
         ]
     }, 
     {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Chiharu Kawagoe", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
         "affiliation": "University of Liverpool Department of Physics P.O. Box 147 Liverpool L69 3BX UK", 
         "contact": "", 
         "name": "B. T. King", 
@@ -26487,6 +27129,22 @@
         ]
     }, 
     {
+        "affiliation": "Institut f\u00c3\u00bcr Experimentelle Physik IV, Technische Universit\u00c3\u00a4t Dortmund, Dortmund, Germany", 
+        "contact": "", 
+        "name": "D. Dobos", 
+        "affiliation_words": [
+            "institut", 
+            "universit\u00e3\u00a4t", 
+            "dortmund", 
+            "iv", 
+            "experimentelle", 
+            "technische", 
+            "germany", 
+            "physik", 
+            "f\u00e3\u00bcr"
+        ]
+    }, 
+    {
         "affiliation": "Ecole H\u00c3\u00b4teli\u00c3\u00a8re de Lausanne, Research Department, Le Chalet-\u00c3 -Gobet, CH-1000 Lausanne 25, Switzerland", 
         "contact": "", 
         "name": "Andrew Mungall", 
@@ -26501,6 +27159,32 @@
             "ch-1000", 
             "lausanne", 
             "switzerland"
+        ]
+    }, 
+    {
+        "affiliation": "National Institute for Physics and Nuclear Engineering (NIPNE) Bucharest Romania", 
+        "contact": "", 
+        "name": "C. Alexa", 
+        "affiliation_words": [
+            "bucharest", 
+            "romania", 
+            "nuclear", 
+            "national", 
+            "nipne", 
+            "engineering", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "INFN Sezione di Milano, Milano, Italy", 
+        "contact": "", 
+        "name": "D. Giugni", 
+        "affiliation_words": [
+            "infn", 
+            "italy", 
+            "milano", 
+            "sezione", 
+            "di"
         ]
     }, 
     {
@@ -26523,6 +27207,72 @@
             "physics", 
             "glasgow", 
             "uk"
+        ]
+    }, 
+    {
+        "affiliation": "UCLA David Geffen School of Medicine", 
+        "contact": "dhg@mednet.ucla.edu", 
+        "name": "Daniel H. Geschwind", 
+        "affiliation_words": [
+            "medicine", 
+            "geffen", 
+            "ucla", 
+            "david"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics and Astronomy, University of Uppsala, Uppsala, Sweden", 
+        "contact": "", 
+        "name": "C. Belanger-Champagne", 
+        "affiliation_words": [
+            "sweden", 
+            "astronomy", 
+            "physics", 
+            "uppsala"
+        ]
+    }, 
+    {
+        "affiliation": "University of Kuopio, School of Public Health and Clinical Nutrition, Research Institute of Public Health, P.O. Box 1627, 70211 Kuopio, Finland", 
+        "contact": "", 
+        "name": "D. Mozaffarian", 
+        "affiliation_words": [
+            "box", 
+            "nutrition", 
+            "1627", 
+            "finland", 
+            "clinical", 
+            "health", 
+            "70211", 
+            "public", 
+            "kuopio"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Carl Fosler", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Department of Astronomy|University of Washington", 
+        "contact": "", 
+        "name": "Christopher Stubbs", 
+        "affiliation_words": [
+            "astronomy", 
+            "washington"
+        ]
+    }, 
+    {
+        "affiliation": "Silicon Valley Campus\r\nMicrosoft Research\r\n", 
+        "contact": "Dwork@microsoft.com", 
+        "name": "Cynthia Dwork", 
+        "affiliation_words": [
+            "silicon", 
+            "valley", 
+            "campus", 
+            "microsoft"
         ]
     }, 
     {
@@ -26557,9 +27307,119 @@
     {
         "affiliation": "", 
         "contact": "", 
+        "name": "Damon Hostin", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
         "name": "Aristides Patrinos", 
         "affiliation_words": [
             ""
+        ]
+    }, 
+    {
+        "affiliation": "Merck Sharp & Dohme Research Laboratories Department of Animal Physiology P.O. Box 2000 Rahway, New Jersey 07065, USA", 
+        "contact": "", 
+        "name": "Ca Ball", 
+        "affiliation_words": [
+            "box", 
+            "07065", 
+            "usa", 
+            "&", 
+            "dohme", 
+            "rahway", 
+            "2000", 
+            "merck", 
+            "animal", 
+            "sharp", 
+            "laboratories", 
+            "physiology", 
+            "jersey"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Cheryl Kraft", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Chinyere Ibegwam", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Institut de F\u00c3\u00adsica d\u00e2\u20ac\u2122Altes Energies, IFAE, Edifici Cn, Universitat Aut\u00c3\u00b2noma de Barcelona, ES - 08193 Bellaterra (Barcelona), Spain", 
+        "contact": "", 
+        "name": "C. Osuna", 
+        "affiliation_words": [
+            "d\u00e2\u20ac\u2122altes", 
+            "edifici", 
+            "ifae", 
+            "institut", 
+            "cn", 
+            "aut\u00e3\u00b2noma", 
+            "energies", 
+            "de", 
+            "barcelona", 
+            "08193", 
+            "bellaterra", 
+            "spain", 
+            "universitat", 
+            "f\u00e3\u00adsica", 
+            "es"
+        ]
+    }, 
+    {
+        "affiliation": "Physics Department National Technical University Zografou Campus GR-15773 Athens Greece", 
+        "contact": "", 
+        "name": "D. Fassouliotis", 
+        "affiliation_words": [
+            "zografou", 
+            "technical", 
+            "national", 
+            "gr-15773", 
+            "athens", 
+            "greece", 
+            "physics", 
+            "campus"
+        ]
+    }, 
+    {
+        "affiliation": "Physics Department Univ. Instelling Antwerpen Universiteitsplein 1 B-2610 Wilrijk Belgium", 
+        "contact": "", 
+        "name": "C. Bricman", 
+        "affiliation_words": [
+            "antwerpen", 
+            "b-2610", 
+            "wilrijk", 
+            "universiteitsplein", 
+            "physics", 
+            "1", 
+            "instelling", 
+            "belgium", 
+            "univ"
+        ]
+    }, 
+    {
+        "affiliation": "Argonne National Laboratory, Argonne, IL 60439-4815, USA", 
+        "contact": "", 
+        "name": "C. Collins-Tooth", 
+        "affiliation_words": [
+            "argonne", 
+            "usa", 
+            "national", 
+            "il", 
+            "60439-4815", 
+            "laboratory"
         ]
     }, 
     {
@@ -26569,6 +27429,17 @@
         "affiliation_words": [
             "engineering", 
             "cambridge"
+        ]
+    }, 
+    {
+        "affiliation": "Groningen University Institute for Drug Exploration (GUIDE)", 
+        "contact": "", 
+        "name": "Dick De Zeeuw", 
+        "affiliation_words": [
+            "groningen", 
+            "exploration", 
+            "guide", 
+            "drug"
         ]
     }, 
     {
@@ -26588,6 +27459,123 @@
             "national", 
             "energy", 
             "renewable"
+        ]
+    }, 
+    {
+        "affiliation": "Center for Spintronics and Quantum Computation|University of California , Santa Barbara", 
+        "contact": "", 
+        "name": "D. D. Awschalom", 
+        "affiliation_words": [
+            "computation", 
+            "california", 
+            "santa", 
+            "spintronics", 
+            "quantum", 
+            "barbara"
+        ]
+    }, 
+    {
+        "affiliation": "Dipartimento di Fisica", 
+        "contact": "", 
+        "name": "C. Bini", 
+        "affiliation_words": [
+            "dipartimento", 
+            "fisica", 
+            "di"
+        ]
+    }, 
+    {
+        "affiliation": "Joint Quantum Institute and University of Maryland Physics Department, College Park, MD", 
+        "contact": "monroe@umd.edu", 
+        "name": "C. Monroe", 
+        "affiliation_words": [
+            "md", 
+            "park", 
+            "joint", 
+            "college", 
+            "quantum", 
+            "maryland", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "IFIC, Valencia-CSIC, and D.F.A.M.N. U. de Valencia Avda. Dr. Moliner 50 E-46100 Burjassot (Valencia) Spain", 
+        "contact": "", 
+        "name": "C. Lacasta", 
+        "affiliation_words": [
+            "de", 
+            "valencia-csic", 
+            "burjassot", 
+            "50", 
+            "avda", 
+            "spain", 
+            "moliner", 
+            "valencia", 
+            "dr", 
+            "ific", 
+            "e-46100"
+        ]
+    }, 
+    {
+        "affiliation": "Lab of Nuclear Studies", 
+        "contact": "", 
+        "name": "D. Rubin", 
+        "affiliation_words": [
+            "nuclear", 
+            "studies", 
+            "lab"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Danita Baldwin", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Howard Hughes Medical Institute|Department of Biology|Indiana University , Bloomington", 
+        "contact": "", 
+        "name": "Douglas B. Rusch", 
+        "affiliation_words": [
+            "biology", 
+            "howard", 
+            "medical", 
+            "hughes", 
+            "bloomington", 
+            "indiana"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Cynthia Pfannkoch", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "D. Hilbert", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Howard Hughes Medical Institute\r\nNeural Science, Mathematics and Psychology\r\nNew York University", 
+        "contact": "http://www.cns.nyu.edu/~eero/ICONS/eero-email.gif", 
+        "name": "E. P. Simoncelli", 
+        "affiliation_words": [
+            "hughes", 
+            "psychology", 
+            "neural", 
+            "science", 
+            "medical", 
+            "howard", 
+            "york", 
+            "mathematics"
         ]
     }, 
     {
@@ -26615,6 +27603,20 @@
             "\u00e2\u20ac\u0153carl", 
             "dresden", 
             "fetscherstr"
+        ]
+    }, 
+    {
+        "affiliation": "European Laboratory for Particle Physics (CERN), Geneva, Switzerland", 
+        "contact": "", 
+        "name": "D. Froidevaux", 
+        "affiliation_words": [
+            "particle", 
+            "geneva", 
+            "cern", 
+            "switzerland", 
+            "laboratory", 
+            "physics", 
+            "european"
         ]
     }, 
     {
@@ -26672,6 +27674,18 @@
         ]
     }, 
     {
+        "affiliation": "INFN Sezione di Genova, Genova, Italy", 
+        "contact": "", 
+        "name": "C. Gemme", 
+        "affiliation_words": [
+            "infn", 
+            "italy", 
+            "genova", 
+            "sezione", 
+            "di"
+        ]
+    }, 
+    {
         "affiliation": "The Johns Hopkins University Applied Physics Laboratory Air and Missile Defense Department Laurel MD 20723-6099 USA", 
         "contact": "", 
         "name": "B. J. Olson", 
@@ -26716,6 +27730,42 @@
         ]
     }, 
     {
+        "affiliation": "Section de Physique, Universit\u00c3\u00a9 de Gen\u00c3\u00a8ve, Geneva, Switzerland", 
+        "contact": "", 
+        "name": "D. Ferrere", 
+        "affiliation_words": [
+            "geneva", 
+            "physique", 
+            "section", 
+            "de", 
+            "universit\u00e3\u00a9", 
+            "switzerland", 
+            "gen\u00e3\u00a8ve"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Christina Raymond", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "University of Oxford Department of Physics Keble Road Oxford OX1 3RH UK", 
+        "contact": "", 
+        "name": "E. Brodet", 
+        "affiliation_words": [
+            "3rh", 
+            "ox1", 
+            "keble", 
+            "uk", 
+            "oxford", 
+            "physics", 
+            "road"
+        ]
+    }, 
+    {
         "affiliation": "Royal Institute of Technology, Stockholm, Sweden", 
         "contact": "", 
         "name": "Berk Hess", 
@@ -26724,6 +27774,18 @@
             "sweden", 
             "royal", 
             "stockholm"
+        ]
+    }, 
+    {
+        "affiliation": "INFN Sezione di Napoli, Napoli, Italy", 
+        "contact": "", 
+        "name": "D. Della Volpe", 
+        "affiliation_words": [
+            "infn", 
+            "napoli", 
+            "italy", 
+            "sezione", 
+            "di"
         ]
     }, 
     {
@@ -26737,11 +27799,109 @@
         ]
     }, 
     {
+        "affiliation": "Health Information Systems, Northrop Grumman, Inc., Rockville, MD, United States", 
+        "contact": "", 
+        "name": "Carl Dahlke", 
+        "affiliation_words": [
+            "information", 
+            "united", 
+            "md", 
+            "rockville", 
+            "northrop", 
+            "states", 
+            "grumman", 
+            "systems", 
+            "health"
+        ]
+    }, 
+    {
         "affiliation": "", 
         "contact": "", 
         "name": "Anand Basu", 
         "affiliation_words": [
             ""
+        ]
+    }, 
+    {
+        "affiliation": "Division of Particle Physics Department of Physics Lund University", 
+        "contact": "else.lytken@hep.lu.se", 
+        "name": "E. Lytken", 
+        "affiliation_words": [
+            "division", 
+            "physics", 
+            "particle", 
+            "lund"
+        ]
+    }, 
+    {
+        "affiliation": "Lyman Laboratory of Physics, Harvard University, Cambridge, MA 02138, USA", 
+        "contact": "", 
+        "name": "C. Vafa", 
+        "affiliation_words": [
+            "cambridge", 
+            "ma", 
+            "usa", 
+            "lyman", 
+            "harvard", 
+            "laboratory", 
+            "physics", 
+            "02138"
+        ]
+    }, 
+    {
+        "affiliation": "Departamento de Fisica Teorica C-15, Universidad Autonoma de Madrid, Madrid, Spain", 
+        "contact": "", 
+        "name": "E. Nebot", 
+        "affiliation_words": [
+            "c-15", 
+            "teorica", 
+            "madrid", 
+            "de", 
+            "fisica", 
+            "departamento", 
+            "universidad", 
+            "autonoma", 
+            "spain"
+        ]
+    }, 
+    {
+        "affiliation": "Center for Genetics in Medicine, Washington University School of Medicine, St. Louis, Missouri 63110 USA", 
+        "contact": "", 
+        "name": "David Schlessinger", 
+        "affiliation_words": [
+            "genetics", 
+            "usa", 
+            "louis", 
+            "washington", 
+            "st", 
+            "63110", 
+            "missouri", 
+            "medicine"
+        ]
+    }, 
+    {
+        "affiliation": "Management Department\r\nLeBow College of Business\r\nDrexel University", 
+        "contact": "gefend@drexel.edu", 
+        "name": "David Gefen", 
+        "affiliation_words": [
+            "drexel", 
+            "management", 
+            "college", 
+            "business", 
+            "lebow"
+        ]
+    }, 
+    {
+        "affiliation": "LAL, Univ. Paris-Sud and CNRS/IN2P3, Orsay, France", 
+        "contact": "", 
+        "name": "C. Arnault", 
+        "affiliation_words": [
+            "lal", 
+            "france", 
+            "cnrs/in2p3", 
+            "paris-sud", 
+            "univ", 
+            "orsay"
         ]
     }, 
     {
@@ -26757,6 +27917,48 @@
             "16146", 
             "genova", 
             "dodecaneso"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "D. Terzopolus", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Los Alamos Scientific Laboratory University of California 87545 Los Alamos NM USA", 
+        "contact": "", 
+        "name": "D. M. Parkin", 
+        "affiliation_words": [
+            "scientific", 
+            "usa", 
+            "alamos", 
+            "los", 
+            "california", 
+            "87545", 
+            "laboratory", 
+            "nm"
+        ]
+    }, 
+    {
+        "affiliation": "Center for Human Genome Variation Duke University", 
+        "contact": "", 
+        "name": "David B. Goldstein", 
+        "affiliation_words": [
+            "variation", 
+            "duke", 
+            "genome", 
+            "human"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Catherine M. Rives", 
+        "affiliation_words": [
+            ""
         ]
     }, 
     {
@@ -26789,6 +27991,26 @@
             "turlock", 
             "95380", 
             "biomedical"
+        ]
+    }, 
+    {
+        "affiliation": "Dam Safety Office|Department of Ecology", 
+        "contact": "", 
+        "name": "Douglas L. Johnson", 
+        "affiliation_words": [
+            "dam", 
+            "ecology", 
+            "safety", 
+            "office"
+        ]
+    }, 
+    {
+        "affiliation": "Leiden Institute of Physics Leiden University", 
+        "contact": "beenakker@lorentz.leidenuniv.nl", 
+        "name": "C. W. J. Beenakker", 
+        "affiliation_words": [
+            "leiden", 
+            "physics"
         ]
     }, 
     {
@@ -26830,11 +28052,57 @@
         ]
     }, 
     {
+        "affiliation": "INFN Sezione di Roma I, Roma, Italy", 
+        "contact": "", 
+        "name": "E. Petrolo", 
+        "affiliation_words": [
+            "infn", 
+            "roma", 
+            "italy", 
+            "sezione", 
+            "di"
+        ]
+    }, 
+    {
         "affiliation": "", 
         "contact": "", 
         "name": "A. Witkins", 
         "affiliation_words": [
             ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Christopher Elkin", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "The Henryk Niewodniczanski Institute of Nuclear Physics, Polish Academy of Sciences, Krakow, Poland", 
+        "contact": "", 
+        "name": "E. Gornicki", 
+        "affiliation_words": [
+            "krakow", 
+            "nuclear", 
+            "poland", 
+            "sciences", 
+            "academy", 
+            "polish", 
+            "henryk", 
+            "physics", 
+            "niewodniczanski"
+        ]
+    }, 
+    {
+        "affiliation": "University of California, Berkeley, CA", 
+        "contact": "", 
+        "name": "Cyrus Harmon", 
+        "affiliation_words": [
+            "ca", 
+            "california", 
+            "berkeley"
         ]
     }, 
     {
@@ -26849,6 +28117,27 @@
         ]
     }, 
     {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "D. Moss", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "Argonne National Laboratory, Argonne, IL 60439-4815, USA", 
+        "contact": "", 
+        "name": "C. Horn", 
+        "affiliation_words": [
+            "argonne", 
+            "usa", 
+            "national", 
+            "il", 
+            "60439-4815", 
+            "laboratory"
+        ]
+    }, 
+    {
         "affiliation": "Sanger Centre|Wellcome Trust Genome Campus", 
         "contact": "", 
         "name": "Amanda Mcmurray", 
@@ -26859,6 +28148,18 @@
             "sanger", 
             "trust", 
             "campus"
+        ]
+    }, 
+    {
+        "affiliation": "University College London Physics and Astronomy Department London UK", 
+        "contact": "", 
+        "name": "C. Gwenlan", 
+        "affiliation_words": [
+            "london", 
+            "astronomy", 
+            "college", 
+            "physics", 
+            "uk"
         ]
     }, 
     {
@@ -26931,6 +28232,50 @@
         ]
     }, 
     {
+        "affiliation": "Human Genome Center, Lawrence Livermore National Laboratory, P.O. Box 808, L-452, Livermore, California, 94551", 
+        "contact": "", 
+        "name": "Elbert Branscomb", 
+        "affiliation_words": [
+            "box", 
+            "livermore", 
+            "lawrence", 
+            "national", 
+            "808", 
+            "california", 
+            "genome", 
+            "human", 
+            "laboratory", 
+            "94551", 
+            "l-452"
+        ]
+    }, 
+    {
+        "affiliation": "LAL, Univ. Paris-Sud and CNRS/IN2P3, Orsay, France", 
+        "contact": "", 
+        "name": "D. Breton", 
+        "affiliation_words": [
+            "lal", 
+            "france", 
+            "cnrs/in2p3", 
+            "paris-sud", 
+            "univ", 
+            "orsay"
+        ]
+    }, 
+    {
+        "affiliation": "University of Michigan, Ann Arbor, MI 48109, USA", 
+        "contact": "", 
+        "name": "C. Leggett", 
+        "affiliation_words": [
+            "arbor", 
+            "usa", 
+            "48109", 
+            "michigan", 
+            "mi", 
+            "ann"
+        ]
+    }, 
+    {
         "affiliation": "Moscow Engineering Physics Institute Moscow Russia", 
         "contact": "", 
         "name": "B. A. Dolgoshein", 
@@ -26953,6 +28298,67 @@
         ]
     }, 
     {
+        "affiliation": "II Physikalisches Institut, Georg-August-Universit\u00c3\u00a4t, G\u00c3\u00b6ttingen, Germany", 
+        "contact": "", 
+        "name": "C. Ay", 
+        "affiliation_words": [
+            "institut", 
+            "georg-august-universit\u00e3\u00a4t", 
+            "ii", 
+            "physikalisches", 
+            "g\u00e3\u00b6ttingen", 
+            "germany"
+        ]
+    }, 
+    {
+        "affiliation": "Facult\u00c3\u00a9 des Sciences A\u00c4\u00b1\u00cc\u02c6n Chock, Casablanca, Morocco", 
+        "contact": "", 
+        "name": "D. Benchekroun", 
+        "affiliation_words": [
+            "casablanca", 
+            "morocco", 
+            "des", 
+            "sciences", 
+            "a\u00e4\u00b1\u00ec\u02c6n", 
+            "chock", 
+            "facult\u00e3\u00a9"
+        ]
+    }, 
+    {
+        "affiliation": "Technical University of Split, Split, Croatia", 
+        "contact": "", 
+        "name": "D. Lelas", 
+        "affiliation_words": [
+            "technical", 
+            "croatia", 
+            "split"
+        ]
+    }, 
+    {
+        "affiliation": "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA", 
+        "contact": "", 
+        "name": "C. M. Perou", 
+        "affiliation_words": [
+            "north", 
+            "usa", 
+            "cancer", 
+            "comprehensive", 
+            "nc", 
+            "lineberger", 
+            "hill", 
+            "carolina", 
+            "chapel"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Cher Miranda", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
         "affiliation": "NATIONAL BUREAU OF ECONOMIC RESEARCH", 
         "contact": "", 
         "name": "Bengt Holmstrom", 
@@ -26960,6 +28366,41 @@
             "national", 
             "economic", 
             "bureau"
+        ]
+    }, 
+    {
+        "affiliation": "Institute for Nuclear Research and Nuclear Energy Sofia Bulgaria Sofia Bulgaria", 
+        "contact": "", 
+        "name": "D. Mladenov", 
+        "affiliation_words": [
+            "nuclear", 
+            "energy", 
+            "sofia", 
+            "bulgaria"
+        ]
+    }, 
+    {
+        "affiliation": "Instituto de F\u00c3\u00adsica Corpuscular (IFIC) and Departamento de F\u00c3\u00adsica At\u00c3\u00b3mica, Molecular y Nuclear and Departamento de Ingenier\u00c3\u00a1 Electr\u00c3\u00b3nica and Instituto de Microelectr\u00c3\u00b3nica de Barcelona (IMB-CNM), University of Valencia and CSIC, Valencia, Spain", 
+        "contact": "", 
+        "name": "C. Escobar", 
+        "affiliation_words": [
+            "instituto", 
+            "corpuscular", 
+            "electr\u00e3\u00b3nica", 
+            "nuclear", 
+            "de", 
+            "imb-cnm", 
+            "ingenier\u00e3\u00a1", 
+            "departamento", 
+            "microelectr\u00e3\u00b3nica", 
+            "csic", 
+            "valencia", 
+            "barcelona", 
+            "at\u00e3\u00b3mica", 
+            "f\u00e3\u00adsica", 
+            "molecular", 
+            "ific", 
+            "spain"
         ]
     }, 
     {
@@ -26993,6 +28434,37 @@
         ]
     }, 
     {
+        "affiliation": "Department of Computer Science & Engineering\nUniversity of Washington\n", 
+        "contact": "curless@cs.washington.edu", 
+        "name": "Brian Curless", 
+        "affiliation_words": [
+            "science", 
+            "engineering", 
+            "computer", 
+            "washington", 
+            "&"
+        ]
+    }, 
+    {
+        "affiliation": "Laboratory of Neurogenetics", 
+        "contact": "davidgoldman@mail.nih.gov", 
+        "name": "David Goldman", 
+        "affiliation_words": [
+            "laboratory", 
+            "neurogenetics"
+        ]
+    }, 
+    {
+        "affiliation": "Baylor University\n    Hankamer School of Business", 
+        "contact": "Dorothy_Leidner@baylor.edu", 
+        "name": "Dorothy E. Leidner", 
+        "affiliation_words": [
+            "baylor", 
+            "hankamer", 
+            "business"
+        ]
+    }, 
+    {
         "affiliation": "", 
         "contact": "", 
         "name": "Anne Deslattes Mays", 
@@ -27013,11 +28485,69 @@
         ]
     }, 
     {
+        "affiliation": "Department of Medicine, Columbia University, College of Physicians and Surgeons, New York, New York", 
+        "contact": "", 
+        "name": "David A. Brenner", 
+        "affiliation_words": [
+            "physicians", 
+            "columbia", 
+            "surgeons", 
+            "college", 
+            "york", 
+            "medicine"
+        ]
+    }, 
+    {
         "affiliation": "University of California", 
         "contact": "sali@salilab.org,", 
         "name": "Andrej Sali", 
         "affiliation_words": [
             "california"
+        ]
+    }, 
+    {
+        "affiliation": "University of Zurich", 
+        "contact": "mering [at] molbio.uzh.ch", 
+        "name": "Christian Von Mering", 
+        "affiliation_words": [
+            "zurich"
+        ]
+    }, 
+    {
+        "affiliation": "Universit\u00c3\u00a4t Konstanz", 
+        "contact": "Daniel.Keim@uni-konstanz.de", 
+        "name": "Daniel A. Keim", 
+        "affiliation_words": [
+            "konstanz", 
+            "universit\u00e3\u00a4t"
+        ]
+    }, 
+    {
+        "affiliation": "AT&T Labs,Inc.", 
+        "contact": "divesh@research.att.com", 
+        "name": "Divesh Srivastava", 
+        "affiliation_words": [
+            "labs", 
+            "at&t"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Molecular Pharmacology and Biological Chemistry, Northwestern University Medical School, 303 E. Chicago Avenue, Chicago, IL 60611-3008, USA", 
+        "contact": "", 
+        "name": "Brian K. Shoichet", 
+        "affiliation_words": [
+            "northwestern", 
+            "chemistry", 
+            "usa", 
+            "pharmacology", 
+            "chicago", 
+            "medical", 
+            "303", 
+            "60611-3008", 
+            "il", 
+            "biological", 
+            "molecular", 
+            "avenue"
         ]
     }, 
     {
@@ -27045,6 +28575,24 @@
             "electrical", 
             "massachusetts", 
             "technology"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts Institute of Technology, Cambridge", 
+        "contact": "", 
+        "name": "Dimitri Bertsekas", 
+        "affiliation_words": [
+            "cambridge", 
+            "technology", 
+            "massachusetts"
+        ]
+    }, 
+    {
+        "affiliation": "TECHNICOLOR", 
+        "contact": "christophe.diot@technicolor.com", 
+        "name": "Christophe Diot", 
+        "affiliation_words": [
+            "technicolor"
         ]
     }, 
     {
@@ -27101,6 +28649,39 @@
         ]
     }, 
     {
+        "affiliation": "Department of Biology Brandeis University 02254 Waltham Massachusetts", 
+        "contact": "", 
+        "name": "David A. Wheeler", 
+        "affiliation_words": [
+            "brandeis", 
+            "biology", 
+            "02254", 
+            "massachusetts", 
+            "waltham"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Ecology|University of Minnesota", 
+        "contact": "", 
+        "name": "David Tilman", 
+        "affiliation_words": [
+            "ecology", 
+            "minnesota"
+        ]
+    }, 
+    {
+        "affiliation": "Mayo Clinic, Rochester, MN, USA", 
+        "contact": "", 
+        "name": "David T. Jones", 
+        "affiliation_words": [
+            "mayo", 
+            "mn", 
+            "rochester", 
+            "clinic", 
+            "usa"
+        ]
+    }, 
+    {
         "affiliation": "III. Physikalisches Institut", 
         "contact": "achim.stahl@physik.rwth-aachen.de", 
         "name": "A. Stahl", 
@@ -27111,6 +28692,24 @@
         ]
     }, 
     {
+        "affiliation": "University of Colorado", 
+        "contact": "", 
+        "name": "Charles M. Judd", 
+        "affiliation_words": [
+            "colorado"
+        ]
+    }, 
+    {
+        "affiliation": "National Institutes of Health", 
+        "contact": "levyd@nih.gov", 
+        "name": "Daniel Levy", 
+        "affiliation_words": [
+            "national", 
+            "health", 
+            "institutes"
+        ]
+    }, 
+    {
         "affiliation": "Institute of Neuropathology University Hospital of Zurich", 
         "contact": "adriano.aguzzi@usz.ch", 
         "name": "Adriano Aguzzi", 
@@ -27118,6 +28717,37 @@
             "neuropathology", 
             "hospital", 
             "zurich"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics", 
+        "contact": "c.m.boehm@durham.ac.uk", 
+        "name": "C. Bohm", 
+        "affiliation_words": [
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "Ragon Institute of MGH, MIT and Harvard", 
+        "contact": "bwalker@partners.org | Assistant: Bridget DeCeasar bdecesar@partners.org", 
+        "name": "Bruce D. Walker", 
+        "affiliation_words": [
+            "ragon", 
+            "mgh", 
+            "mit", 
+            "harvard"
+        ]
+    }, 
+    {
+        "affiliation": "INFN Sezione di Firenze, Firenze, Italy", 
+        "contact": "", 
+        "name": "E. Focardi", 
+        "affiliation_words": [
+            "infn", 
+            "italy", 
+            "firenze", 
+            "sezione", 
+            "di"
         ]
     }, 
     {
@@ -27140,6 +28770,49 @@
         ]
     }, 
     {
+        "affiliation": "CERN, European Organization for Nuclear Research, Geneva, Switzerland", 
+        "contact": "", 
+        "name": "E. Meschi", 
+        "affiliation_words": [
+            "geneva", 
+            "cern", 
+            "nuclear", 
+            "switzerland", 
+            "organization", 
+            "european"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Psychiatry, Columbia University", 
+        "contact": "eesmith@psych.columbia.edu", 
+        "name": "Edward E. Smith", 
+        "affiliation_words": [
+            "psychiatry", 
+            "columbia"
+        ]
+    }, 
+    {
+        "affiliation": "NASA/Goddard Space Flight Center, Greenbelt, MD 20771, U.S.A.", 
+        "contact": "", 
+        "name": "Compton J. Tucker", 
+        "affiliation_words": [
+            "md", 
+            "flight", 
+            "space", 
+            "nasa/goddard", 
+            "greenbelt", 
+            "20771"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "Brian Murphy", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
         "affiliation": "Interdepartmental Division of Critical Care Medicine, University of Toronto", 
         "contact": "SlutskyA@smh.ca", 
         "name": "Arthur S. Slutsky", 
@@ -27153,6 +28826,54 @@
         ]
     }, 
     {
+        "affiliation": "University of Texas, Austin, TX", 
+        "contact": "", 
+        "name": "E. Allen Emerson", 
+        "affiliation_words": [
+            "austin", 
+            "tx", 
+            "texas"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of Geneva, Geneva, Switzerland", 
+        "contact": "", 
+        "name": "C. Couyoumtzelis", 
+        "affiliation_words": [
+            "switzerland", 
+            "univ", 
+            "geneva"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Chemistry  University of Cambridge", 
+        "contact": "cmd44@cam.ac.uk", 
+        "name": "Christopher M. Dobson", 
+        "affiliation_words": [
+            "cambridge", 
+            "chemistry"
+        ]
+    }, 
+    {
+        "affiliation": "Institut Pluridisciplinaire Hubert Curien, Universit\u00c3\u00a9 de Strasbourg, Universit\u00c3\u00a9 de Haute Alsace Mulhouse, CNRS/IN2P3, Strasbourg, France", 
+        "contact": "", 
+        "name": "D. Bloch", 
+        "affiliation_words": [
+            "institut", 
+            "strasbourg", 
+            "haute", 
+            "de", 
+            "universit\u00e3\u00a9", 
+            "france", 
+            "mulhouse", 
+            "curien", 
+            "alsace", 
+            "hubert", 
+            "cnrs/in2p3", 
+            "pluridisciplinaire"
+        ]
+    }, 
+    {
         "affiliation": "Department of Microbiology & Immunology, Department of Medicine (Infectious Diseases)", 
         "contact": "acasade1@jhu.edu", 
         "name": "Arturo Casadevall", 
@@ -27163,6 +28884,19 @@
             "infectious", 
             "microbiology", 
             "medicine"
+        ]
+    }, 
+    {
+        "affiliation": "Massachusetts General Hospital, Charlestown, MA, USA", 
+        "contact": "", 
+        "name": "Bradley T. Hyman", 
+        "affiliation_words": [
+            "ma", 
+            "usa", 
+            "hospital", 
+            "general", 
+            "massachusetts", 
+            "charlestown"
         ]
     }, 
     {
@@ -27186,6 +28920,35 @@
         ]
     }, 
     {
+        "affiliation": "Institut f\u00c3\u00bcr Hochenergiephysik, Universit\u00c3\u00a4t Heidelberg, 69120 Heidelberg, Germany", 
+        "contact": "", 
+        "name": "C. Geweniger", 
+        "affiliation_words": [
+            "69120", 
+            "institut", 
+            "universit\u00e3\u00a4t", 
+            "germany", 
+            "hochenergiephysik", 
+            "f\u00e3\u00bcr", 
+            "heidelberg"
+        ]
+    }, 
+    {
+        "affiliation": "Physics Laboratory University of Athens Solonos Str. 104 GR-10680 Athens Greece", 
+        "contact": "", 
+        "name": "C. Kourkoumelis", 
+        "affiliation_words": [
+            "athens", 
+            "solonos", 
+            "str", 
+            "greece", 
+            "laboratory", 
+            "physics", 
+            "104", 
+            "gr-10680"
+        ]
+    }, 
+    {
         "affiliation": "Department of Mechanical Engineering University of California", 
         "contact": "agevans@engineering.ucsb.edu", 
         "name": "A. G. Evans", 
@@ -27193,6 +28956,53 @@
             "engineering", 
             "california", 
             "mechanical"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Genetics, Harvard Medical School, Boston, MA, USA", 
+        "contact": "", 
+        "name": "David Reich", 
+        "affiliation_words": [
+            "genetics", 
+            "usa", 
+            "boston", 
+            "medical", 
+            "harvard", 
+            "ma"
+        ]
+    }, 
+    {
+        "affiliation": "Mouse Genome Informatics, The Jackson Laboratory, Bar Harbor, ME, USA", 
+        "contact": "", 
+        "name": "David P. Hill", 
+        "affiliation_words": [
+            "jackson", 
+            "usa", 
+            "harbor", 
+            "genome", 
+            "laboratory", 
+            "informatics", 
+            "bar", 
+            "mouse"
+        ]
+    }, 
+    {
+        "affiliation": "Indiana University", 
+        "contact": "williamd@indiana.edu", 
+        "name": "David R. Williams", 
+        "affiliation_words": [
+            "indiana"
+        ]
+    }, 
+    {
+        "affiliation": "Neuroscience in the National Institute of Mental Health", 
+        "contact": "pined@mail.nih.gov", 
+        "name": "Daniel S. Pine", 
+        "affiliation_words": [
+            "neuroscience", 
+            "national", 
+            "health", 
+            "mental"
         ]
     }, 
     {
@@ -27228,6 +29038,36 @@
             "usa", 
             "philadelphia", 
             "19104"
+        ]
+    }, 
+    {
+        "affiliation": "University of New Hampshire", 
+        "contact": "", 
+        "name": "David Finkelhor", 
+        "affiliation_words": [
+            "hampshire"
+        ]
+    }, 
+    {
+        "affiliation": "University of Chicago|Cambridge University", 
+        "contact": "", 
+        "name": "E. Helpman", 
+        "affiliation_words": [
+            "cambridge", 
+            "chicago"
+        ]
+    }, 
+    {
+        "affiliation": "Molecular Cardiology, Fondazione S. Maugeri-University of Pavia, Pavia, Italy", 
+        "contact": "", 
+        "name": "Carlo Napolitano", 
+        "affiliation_words": [
+            "italy", 
+            "cardiology", 
+            "fondazione", 
+            "maugeri-university", 
+            "pavia", 
+            "molecular"
         ]
     }, 
     {
@@ -27275,6 +29115,26 @@
         ]
     }, 
     {
+        "affiliation": "School of Computer Science Tel Aviv University", 
+        "contact": "dcor@tau.ac.il", 
+        "name": "Daniel Cohen-Or", 
+        "affiliation_words": [
+            "aviv", 
+            "science", 
+            "computer", 
+            "tel"
+        ]
+    }, 
+    {
+        "affiliation": "University of California at Berkeley", 
+        "contact": "", 
+        "name": "Bronwyn H. Hall", 
+        "affiliation_words": [
+            "california", 
+            "berkeley"
+        ]
+    }, 
+    {
         "affiliation": "National Institutes of Health", 
         "contact": "", 
         "name": "Anthony S. Fauci", 
@@ -27314,11 +29174,33 @@
         ]
     }, 
     {
+        "affiliation": "Geisel School of Medicine", 
+        "contact": "Christopher.I.Amos@Dartmouth.edu", 
+        "name": "Christopher I. Amos", 
+        "affiliation_words": [
+            "medicine", 
+            "geisel"
+        ]
+    }, 
+    {
         "affiliation": "University of Georgia", 
         "contact": "paterson@uga.edu", 
         "name": "Andrew H. Paterson", 
         "affiliation_words": [
             "georgia"
+        ]
+    }, 
+    {
+        "affiliation": "Human Computer Interaction Institute School of Computer Science Carnegie Mellon University", 
+        "contact": "bam@cs.cmu.edu", 
+        "name": "Brad A. Myers", 
+        "affiliation_words": [
+            "mellon", 
+            "science", 
+            "carnegie", 
+            "computer", 
+            "human", 
+            "interaction"
         ]
     }, 
     {
@@ -27332,6 +29214,43 @@
         ]
     }, 
     {
+        "affiliation": "Department of Chemistry", 
+        "contact": "df246@cam.ac.uk /chemhod@hermes.cam.ac.uk", 
+        "name": "Daan Frenkel", 
+        "affiliation_words": [
+            "chemistry"
+        ]
+    }, 
+    {
+        "affiliation": "Johns Hopkins Medical Institutions", 
+        "contact": "", 
+        "name": "David Sidransky", 
+        "affiliation_words": [
+            "medical", 
+            "johns", 
+            "institutions", 
+            "hopkins"
+        ]
+    }, 
+    {
+        "affiliation": "Cellular Biochemistry and Biophysics Program, Memorial Sloan-Kettering Cancer Center, New York, NY 10021, USA", 
+        "contact": "", 
+        "name": "Dinshaw J. Patel", 
+        "affiliation_words": [
+            "memorial", 
+            "usa", 
+            "cancer", 
+            "biochemistry", 
+            "sloan-kettering", 
+            "biophysics", 
+            "ny", 
+            "program", 
+            "york", 
+            "cellular", 
+            "10021"
+        ]
+    }, 
+    {
         "affiliation": "Department of Electrical Engineering - Systems", 
         "contact": "bkrishna@usc.edu", 
         "name": "Bhaskar Krishnamachari", 
@@ -27339,6 +29258,65 @@
             "engineering", 
             "electrical", 
             "systems"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Economics, Harvard University", 
+        "contact": "eglaeser@harvard.edu", 
+        "name": "Edward L. Glaeser", 
+        "affiliation_words": [
+            "economics", 
+            "harvard"
+        ]
+    }, 
+    {
+        "affiliation": "Princeton University Observatory", 
+        "contact": "", 
+        "name": "David J. Schlegel", 
+        "affiliation_words": [
+            "observatory", 
+            "princeton"
+        ]
+    }, 
+    {
+        "affiliation": "Weill Cornell Medical College(Cornell University Medical College,Cornell University,Weill Medical College of Cornell University),New York,United States", 
+        "contact": "", 
+        "name": "Costantino Iadecola", 
+        "affiliation_words": [
+            "united", 
+            "cornell", 
+            "medical", 
+            "weill", 
+            "states", 
+            "college", 
+            "york"
+        ]
+    }, 
+    {
+        "affiliation": "Aaron Diamond AIDS Research Center|Rockefeller University", 
+        "contact": "", 
+        "name": "David D. Ho", 
+        "affiliation_words": [
+            "aids", 
+            "aaron", 
+            "diamond", 
+            "rockefeller"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "David Watson", 
+        "affiliation_words": [
+            ""
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "David Posada", 
+        "affiliation_words": [
+            ""
         ]
     }, 
     {
@@ -27373,6 +29351,32 @@
         ]
     }, 
     {
+        "affiliation": "Imperial College London", 
+        "contact": "b.spratt@imperial.ac.uk", 
+        "name": "Brian G. Spratt", 
+        "affiliation_words": [
+            "london", 
+            "college", 
+            "imperial"
+        ]
+    }, 
+    {
+        "affiliation": "The J. Craig Venter Institute, 9704 Medical Center Drive, Rockville, MD 20850, USA", 
+        "contact": "", 
+        "name": "Dana Busam", 
+        "affiliation_words": [
+            "md", 
+            "usa", 
+            "rockville", 
+            "craig", 
+            "venter", 
+            "drive", 
+            "20850", 
+            "9704", 
+            "medical"
+        ]
+    }, 
+    {
         "affiliation": "Institute for High Energy Physics SU-142284 Serpukhov USSR", 
         "contact": "", 
         "name": "A. G. Myagkov", 
@@ -27382,6 +29386,67 @@
             "high", 
             "su-142284", 
             "ussr", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics|Boston University", 
+        "contact": "", 
+        "name": "C. W. Walter", 
+        "affiliation_words": [
+            "boston", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "School of Physics|University of Southampton", 
+        "contact": "", 
+        "name": "C. Ferguson", 
+        "affiliation_words": [
+            "southampton", 
+            "physics"
+        ]
+    }, 
+    {
+        "affiliation": "Univ. of Western Ontario, London, Ont., Canada", 
+        "contact": "", 
+        "name": "Christopher A. Higgins", 
+        "affiliation_words": [
+            "canada", 
+            "ontario", 
+            "london", 
+            "western", 
+            "univ", 
+            "ont"
+        ]
+    }, 
+    {
+        "affiliation": "Universidade Federal do Rio De Janeiro COPPE/EE/IF, Rio de Janeiro, Brazil", 
+        "contact": "", 
+        "name": "C. Maidantchik", 
+        "affiliation_words": [
+            "brazil", 
+            "janeiro", 
+            "federal", 
+            "de", 
+            "coppe/ee/if", 
+            "rio", 
+            "universidade"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics, Technion, Israel Inst. of Technology, Technion City, IL - 32000 Haifa, Israel", 
+        "contact": "", 
+        "name": "E. Kajomovitz", 
+        "affiliation_words": [
+            "city", 
+            "israel", 
+            "technion", 
+            "32000", 
+            "technology", 
+            "inst", 
+            "il", 
+            "haifa", 
             "physics"
         ]
     }, 
@@ -27420,6 +29485,34 @@
             "bungtown", 
             "laboratory", 
             "cold"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics, University of British Columbia, 6224 Agricultural Road, Vancouver, B.C. V6T 1Z1, Canada", 
+        "contact": "", 
+        "name": "C. W. Loh", 
+        "affiliation_words": [
+            "canada", 
+            "columbia", 
+            "1z1", 
+            "v6t", 
+            "british", 
+            "vancouver", 
+            "6224", 
+            "agricultural", 
+            "physics", 
+            "road"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Physics and Astronomy  Michigan State University", 
+        "contact": "", 
+        "name": "D. Edmunds", 
+        "affiliation_words": [
+            "michigan", 
+            "astronomy", 
+            "physics", 
+            "state"
         ]
     }, 
     {
@@ -27505,6 +29598,19 @@
         ]
     }, 
     {
+        "affiliation": "Argonne National Laboratory, Argonne, IL 60439-4815, USA", 
+        "contact": "", 
+        "name": "E. Koffeman", 
+        "affiliation_words": [
+            "argonne", 
+            "usa", 
+            "national", 
+            "il", 
+            "60439-4815", 
+            "laboratory"
+        ]
+    }, 
+    {
         "affiliation": "Physics Department, National Technical University of Athens, Zografou, Greece", 
         "contact": "", 
         "name": "A. Filippas", 
@@ -27549,6 +29655,24 @@
         ]
     }, 
     {
+        "affiliation": "Laboratoire de Physique des Particules (LAPP), IN2P3-CNRS, F-74019 Annecy-le-Vieux Cedex, France", 
+        "contact": "", 
+        "name": "E.E. Kluge", 
+        "affiliation_words": [
+            "de", 
+            "annecy-le-vieux", 
+            "laboratoire", 
+            "des", 
+            "physique", 
+            "f-74019", 
+            "cedex", 
+            "in2p3-cnrs", 
+            "lapp", 
+            "particules", 
+            "france"
+        ]
+    }, 
+    {
         "affiliation": " Visiting Assistant Professor; Krannert School of Management; Purdue University; University of California,", 
         "contact": "", 
         "name": "Avanidhar Subrahmanyam", 
@@ -27564,6 +29688,21 @@
         ]
     }, 
     {
+        "affiliation": "The Institute for Genomic Research, 9712 Medical Center Dr., Rockville, MD 20850, USA", 
+        "contact": "", 
+        "name": "Daniel H. Haft", 
+        "affiliation_words": [
+            "md", 
+            "usa", 
+            "rockville", 
+            "medical", 
+            "20850", 
+            "9712", 
+            "genomic", 
+            "dr"
+        ]
+    }, 
+    {
         "affiliation": "Fermi National Accelerator Laboratory", 
         "contact": "", 
         "name": "Albert Stebbins", 
@@ -27572,6 +29711,21 @@
             "national", 
             "fermi", 
             "accelerator"
+        ]
+    }, 
+    {
+        "affiliation": "Julius Center for Health Sciences and Primary Care, University Medical Center Utrecht, Utrecht, The Netherlands", 
+        "contact": "", 
+        "name": "Diederick E. Grobbee", 
+        "affiliation_words": [
+            "netherlands", 
+            "julius", 
+            "medical", 
+            "primary", 
+            "sciences", 
+            "health", 
+            "utrecht", 
+            "care"
         ]
     }, 
     {
@@ -27593,6 +29747,20 @@
         ]
     }, 
     {
+        "affiliation": "Protein Data Bank|Biology Department|Brookhaven National Laboratory", 
+        "contact": "", 
+        "name": "E. E. Abola", 
+        "affiliation_words": [
+            "biology", 
+            "national", 
+            "laboratory", 
+            "brookhaven", 
+            "protein", 
+            "data", 
+            "bank"
+        ]
+    }, 
+    {
         "affiliation": "CERN, CH - 1211 Geneva 23, Switzerland", 
         "contact": "", 
         "name": "A. Mapelli", 
@@ -27603,6 +29771,21 @@
             "cern", 
             "ch", 
             "switzerland"
+        ]
+    }, 
+    {
+        "affiliation": "Department of Subnuclear Physics, Institute of Experimental Physics of the Slovak Academy of Sciences, Kosice, Slovak Republic", 
+        "contact": "", 
+        "name": "E. Kladiva", 
+        "affiliation_words": [
+            "academy", 
+            "kosice", 
+            "sciences", 
+            "slovak", 
+            "subnuclear", 
+            "republic", 
+            "physics", 
+            "experimental"
         ]
     }, 
     {
@@ -27645,6 +29828,14 @@
             "human", 
             "policy", 
             ";"
+        ]
+    }, 
+    {
+        "affiliation": "", 
+        "contact": "", 
+        "name": "E. Fama", 
+        "affiliation_words": [
+            ""
         ]
     }
 ]

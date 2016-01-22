@@ -1894,90 +1894,116 @@
     },
     "Bill Triggs": {
         "email_list": [
+            "bill.triggs@imag.fr",
+            "triggs@imag.fr",
+            "bill.triggs@free.fr"
         ],
         "wrong_email": [
         ]
     },
     "Birger Wernerfelt": {
         "email_list": [
+            "bwerner@mit.edu"
         ],
         "wrong_email": [
         ]
     },
     "Biswanath Mukherjee": {
         "email_list": [
+            "bmukherjee@ucdavis.edu"
         ],
         "wrong_email": [
         ]
     },
     "Brad A. Myers": {
         "email_list": [
+            "bam@cs.cmu.edu",
+            "bmyers@amstedrail.com"
         ],
         "wrong_email": [
         ]
     },
     "Bradley E. Bernstein": {
         "email_list": [
+            "bernstein.bradley@mgh.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bradley Efron": {
         "email_list": [
+            "brad@stat.stanford.edu"
         ],
         "wrong_email": [
+            "brad@stat.stanfxxx.edu"
         ]
     },
     "Bradley T. Hyman": {
         "email_list": [
+            "bhyman@partners.org",
+            "bhyman@mgh.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Brian Curless": {
         "email_list": [
+            "curless@cs.washington.edu",
+            "bcurless@adams.net"
         ],
         "wrong_email": [
         ]
     },
     "Brian G. Spratt": {
         "email_list": [
+            "brianspratt@hotmail.com"
         ],
         "wrong_email": [
         ]
     },
     "Brian K. Shoichet": {
         "email_list": [
+            "bshoichet@gmail.com"
         ],
         "wrong_email": [
+            "brian.ballios@mail.utoronto.ca"
         ]
     },
     "Brian Murphy": {
         "email_list": [
+            "brian.murphy@baruch.cuny.edu",
+            "murphybr@vt.edu",
+            "murphybrian@deanza.edu"
         ],
         "wrong_email": [
         ]
     },
     "Brian P. Schmidt": {
         "email_list": [
+            "brian@mso.anu.edu.au",
+            "brianl.schmidt@nyu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Brian Yanny": {
         "email_list": [
+            "yanny@fnal.gov"
         ],
         "wrong_email": [
         ]
     },
     "Bronwyn H. Hall": {
         "email_list": [
+            "bhhall@econ.berkeley.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce A. J. Ponder": {
         "email_list": [
+            "bruce.ponder@cruk.cam.ac.uk",
+            "bruce.ponder@srl.cam.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -1990,48 +2016,60 @@
     },
     "Bruce Birren": {
         "email_list": [
+            "bwb@genome.wi.mit.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce D. Hammock": {
         "email_list": [
+            "bdhammock@ucdavis.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce D. Walker": {
         "email_list": [
+            "bwalker@partners.org",
+            "bruce.walker@murdoch.edu.au"
         ],
         "wrong_email": [
         ]
     },
     "Bruce Fischl": {
         "email_list": [
+            "fischl@cns.bu.edu",
+            "fischl@csail.mit.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce Gillespie": {
         "email_list": [
+            "bgillespie@wlu.ca",
+            "gillespi@zoology.ubc.ca"
         ],
         "wrong_email": [
         ]
     },
     "Bruce M. Spiegelman": {
         "email_list": [
+            "bruce_spiegelman@dfci.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce S. Mcewen": {
         "email_list": [
+            "bruce.mcewen@rockefeller.edu",
+            "mcewen@mail.rockefeller.edu"
         ],
         "wrong_email": [
         ]
     },
     "Bruce Schneier": {
         "email_list": [
+            "schneier@schneier.com"
         ],
         "wrong_email": [
         ]
@@ -2056,18 +2094,23 @@
     },
     "C. Belanger-Champagne": {
         "email_list": [
+            "claude.champagne@agr.gc.ca"
         ],
         "wrong_email": [
         ]
     },
     "C. Bini": {
         "email_list": [
+            "bini@ds.unifi.it",
+            "bini@mail.utexas.edu"
         ],
         "wrong_email": [
         ]
     },
     "C. Bishop": {
         "email_list": [
+            "cbishop@wakehealth.edu",
+            "cbishop@stfx.ca"
         ],
         "wrong_email": [
         ]
@@ -2076,6 +2119,7 @@
         "email_list": [
         ],
         "wrong_email": [
+            "boehm@acm.org"
         ]
     },
     "C. Bricman": {
@@ -2086,6 +2130,9 @@
     },
     "C. Collins-Tooth": {
         "email_list": [
+            "christopher.collins-tooth@glasgow.ac.uk",
+            "c.collins-tooth@physics.gla.ac.uk",
+            "tooth@physics.gla.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -2104,6 +2151,7 @@
     },
     "C. Escobar": {
         "email_list": [
+            "isabel.escobar@uky.edu"
         ],
         "wrong_email": [
         ]
@@ -2148,28 +2196,37 @@
         "email_list": [
         ],
         "wrong_email": [
+            "sglasman@math.ias.edu"
         ]
     },
     "C. Goy": {
         "email_list": [
         ],
         "wrong_email": [
+            "goykl@ntuc.org.sg"
         ]
     },
     "C. Gwenlan": {
         "email_list": [
+            "c.gwenlan1@physics.ox.ac.uk",
+            "c.gwenlan@physics.ox.ac.uk",
+            "cg@hep.ucl.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "C. Horn": {
         "email_list": [
+            "chorn@pitt.edu"
         ],
         "wrong_email": [
         ]
     },
     "C. J. Stone": {
         "email_list": [
+            "cjstone@hotmail.de",
+            "cj@cjstones.com",
+            "stone094@umn.edu"
         ],
         "wrong_email": [
         ]
@@ -2182,6 +2239,7 @@
     },
     "C. Lacasta": {
         "email_list": [
+            "carlos.lacasta@ific.uv.es"
         ],
         "wrong_email": [
         ]
@@ -2190,6 +2248,7 @@
         "email_list": [
         ],
         "wrong_email": [
+            "harvey.cleggett@hotmail.com.au"
         ]
     },
     "C. Lidman": {
@@ -2214,6 +2273,7 @@
         "email_list": [
         ],
         "wrong_email": [
+            "mcgrew@cse.msstate.edu"
         ]
     },
     "C. Monroe": {
@@ -2230,6 +2290,7 @@
     },
     "C. R. Cloninger": {
         "email_list": [
+            "crcloninger44@gmail.com"
         ],
         "wrong_email": [
         ]
@@ -2254,12 +2315,14 @@
     },
     "C. W. J. Beenakker": {
         "email_list": [
+            "beenakker@lorentz.leidenuniv.nl"
         ],
         "wrong_email": [
         ]
     },
     "C. W. Loh": {
         "email_list": [
+            "cwloh2u@cwloh.com"
         ],
         "wrong_email": [
         ]
@@ -2268,6 +2331,7 @@
         "email_list": [
         ],
         "wrong_email": [
+            "cw@sprechbereit.de"
         ]
     },
     "Ca Ball": {
@@ -2278,18 +2342,22 @@
     },
     "Campbell R. Harvey": {
         "email_list": [
+            "cam.harvey@duke.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carl Dahlke": {
         "email_list": [
+            "carl.d@gmail.com"
         ],
         "wrong_email": [
         ]
     },
     "Carl Folke": {
         "email_list": [
+            "carl.folke@su.se",
+            "carl.folke@beijer.kva.se"
         ],
         "wrong_email": [
         ]
@@ -2302,66 +2370,80 @@
     },
     "Carl Kesselman": {
         "email_list": [
+            "carl@isi.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carl W. Cotman": {
         "email_list": [
+            "cwcotman@uci.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carlo La Vecchia": {
         "email_list": [
+            "carlo.lavecchia@marionegri.it"
         ],
         "wrong_email": [
         ]
     },
     "Carlo M. Croce": {
         "email_list": [
+            "carlo.croce@osumc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carlo Napolitano": {
         "email_list": [
+            "carlo.napolitano@nyumc.org",
+            "cnapolitano@fsm.it",
+            "carlonapolitano@hotmail.com"
         ],
         "wrong_email": [
         ]
     },
     "Carlo Tomasi": {
         "email_list": [
+            "tomasi@cs.duke.edu",
+            "ctomasi@gflenv.com"
         ],
         "wrong_email": [
         ]
     },
     "Carlos S. Frenk": {
         "email_list": [
+            "c.s.frenk@durham.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "Carol D. Ryff": {
         "email_list": [
+            "cryff@wisc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carol S. Dweck": {
         "email_list": [
+            "dweck@stanford.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carolyn R. Bertozzi": {
         "email_list": [
+            "crb@berkeley.edu"
         ],
         "wrong_email": [
         ]
     },
     "Carrie Sougnez": {
         "email_list": [
+            "carrie@broadinstitute.org"
         ],
         "wrong_email": [
         ]
@@ -2376,46 +2458,55 @@
         "email_list": [
         ],
         "wrong_email": [
+            "criseng@umich.edu"
         ]
     },
     "Cees Dekker": {
         "email_list": [
+            "c.dekker@tudelft.nl"
         ],
         "wrong_email": [
         ]
     },
     "Chad A. Mirkin": {
         "email_list": [
+            "camirkin@chem.northwestern.edu"
         ],
         "wrong_email": [
         ]
     },
     "Chad Nusbaum": {
         "email_list": [
+            "chad@broad.mit.edu",
+            "chad@broadinstitute.org"
         ],
         "wrong_email": [
         ]
     },
     "Chang-Gong Liu": {
         "email_list": [
+            "cgliu@mdanderson.org"
         ],
         "wrong_email": [
         ]
     },
     "Charles Antzelevitch": {
         "email_list": [
+            "antzelevitch@limr.org"
         ],
         "wrong_email": [
         ]
     },
     "Charles Boone": {
         "email_list": [
+            "charlie.boone@utoronto.ca"
         ],
         "wrong_email": [
         ]
     },
     "Charles E. Leiserson": {
         "email_list": [
+            "cel@mit.edu"
         ],
         "wrong_email": [
         ]
@@ -2428,24 +2519,29 @@
     },
     "Charles M. Judd": {
         "email_list": [
+            "charles.judd@colorado.edu"
         ],
         "wrong_email": [
         ]
     },
     "Charles M. Lieber": {
         "email_list": [
+            "clieber@seas.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Charles M. Perou": {
         "email_list": [
+            "cperou@med.unc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Charles R. Johnson": {
         "email_list": [
+            "chasjohn@uw.edu",
+            "crjohnso@math.wm.edu"
         ],
         "wrong_email": [
         ]
@@ -2458,24 +2554,31 @@
     },
     "Charu C. Aggarwal": {
         "email_list": [
+            "charucaggarwal@gmail.com"
         ],
         "wrong_email": [
         ]
     },
     "Chengteh Lee": {
         "email_list": [
+            "c2000lee@aol.com"
         ],
         "wrong_email": [
         ]
     },
     "Cher Miranda": {
         "email_list": [
+            "chermiranda73@gmail.com"
         ],
         "wrong_email": [
         ]
     },
     "Cheryl A. Evans": {
         "email_list": [
+            "cheryl.evans@hamptonu.edu",
+            "cevans20@uco.edu",
+            "cheryl.evans@montville.net",
+            "cherylevans@edinarealty.com"
         ],
         "wrong_email": [
         ]
@@ -2488,6 +2591,8 @@
     },
     "Chi-Wang Shu": {
         "email_list": [
+            "chi-wang_shu@brown.edu",
+            "shu@dam.brown.edu"
         ],
         "wrong_email": [
         ]
@@ -2500,6 +2605,8 @@
     },
     "Chih-Jen Lin": {
         "email_list": [
+            "cjlin@csie.ntu.edu.tw",
+            "chih-jen.lin@ed.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -2524,48 +2631,60 @@
     },
     "Chris P. Ponting": {
         "email_list": [
+            "chris.ponting@dpag.ox.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "Christian Von Mering": {
         "email_list": [
+            "mering@imls.uzh.ch"
         ],
         "wrong_email": [
         ]
     },
     "Christina Raymond": {
         "email_list": [
+            "raymond@bronxvillerealestate.com"
         ],
         "wrong_email": [
         ]
     },
     "Christine Lloyd": {
         "email_list": [
+            "christine.lloyd@bcu.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "Christine Van Broeckhoven": {
         "email_list": [
+            "christine.vanbroeckhoven@ua.ac.be",
+            "christine.vanbroeckhoven@molgen.vib-ua.bethis"
         ],
         "wrong_email": [
+            "email@molgen.vib-ua.be"
         ]
     },
     "Christophe Diot": {
         "email_list": [
+            "christophe.diot@intel.com"
         ],
         "wrong_email": [
         ]
     },
     "Christopher A. Higgins": {
         "email_list": [
+            "chiggins@mines.edu",
+            "higgins@tarleton.edu"
         ],
         "wrong_email": [
+            "cthiggins@gmail.com"
         ]
     },
     "Christopher B. Burge": {
         "email_list": [
+            "cburge@mit.edu"
         ],
         "wrong_email": [
         ]
@@ -2578,48 +2697,58 @@
     },
     "Christopher D. Manning": {
         "email_list": [
+            "cmanning@acm.org"
         ],
         "wrong_email": [
         ]
     },
     "Christopher Elkin": {
         "email_list": [
+            "celkins@stanford.edu"
         ],
         "wrong_email": [
         ]
     },
     "Christopher I. Amos": {
         "email_list": [
+            "christopher.i.amos@dartmouth.edu"
         ],
         "wrong_email": [
         ]
     },
     "Christopher K. Glass": {
         "email_list": [
+            "ckg@ucsd.edu",
+            "cglass@ucsd.edu"
         ],
         "wrong_email": [
         ]
     },
     "Christopher M. Dobson": {
         "email_list": [
+            "cmd44@cam.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "Christopher Stubbs": {
         "email_list": [
+            "stubbs@physics.harvard.edu",
+            "cstubbs@ramboll.com"
         ],
         "wrong_email": [
         ]
     },
     "Christos Faloutsos": {
         "email_list": [
+            "christos@cs.cmu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Christos H. Papadimitriou": {
         "email_list": [
+            "christos@cs.berkeley.edu"
         ],
         "wrong_email": [
         ]
@@ -2632,6 +2761,7 @@
     },
     "Clark Mobarry": {
         "email_list": [
+            "mobarry@kreative.net"
         ],
         "wrong_email": [
         ]
@@ -2644,12 +2774,14 @@
     },
     "Colin F. Camerer": {
         "email_list": [
+            "camerer@hss.caltech.edu"
         ],
         "wrong_email": [
         ]
     },
     "Compton J. Tucker": {
         "email_list": [
+            "compton.j.tucker@nasa.gov"
         ],
         "wrong_email": [
         ]
@@ -2662,18 +2794,23 @@
     },
     "Cornelia M. Van Duijn": {
         "email_list": [
+            "c.vanduijn@erasmusmc.nl"
         ],
         "wrong_email": [
         ]
     },
     "Costantino Iadecola": {
         "email_list": [
+            "coi2001@med.cornell.edu"
         ],
         "wrong_email": [
         ]
     },
     "Craig A. Anderson": {
         "email_list": [
+            "caa@iastate.edu",
+            "craig.anderson@sydney.edu.au",
+            "c.anderson@rgu.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -2686,6 +2823,7 @@
     },
     "Craig J. Hawker": {
         "email_list": [
+            "hawker@mrl.ucsb.edu"
         ],
         "wrong_email": [
         ]
@@ -2752,12 +2890,16 @@
     },
     "D. Bloch": {
         "email_list": [
+            "blochg@vicbar.com.au",
+            "d.bloch@finelineglass.com",
+            "bloch@bard.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. Botstein": {
         "email_list": [
+            "botstein@genomics.princeton.edu"
         ],
         "wrong_email": [
         ]
@@ -2766,10 +2908,13 @@
         "email_list": [
         ],
         "wrong_email": [
+            "michele.breton@hec.ca"
         ]
     },
     "D. D. Awschalom": {
         "email_list": [
+            "awsch@uchicago.edu",
+            "awsch@physics.ucsb.edu"
         ],
         "wrong_email": [
         ]
@@ -2794,6 +2939,7 @@
     },
     "D. Edmunds": {
         "email_list": [
+            "d.e.edmunds@sussex.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -2806,6 +2952,8 @@
     },
     "D. Fassouliotis": {
         "email_list": [
+            "fassoul@vxcern.cern.ch",
+            "d.fassouliotis@cern.ch"
         ],
         "wrong_email": [
         ]
@@ -2824,48 +2972,57 @@
     },
     "D. G. Altman": {
         "email_list": [
+            "doug.altman@csm.ox.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "D. G. Charlton": {
         "email_list": [
+            "d.g.charlton@bham.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "D. Giugni": {
         "email_list": [
+            "giugni@unina.it"
         ],
         "wrong_email": [
         ]
     },
     "D. Hilbert": {
         "email_list": [
+            "hilbert@ucdavis.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. Kahneman": {
         "email_list": [
+            "kahneman@princeton.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. Kisielewska": {
         "email_list": [
+            "danuta.kisielewska@fis.agh.edu.pl"
         ],
         "wrong_email": [
         ]
     },
     "D. L. Adams": {
         "email_list": [
+            "dadams@dladams.com"
         ],
         "wrong_email": [
         ]
     },
     "D. L. Donoho": {
         "email_list": [
+            "donoho@stanfxxx.edu",
+            "donoho@stat.stanford.edu"
         ],
         "wrong_email": [
         ]
@@ -2874,10 +3031,14 @@
         "email_list": [
         ],
         "wrong_email": [
+            "lelas.music@sasktel.net"
         ]
     },
     "D. Lynn": {
         "email_list": [
+            "dlynn@engr.wisc.edu",
+            "dlynn.schertz@unt.edu",
+            "dlynn@gmail.com"
         ],
         "wrong_email": [
         ]
@@ -2890,30 +3051,38 @@
     },
     "D. M. Parkin": {
         "email_list": [
+            "d.m.parkin@qmul.ac.uk",
+            "mparkin@afcrn.org",
+            "max.parkin@cancer.org.uk"
         ],
         "wrong_email": [
         ]
     },
     "D. Mladenov": {
         "email_list": [
+            "mladenov@ksu.edu",
+            "mladenov@colorado.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. Moss": {
         "email_list": [
+            "d.moss@mail.cryst.bbk.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "D. Mozaffarian": {
         "email_list": [
+            "dmozaffa@hsph.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. N.C. Tse": {
         "email_list": [
+            "dtse@eecs.berkeley.edu"
         ],
         "wrong_email": [
         ]
@@ -2932,18 +3101,21 @@
     },
     "D. Rubin": {
         "email_list": [
+            "rubin@stat.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "D. Terzopolus": {
         "email_list": [
+            "dt@cs.ucla.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daan Frenkel": {
         "email_list": [
+            "df246@cam.ac.uk"
         ],
         "wrong_email": [
         ]
@@ -2962,72 +3134,89 @@
     },
     "Dan R. Littman": {
         "email_list": [
+            "dan.littman@med.nyu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dan Suciu": {
         "email_list": [
+            "suciu@cs.washington.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dana Busam": {
         "email_list": [
+            "dbusam@jcvi.org"
         ],
         "wrong_email": [
         ]
     },
     "Dani Rodrik": {
         "email_list": [
+            "dani_rodrik@harvard.edu",
+            "drodrik@ias.edu",
+            "dani_rodrik@hks.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel A. Keim": {
         "email_list": [
+            "keim@informatik.uni-muenchen.de"
         ],
         "wrong_email": [
         ]
     },
     "Daniel Cohen-Or": {
         "email_list": [
+            "cohen@math.lsu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel G. Brown": {
         "email_list": [
+            "dan.brown@uwaterloo.ca"
         ],
         "wrong_email": [
         ]
     },
     "Daniel H. Geschwind": {
         "email_list": [
+            "dhg@mednet.ucla.edu",
+            "dhg@ucla.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel H. Haft": {
         "email_list": [
+            "haft@jcvi.org",
+            "haft@tigr.org"
         ],
         "wrong_email": [
         ]
     },
     "Daniel H. Huson": {
         "email_list": [
+            "daniel.huson@uni-tuebingen.de",
+            "huson@informatik.uni-tuebingen.de"
         ],
         "wrong_email": [
         ]
     },
     "Daniel J. Eisenstein": {
         "email_list": [
+            "deisenstein@cfa.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel J. Klionsky": {
         "email_list": [
+            "klionsky@umich.edu"
         ],
         "wrong_email": [
         ]
@@ -3040,42 +3229,54 @@
     },
     "Daniel Kahneman": {
         "email_list": [
+            "kahneman@princeton.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel Levy": {
         "email_list": [
+            "daniel.levy@ecfr.eu",
+            "levyd@nih.gov",
+            "daniel.levy@idc.ac.il",
+            "daniel.levy@biu.ac.il"
         ],
         "wrong_email": [
         ]
     },
     "Daniel R. Weinberger": {
         "email_list": [
+            "drweinberger@libd.org"
         ],
         "wrong_email": [
         ]
     },
     "Daniel S. Pine": {
         "email_list": [
+            "pined@mail.nih.gov"
         ],
         "wrong_email": [
         ]
     },
     "Daniel S. Weld": {
         "email_list": [
+            "weld@cs.washington.edu"
         ],
         "wrong_email": [
         ]
     },
     "Daniel Tranel": {
         "email_list": [
+            "daniel-tranel@uiowa.edu",
+            "daniel-tranel@uiowa.com"
         ],
         "wrong_email": [
         ]
     },
     "Danielle Thierry-Mieg": {
         "email_list": [
+            "mieg@ncbi.nlm.nih.gov",
+            "thierry-mieg@nih.gov"
         ],
         "wrong_email": [
         ]
@@ -3094,12 +3295,14 @@
     },
     "Danny Reinberg": {
         "email_list": [
+            "danny.reinberg@nyumc.org"
         ],
         "wrong_email": [
         ]
     },
     "Daoben Zhu": {
         "email_list": [
+            "zhudb@iccas.ac.cn"
         ],
         "wrong_email": [
         ]
@@ -3112,30 +3315,36 @@
     },
     "Daron Acemoglu": {
         "email_list": [
+            "daron@mit.edu"
         ],
         "wrong_email": [
         ]
     },
     "Darren Grafham": {
         "email_list": [
+            "darren.grafham@sch.nhs.uk"
         ],
         "wrong_email": [
         ]
     },
     "David A. Brenner": {
         "email_list": [
+            "d.brenner@lse.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "David A. Case": {
         "email_list": [
+            "dcase@globalpost.com"
         ],
         "wrong_email": [
         ]
     },
     "David A. Kass": {
         "email_list": [
+            "dkass@jhmi.edu",
+            "dkass@rhsmith.umd.edu"
         ],
         "wrong_email": [
         ]
@@ -3148,6 +3357,11 @@
     },
     "David A. Patterson": {
         "email_list": [
+            "david.patterson@du.edu",
+            "d.paterson1@uq.edu.au",
+            "david.patterson@utdallas.edu",
+            "david.paterson@dpag.ox.ac.uk",
+            "david.patterson@umb.edu"
         ],
         "wrong_email": [
         ]
@@ -3156,10 +3370,12 @@
         "email_list": [
         ],
         "wrong_email": [
+            "dwheeler@ida.org"
         ]
     },
     "David Altshuler": {
         "email_list": [
+            "altshuler@molbio.mgh.harvard.edu"
         ],
         "wrong_email": [
         ]
@@ -3172,12 +3388,17 @@
     },
     "David B. Goldstein": {
         "email_list": [
+            "david@cfdlab.ae.utexas.edu",
+            "dgoldstein@rbskl.com",
+            "dgolds@yorku.ca",
+            "david@gic.net"
         ],
         "wrong_email": [
         ]
     },
     "David B. Jaffe": {
         "email_list": [
+            "david.jaffe@utsa.edu"
         ],
         "wrong_email": [
         ]
@@ -3196,60 +3417,74 @@
     },
     "David D. Ho": {
         "email_list": [
+            "dho@adarc.org"
         ],
         "wrong_email": [
         ]
     },
     "David E. Culler": {
         "email_list": [
+            "culler@cs.berkeley.edu"
         ],
         "wrong_email": [
         ]
     },
     "David E. Goldberg": {
         "email_list": [
+            "david.goldberg@olin.edu",
+            "dgold11@pitt.edu",
+            "dgoldberg@clarkhill.com"
         ],
         "wrong_email": [
         ]
     },
     "David Finkelhor": {
         "email_list": [
+            "david.finkelhor@unh.edu"
         ],
         "wrong_email": [
         ]
     },
     "David G. Lowe": {
         "email_list": [
+            "lowe@cs.ubc.ca"
         ],
         "wrong_email": [
         ]
     },
     "David Garlan": {
         "email_list": [
+            "garlan@cs.cmu.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Gefen": {
         "email_list": [
+            "gefend@drexel.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Goldman": {
         "email_list": [
+            "david.goldman@nih.hhs.gov",
+            "david@goldmaneye.com"
         ],
         "wrong_email": [
         ]
     },
     "David H. Weinberg": {
         "email_list": [
+            "dhw@astronomy.ohio-state.edu",
+            "weinbergd@mail.nih.gov"
         ],
         "wrong_email": [
         ]
     },
     "David Harel": {
         "email_list": [
+            "dharel@weizmann.ac.il"
         ],
         "wrong_email": [
         ]
@@ -3262,24 +3497,29 @@
     },
     "David Heckerman": {
         "email_list": [
+            "heckerma@microsoft.com"
         ],
         "wrong_email": [
         ]
     },
     "David J. Dewitt": {
         "email_list": [
+            "dewitt@microsoft.com"
         ],
         "wrong_email": [
         ]
     },
     "David J. Hunter": {
         "email_list": [
+            "david.hunter@sydney.edu.au",
+            "dhunter@westmont.edu"
         ],
         "wrong_email": [
         ]
     },
     "David J. Lipman": {
         "email_list": [
+            "lipman@ncbi.nlm.nih.gov"
         ],
         "wrong_email": [
         ]
@@ -3292,54 +3532,68 @@
     },
     "David J. Mooney": {
         "email_list": [
+            "mooneyd@seas.harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "David J. Schlegel": {
         "email_list": [
+            "d.j.schlegel@durham.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "David K. Gifford": {
         "email_list": [
+            "gifford@csail.mit.edu",
+            "gifford@mit.edu",
+            "david_gifford@brown.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Kulp": {
         "email_list": [
+            "dkulp@cs.umass"
         ],
         "wrong_email": [
         ]
     },
     "David L. Nelson": {
         "email_list": [
+            "nelson@biochem.wisc.edu",
+            "nelson@bcm.edu",
+            "david.nelson3@utoledo.edu",
+            "d-nelson@northwestern.edu"
         ],
         "wrong_email": [
         ]
     },
     "David L. Wheeler": {
         "email_list": [
+            "dwheeler@alfanarmedia.org"
         ],
         "wrong_email": [
         ]
     },
     "David M. Blei": {
         "email_list": [
+            "david.blei@columbia.edu"
         ],
         "wrong_email": [
         ]
     },
     "David N. Weil": {
         "email_list": [
+            "david_weil@brown.edu"
         ],
         "wrong_email": [
         ]
     },
     "David P. Bartel": {
         "email_list": [
+            "dbartel@wi.mit.edu"
         ],
         "wrong_email": [
         ]
@@ -3352,6 +3606,7 @@
     },
     "David P. Hill": {
         "email_list": [
+            "david@yachtpsl.com"
         ],
         "wrong_email": [
         ]
@@ -3364,6 +3619,7 @@
     },
     "David R. Bentley": {
         "email_list": [
+            "dbentley@illumina.com"
         ],
         "wrong_email": [
         ]
@@ -3376,12 +3632,18 @@
     },
     "David R. Williams": {
         "email_list": [
+            "dwilliam@hsph.harvard.edu",
+            "david@cvs.rochester.edu",
+            "david.williams@iit.edu",
+            "david.r.williams@nasa.gov"
         ],
         "wrong_email": [
         ]
     },
     "David Reich": {
         "email_list": [
+            "reich@genetics.med.harvard.edu",
+            "david.reich@mountsinai.org"
         ],
         "wrong_email": [
         ]
@@ -3400,84 +3662,104 @@
     },
     "David Sidransky": {
         "email_list": [
+            "dsidrans@jhmi.edu"
         ],
         "wrong_email": [
         ]
     },
     "David T. Jones": {
         "email_list": [
+            "jones_dt@calu.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Tilman": {
         "email_list": [
+            "tilman@umn.edu"
         ],
         "wrong_email": [
         ]
     },
     "David W. Hogg": {
         "email_list": [
+            "david.hogg@nyu.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Watson": {
         "email_list": [
+            "d.watson@keele.ac.uk",
+            "david.watson@glasgow.ac.uk",
+            "db.watson@nd.edu"
         ],
         "wrong_email": [
         ]
     },
     "David Wetherall": {
         "email_list": [
+            "david.wetherell@deakin.edu.au"
         ],
         "wrong_email": [
         ]
     },
     "Deanna Church": {
         "email_list": [
+            "deanna.church@personalis.com"
         ],
         "wrong_email": [
+            "lynn.duncan@ucsf.edu"
         ]
     },
     "Deanna M. Church": {
         "email_list": [
+            "deanna.church@personalis.com"
         ],
         "wrong_email": [
         ]
     },
     "Deborah Estrin": {
         "email_list": [
+            "destrin@cs.cornell.edu"
         ],
         "wrong_email": [
         ]
     },
     "Deborah L. Mcguinness": {
         "email_list": [
+            "mcguid@rpi.edu",
+            "dlm@ksl.stanford.edu"
         ],
         "wrong_email": [
         ]
     },
     "Deirdre Wilson": {
         "email_list": [
+            "deirdre.wilson@ucl.ac.uk",
+            "deirdre.wilson@viu.ca",
+            "deirdre.wilson@pittsburghmoves.com"
         ],
         "wrong_email": [
         ]
     },
     "Demetri Terzopoulos": {
         "email_list": [
+            "dt@cs.ucla.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dennis A. Benson": {
         "email_list": [
+            "dennis@dennisbenson.com"
         ],
         "wrong_email": [
         ]
     },
     "Dennis E. Discher": {
         "email_list": [
+            "discher@seas.upenn.edu"
         ],
         "wrong_email": [
         ]
@@ -3486,118 +3768,142 @@
         "email_list": [
         ],
         "wrong_email": [
+            "ajoalba@ntu.edu.sg"
         ]
     },
     "Derek C. Angus": {
         "email_list": [
+            "angusdc@ccm.upmc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Desmond G. Higgins": {
         "email_list": [
+            "ei.dcu@sniggih.sed",
+            "ei.dcu@sreveis.naibaf"
         ],
         "wrong_email": [
         ]
     },
     "Detlef Weigel": {
         "email_list": [
+            "detlef.weigel@tuebingen.mpg.de"
         ],
         "wrong_email": [
         ]
     },
     "Detmar W. Straub": {
         "email_list": [
+            "dstraub@gsu.edu",
+            "dstraub@cis.gsu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Diane Gage": {
         "email_list": [
+            "dgage@san.rr.com"
         ],
         "wrong_email": [
         ]
     },
     "Dick De Zeeuw": {
         "email_list": [
+            "d.de.zeeuw@umcg.nl"
         ],
         "wrong_email": [
         ]
     },
     "Didier Dubois": {
         "email_list": [
+            "dubois@irit.fr"
         ],
         "wrong_email": [
         ]
     },
     "Didier Raoult": {
         "email_list": [
+            "didier.raoult@gmail.com",
+            "didier.raoult@medecine.univ-mrs.fr"
         ],
         "wrong_email": [
         ]
     },
     "Diederick E. Grobbee": {
         "email_list": [
+            "d.e.grobbee@umcutrecht.nl"
         ],
         "wrong_email": [
         ]
     },
     "Diego Calvanese": {
         "email_list": [
+            "calvanese@inf.unibz.it"
         ],
         "wrong_email": [
         ]
     },
     "Dieter Fox": {
         "email_list": [
+            "fox@cs.washington.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dimitri Bertsekas": {
         "email_list": [
+            "dimitrib@mit.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dinesh Manocha": {
         "email_list": [
+            "dm@cs.unc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Dinshaw J. Patel": {
         "email_list": [
+            "pateld@mskcc.org"
         ],
         "wrong_email": [
         ]
     },
     "Divesh Srivastava": {
         "email_list": [
+            "dnsrivastava@csmcri.org"
         ],
         "wrong_email": [
         ]
     },
     "Don A. Dillman": {
         "email_list": [
+            "dillman@wsu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Don Towsley": {
         "email_list": [
+            "towsley@cs.umass.edu"
         ],
         "wrong_email": [
         ]
     },
     "Donald A. Norman": {
         "email_list": [
+            "dnorman@ucsd.edu",
+            "don@jnd.org"
         ],
         "wrong_email": [
         ]
     },
     "Donald B. Rubin": {
         "email_list": [
+            "rubin@stat.harvard.edu"
         ],
         "wrong_email": [
         ]
@@ -3610,6 +3916,7 @@
     },
     "Donald G. Truhlar": {
         "email_list": [
+            "truhlar@umn.edu"
         ],
         "wrong_email": [
         ]
@@ -3622,12 +3929,15 @@
     },
     "Donald Geman": {
         "email_list": [
+            "geman@jhu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Donald P. Schneider": {
         "email_list": [
+            "dps7@psu.edu",
+            "dschneider@schneiderlaw.net"
         ],
         "wrong_email": [
         ]
@@ -3640,12 +3950,14 @@
     },
     "Donna M. Muzny": {
         "email_list": [
+            "donnam@bcm.edu"
         ],
         "wrong_email": [
         ]
     },
     "Donna R. Maglott": {
         "email_list": [
+            "maglott@ncbi.nlm.nih.gov"
         ],
         "wrong_email": [
         ]
@@ -3658,42 +3970,52 @@
     },
     "Doron Lancet": {
         "email_list": [
+            "doron.lancet@weizmann.ac.il"
         ],
         "wrong_email": [
         ]
     },
     "Dorothy E. Leidner": {
         "email_list": [
+            "dorothy_leidner@baylor.edu"
         ],
         "wrong_email": [
         ]
     },
     "Douglas B. Rusch": {
         "email_list": [
+            "drusch@jcvi.org"
         ],
         "wrong_email": [
         ]
     },
     "Douglas C. Montgomery": {
         "email_list": [
+            "doug.montgomery@asu.edu"
         ],
         "wrong_email": [
         ]
     },
     "Douglas C. Schmidt": {
         "email_list": [
+            "d.schmidt@vanderbilt.edu",
+            "schmidt@uci.edu"
         ],
         "wrong_email": [
         ]
     },
     "Douglas F. Easton": {
         "email_list": [
+            "dfe20@medschl.cam.ac.uk",
+            "d.easton@srl.cam.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "Douglas G. Altman": {
         "email_list": [
+            "doug.altman@csm.ox.ac.uk",
+            "ku.ca.xo.msc@namtla.guod"
         ],
         "wrong_email": [
         ]
@@ -3706,24 +4028,30 @@
     },
     "Douglas L. Johnson": {
         "email_list": [
+            "dljohnson@clarku.edu",
+            "djohnson@jjllplaw.com",
+            "douglas.l.johnson@state.mn.us"
         ],
         "wrong_email": [
         ]
     },
     "Douglas R. Green": {
         "email_list": [
+            "douglas.green@stjude.org"
         ],
         "wrong_email": [
         ]
     },
     "Duncan J. Watts": {
         "email_list": [
+            "djw24@columbia.edu"
         ],
         "wrong_email": [
         ]
     },
     "E. Allen Emerson": {
         "email_list": [
+            "emerson@cs.utexas.edu"
         ],
         "wrong_email": [
         ]
@@ -3738,6 +4066,7 @@
         "email_list": [
         ],
         "wrong_email": [
+            "mbrodet@hotmail.com"
         ]
     },
     "E. E. Abola": {
@@ -3748,12 +4077,16 @@
     },
     "E. Eisenhandler": {
         "email_list": [
+            "e.eisenhandler@qmul.ac.uk",
+            "e.eisenhandler@qmw.ac.uk"
         ],
         "wrong_email": [
         ]
     },
     "E. Fama": {
         "email_list": [
+            "eugene.fama@chicagobooth.edu",
+            "eugene.fama@gsb.uchicago.edu"
         ],
         "wrong_email": [
         ]
@@ -3762,6 +4095,11 @@
         "email_list": [
         ],
         "wrong_email": [
+            "focardi@unisi.it",
+            "focardi@unive.it",
+            "netplus@prodigy.net",
+            "info@leonardocorp1996.com",
+            "focardi@dais.unive.it"
         ]
     },
     "E. Gornicki": {
@@ -3778,12 +4116,14 @@
     },
     "E. Kajomovitz": {
         "email_list": [
+            "enrique.kajomovitz@gmail.com"
         ],
         "wrong_email": [
         ]
     },
     "E. Kalnay": {
         "email_list": [
+            "ekalnay@atmos.umd.edu"
         ],
         "wrong_email": [
         ]
@@ -3792,10 +4132,16 @@
         "email_list": [
         ],
         "wrong_email": [
+            "kladiva@ignmail.com",
+            "kladiva@saske.sk",
+            "tomas.kladiva@facebook.com",
+            "kladivao@gmail.com",
+            "plebania@jaszboldoghaza.hu"
         ]
     },
     "E. Koffeman": {
         "email_list": [
+            "e.koffeman@nikhef.nl"
         ],
         "wrong_email": [
         ]
@@ -3816,34 +4162,42 @@
         "email_list": [
         ],
         "wrong_email": [
+            "lytken@hotmail.com"
         ]
     },
     "E. Meschi": {
         "email_list": [
         ],
         "wrong_email": [
+            "meschi@jorsm.com",
+            "chenlibel@email.com"
         ]
     },
     "E. Nebot": {
         "email_list": [
+            "eduardo.nebot@sydney.edu.au"
         ],
         "wrong_email": [
         ]
     },
     "E. P. Simoncelli": {
         "email_list": [
+            "simoncelli@nyu.edu",
+            "eero.simoncelli@nyu.edu"
         ],
         "wrong_email": [
         ]
     },
     "E. Petrolo": {
         "email_list": [
+            "petrolo@jhmi.edu"
         ],
         "wrong_email": [
         ]
     },
     "E. Wollack": {
         "email_list": [
+            "wollack@usc.edu"
         ],
         "wrong_email": [
         ]
@@ -3852,22 +4206,33 @@
         "email_list": [
         ],
         "wrong_email": [
+            "puusemp@ttu.ee",
+            "peeter.puusemp@ttu.ee",
+            "liivi.kluge@ttu.ee",
+            "akluge@georgefox.edu",
+            "sstanden@azdes.gov",
+            "wsbtaa@edd.ca.gov",
+            "kluge@dwd.state.wi.us"
         ]
     },
     "Eckart Zitzler": {
         "email_list": [
+            "eckart.zitzler@tik.ee.ethz.ch"
         ],
         "wrong_email": [
         ]
     },
     "Ed Diener": {
         "email_list": [
+            "ediener@illinois.edu",
+            "ediener@s.psych.uiuc.edu"
         ],
         "wrong_email": [
         ]
     },
     "Edmund M. Clarke": {
         "email_list": [
+            "emc@cs.cmu.edu"
         ],
         "wrong_email": [
         ]
@@ -3886,12 +4251,15 @@
     },
     "Edward L. Glaeser": {
         "email_list": [
+            "edward_glaeser@hks.harvard.edu",
+            "eglaeser@harvard.edu"
         ],
         "wrong_email": [
         ]
     },
     "Edward M. Rubin": {
         "email_list": [
+            "emrubin@lbl.gov"
         ],
         "wrong_email": [
         ]
@@ -3904,12 +4272,15 @@
     },
     "Edward Witten": {
         "email_list": [
+            "witten@ias.edu"
         ],
         "wrong_email": [
         ]
     },
     "Eibe Frank": {
         "email_list": [
+            "eibe@cs.waikato.ac.nz",
+            "eibe@waikato.ac.nz"
         ],
         "wrong_email": [
         ]
@@ -3922,12 +4293,14 @@
     },
     "Elbert Branscomb": {
         "email_list": [
+            "brnscmb@illinois.edu"
         ],
         "wrong_email": [
         ]
     },
     "Elhanan Helpman": {
         "email_list": [
+            "ehelpman@harvard.edu"
         ],
         "wrong_email": [
         ]

@@ -51,7 +51,7 @@ class PersonMLN:
             for email in email_addr_list:
                 new_item_dict = copy.copy(google_item_dict)
                 new_item_dict.pop('email_addr_list')
-                new_item_dict['email_addr'] = email
+                new_item_dict['email_addr'] = email.lower()
                 new_item_dict['person_name'] = self.name
                 new_item_list.append(new_item_dict)
             return new_item_list
@@ -66,7 +66,7 @@ class PersonMLN:
 
         # 在所有item中加上'label'域
         for google_item_dict in processed_google_item_list:
-            email_addr = google_item_dict['email_addr'].lower()
+            email_addr = google_item_dict['email_addr']
             email_label = False
             for marked_email in self.marked_email_list:
                 if email_addr == marked_email:
@@ -79,11 +79,39 @@ class PersonMLN:
     def get_node_mln_list(self):
         global global_node_id
         self.node_mln_list = []
+        email_item_dict = {}
         processed_item_list = self.get_processed_google_item_list()
         for item_dict in processed_item_list:
+            if item_dict['email_addr'] not in email_item_dict:
+                email_item_dict[item_dict['email_addr']] = [item_dict]
+            else:
+                email_item_dict[item_dict['email_addr']].append(item_dict)
+        # 合并同email的node
+        for email, item_list in email_item_dict.items():
             global_node_id += 1
-            item_dict['id'] = global_node_id
-            self.node_mln_list.append(NodeMLN(item_dict, self.aff_word_list))
+            item_list[0]['id'] = global_node_id
+            candidate_node = NodeMLN(item_list[0], self.aff_word_list)
+            is_title_contain_name = candidate_node.google_title_contain_name()
+            is_content_contain_name = candidate_node.google_content_contain_name()
+            is_title_contain_aff = candidate_node.google_title_contain_aff_word()
+            is_content_contain_aff = candidate_node.google_content_contain_aff_word()
+            for another_item in item_list[1:]:
+                another_item['id'] = global_node_id
+                tem_node = NodeMLN(another_item, self.aff_word_list)
+                if not is_title_contain_aff and tem_node.google_title_contain_aff_word()[0]:
+                    candidate_node.google_title += ' ' + self.aff_word_list[0].lower()
+                    is_title_contain_aff = True
+                if not is_title_contain_name and tem_node.google_title_contain_name()[0]:
+                    candidate_node.google_title += tem_node.person_name
+                    is_title_contain_name = True
+                if not is_content_contain_aff and tem_node.google_content_contain_aff_word()[0]:
+                    candidate_node.google_content += ' ' + self.aff_word_list[0].lower()
+                    is_content_contain_aff = True
+                if not is_content_contain_name and tem_node.google_content_contain_name()[0]:
+                    candidate_node.google_content += tem_node.person_name
+                    is_content_contain_name = True
+            self.node_mln_list.append(candidate_node)
+
         return self.node_mln_list
 
     def get_unary_evidence_list(self):
@@ -100,32 +128,45 @@ class PersonMLN:
                 another_node = self.node_mln_list[another_node_looper]
                 if node.node_name == another_node.node_name:
                     continue
-                if node.prefix == another_node.prefix and node.domain != another_node.domain:
-                    binary_relationship_list.append(node.grounding_string_binary('same_prefix', another_node.node_name))
-                if node.domain == another_node.domain and node.prefix != another_node.prefix:
-                    binary_relationship_list.append(node.grounding_string_binary('same_domain', another_node.node_name))
-                if node.prefix == another_node.prefix and node.domain == another_node.domain:
-                    binary_relationship_list.append(node.grounding_string_binary('same_address', another_node.node_name))
+                # if node.prefix == another_node.prefix and node.domain != another_node.domain and not node.prefix_is_invalid_keyword()[0]:
+                #     binary_relationship_list.append(node.grounding_string_binary('same_prefix', another_node.node_name))
+                # if node.domain == another_node.domain and node.prefix != another_node.prefix:
+                #     binary_relationship_list.append(node.grounding_string_binary('same_domain', another_node.node_name))
+                # if node.domain == another_node.domain and node.prefix != another_node.prefix and another_node.prefix_is_invalid_keyword()[0]:
+                #     binary_relationship_list.append(node.grounding_string_binary('same_domain_with_invalid', another_node.node_name))
+                if node.prefix != another_node.prefix and another_node.prefix in node.prefix or node.prefix in another_node.prefix:
+                    binary_relationship_list.append(node.grounding_string_binary('a_contain_prefix_b', another_node.node_name))
         return binary_relationship_list
 
     def get_svm_feature_line_list(self):
         svm_feature_line_list = []
-        node_mln_list = self.get_node_mln_list()
-        for node in node_mln_list:
+        for node in self.node_mln_list:
+            # if node.prefix_is_invalid_keyword()[0]:
+            #     continue
             svm_feature_line_list.append(node.get_svm_feature_line())
         return svm_feature_line_list
 
     def get_fgm_feature_line_list(self):
         fgm_feature_line_list = []
+        invalid_email_feature_list = []
         for node in self.node_mln_list:
+            if node.prefix_is_invalid_keyword()[0]:
+                invalid_email_feature_list.append(node.get_fgm_feature_line())
             fgm_feature_line_list.append(node.get_fgm_feature_line())
 
         import random
         r = random.randint(1, 10)
-        if r < 4:
-            fgm_feature_line_list = [feature_line.replace('+', '?') for feature_line in fgm_feature_line_list]
+        token = '+'
+        if r < 3:
+            token = '?'
+        test_feature_list = []
+        invalid_email_feature_list = []
+        for feature_line in fgm_feature_line_list:
+            if feature_line not in invalid_email_feature_list:
+                feature_line = feature_line.replace('+', token)
+            test_feature_list.append(feature_line)
 
-        return fgm_feature_line_list
+        return test_feature_list
 
     def write_mln_evidence_file(self):
         # 每个节点写对应的 MLN data 文件
