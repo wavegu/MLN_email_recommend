@@ -43,14 +43,16 @@ class PersonMLN:
 
     # 预处理google_item文件，将item中多个email地址的情况拆分成多个item，item中加上id
     def get_processed_google_item_list(self):
-
         # 输入是一个google_item_dict，输出是一个item_dict_list
         def item_to_item_list(google_item_dict):
+            global global_node_id
             import copy
             new_item_list = []
             email_addr_list = google_item_dict['email_addr_list']
             for email in email_addr_list:
+                global_node_id += 1
                 new_item_dict = copy.copy(google_item_dict)
+                new_item_dict['id'] = str(global_node_id)
                 new_item_dict.pop('email_addr_list')
                 new_item_dict['email_addr'] = email.lower()
                 new_item_dict['person_name'] = self.name
@@ -79,39 +81,41 @@ class PersonMLN:
 
     def get_node_mln_list(self):
         global global_node_id
-        self.node_mln_list = []
         email_item_dict = {}
+        self.node_mln_list = []
         processed_item_list = self.get_processed_google_item_list()
+        self.node_mln_list = [NodeMLN(item_dict, self.aff_word_list) for item_dict in processed_item_list]
+        # # 合并同email的node
         for item_dict in processed_item_list:
             if item_dict['email_addr'] not in email_item_dict:
                 email_item_dict[item_dict['email_addr']] = [item_dict]
             else:
                 email_item_dict[item_dict['email_addr']].append(item_dict)
-        # 合并同email的node
-        for email, item_list in email_item_dict.items():
-            global_node_id += 1
-            item_list[0]['id'] = global_node_id
-            candidate_node = NodeMLN(item_list[0], self.aff_word_list)
-            is_title_contain_name = candidate_node.google_title_contain_name()
-            is_content_contain_name = candidate_node.google_content_contain_name()
-            is_title_contain_aff = candidate_node.google_title_contain_aff_word()
-            is_content_contain_aff = candidate_node.google_content_contain_aff_word()
-            for another_item in item_list[1:]:
-                another_item['id'] = global_node_id
-                tem_node = NodeMLN(another_item, self.aff_word_list)
-                if not is_title_contain_aff and tem_node.google_title_contain_aff_word()[0]:
-                    candidate_node.google_title += ' ' + self.aff_word_list[0].lower()
-                    is_title_contain_aff = True
-                if not is_title_contain_name and tem_node.google_title_contain_name()[0]:
-                    candidate_node.google_title += tem_node.person_name
-                    is_title_contain_name = True
-                if not is_content_contain_aff and tem_node.google_content_contain_aff_word()[0]:
-                    candidate_node.google_content += ' ' + self.aff_word_list[0].lower()
-                    is_content_contain_aff = True
-                if not is_content_contain_name and tem_node.google_content_contain_name()[0]:
-                    candidate_node.google_content += tem_node.person_name
-                    is_content_contain_name = True
-            self.node_mln_list.append(candidate_node)
+        # for email, item_list in email_item_dict.items():
+        #     global_node_id += 1
+        #     item_list[0]['id'] = global_node_id
+        #     candidate_node = NodeMLN(item_list[0], self.aff_word_list)
+        #     candidate_node.addr_repeat_time = len(item_list) - 1
+        #     is_title_contain_name = candidate_node.google_title_contain_name()
+        #     is_content_contain_name = candidate_node.google_content_contain_name()
+        #     is_title_contain_aff = candidate_node.google_title_contain_aff_word()
+        #     is_content_contain_aff = candidate_node.google_content_contain_aff_word()
+        #     for another_item in item_list[1:]:
+        #         another_item['id'] = global_node_id
+        #         tem_node = NodeMLN(another_item, self.aff_word_list)
+        #         if not is_title_contain_aff and tem_node.google_title_contain_aff_word()[0]:
+        #             candidate_node.google_title += ' ' + self.aff_word_list[0].lower()
+        #             is_title_contain_aff = True
+        #         if not is_title_contain_name and tem_node.google_title_contain_name()[0]:
+        #             candidate_node.google_title += tem_node.person_name
+        #             is_title_contain_name = True
+        #         if not is_content_contain_aff and tem_node.google_content_contain_aff_word()[0]:
+        #             candidate_node.google_content += ' ' + self.aff_word_list[0].lower()
+        #             is_content_contain_aff = True
+        #         if not is_content_contain_name and tem_node.google_content_contain_name()[0]:
+        #             candidate_node.google_content += tem_node.person_name
+        #             is_content_contain_name = True
+        #     self.node_mln_list.append(candidate_node)
 
         return self.node_mln_list
 
@@ -131,10 +135,10 @@ class PersonMLN:
                     continue
                 # if node.prefix == another_node.prefix and node.domain != another_node.domain and not node.prefix_is_invalid_keyword()[0]:
                 #     binary_relationship_list.append(node.grounding_string_binary('same_prefix', another_node.node_name))
-                # if node.domain == another_node.domain and node.prefix != another_node.prefix:
-                #     binary_relationship_list.append(node.grounding_string_binary('same_domain', another_node.node_name))
-                # if node.domain == another_node.domain and node.prefix != another_node.prefix and another_node.prefix_is_invalid_keyword()[0]:
-                #     binary_relationship_list.append(node.grounding_string_binary('same_domain_with_invalid', another_node.node_name))
+                if node.domain == another_node.domain and node.prefix == another_node.prefix:
+                    binary_relationship_list.append(node.grounding_string_binary('same_addr', another_node.node_name))
+                if (node.domain == another_node.domain or node.domain in another_node.domain or another_node.domain in node.domain) and node.prefix != another_node.prefix and another_node.prefix_is_invalid_keyword()[0]:
+                    binary_relationship_list.append(node.grounding_string_binary('same_domain_with_invalid', another_node.node_name))
                 if node.prefix != another_node.prefix and (another_node.prefix in node.prefix or node.prefix in another_node.prefix):
                     big_node = node
                     small_node = another_node
@@ -144,6 +148,13 @@ class PersonMLN:
                     remain_prefix = del_a_from_b(small_node.prefix, big_node.prefix)
                     if remain_prefix[0] in big_node.first_char_list:
                         binary_relationship_list.append(node.grounding_string_binary('a_contain_prefix_b', another_node.node_name))
+                if node.prefix == another_node.prefix and node.domain != another_node.domain and not node.prefix_is_invalid_keyword()[0]:
+                        binary_relationship_list.append(node.grounding_string_binary('same_prefix', another_node.node_name))
+
+            if node.addr_repeat_time > 2:
+                binary_relationship_list.append(node.grounding_string_binary('addr_repeat_over_3', node.node_name))
+            # elif node.addr_repeat_time > 0:
+            #     binary_relationship_list.append(node.grounding_string_binary('addr_repeat_under_2', node.node_name))
         return binary_relationship_list
 
     def get_svm_feature_line_list(self):
@@ -163,7 +174,7 @@ class PersonMLN:
             fgm_feature_line_list.append(node.get_fgm_feature_line())
 
         import random
-        r = random.randint(1, 10)
+        r = random.randint(1, 12)
         token = '+'
         if r < 3:
             token = '?'

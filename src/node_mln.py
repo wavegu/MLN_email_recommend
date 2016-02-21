@@ -8,6 +8,7 @@ sys.setdefaultencoding('utf8')
 class NodeMLN:
 
     def __init__(self, google_item_dict, aff_word_list):
+        self.addr_repeat_time = 0
         self.aff_word_list = aff_word_list
         self.item_dict = google_item_dict
         self.label = str(google_item_dict['label'])
@@ -61,7 +62,7 @@ class NodeMLN:
         return is_contain_first_name, self.grounding_string_unary('prefix_contain_first_name', is_contain_first_name)
 
     def prefix_is_invalid_keyword(self):
-        invalid_keyword_list = ['email', 'info', 'mailto']
+        invalid_keyword_list = ['email', 'info', 'mailto', 'lastname', 'name']
         is_invalid_prefix = False
         for invalid_keyword in invalid_keyword_list:
             if self.prefix == invalid_keyword:
@@ -122,6 +123,14 @@ class NodeMLN:
         is_contain_name = self.person_name in self.google_content
         return is_contain_name, self.grounding_string_unary('google_content_contain_name', is_contain_name)
 
+    def domain_contain_aff_word(self):
+        is_domain_contain_aff_word = False
+        for aff_word in self.aff_word_list:
+            if aff_word.lower() in self.domain:
+                is_domain_contain_aff_word = True
+                break
+        return is_domain_contain_aff_word, ''
+
     def get_unary_groundings(self):
         grounding_list = [
             self.prefix_contain_last_name(),
@@ -137,15 +146,16 @@ class NodeMLN:
             self.google_content_contain_first_name(),
 
             self.google_title_contain_name(),
-            # self.google_content_contain_name(),
+            self.google_content_contain_name(),
 
             self.prefix_contain_all_first_char(),
-            # self.prefix_contained_in_name_part_with_first_char(),
+            self.prefix_contained_in_name_part_with_first_char(),
 
             self.google_title_contain_aff_word(),
             self.google_content_contain_aff_word(),
 
-            self.prefix_is_invalid_keyword()
+            self.prefix_is_invalid_keyword(),
+            self.domain_contain_aff_word()
         ]
         return grounding_list
 
